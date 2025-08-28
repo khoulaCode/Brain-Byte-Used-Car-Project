@@ -70,7 +70,7 @@ Your project will be judged on:
 
 ```bash
 git clone https://github.com/khoulaCode/Brain-Byte-Used-Car-Project
-cd used-car-price-prediction
+cd Brain-Byte-Used-Car-Project
 ```
 
 ### 2. Install Dependencies
