@@ -1,6 +1,4 @@
-Perfect! Here’s a **README.md outline** tailored for your GitHub repo — clean, motivating, and competition-ready:
 
----
 
 # 🚗 Used Car Price Prediction
 
@@ -9,7 +7,6 @@ This project is designed to help you **level up your end-to-end data science ski
 
 Each team will complete the **entire workflow** and compete to see who can engineer the best features and achieve the **highest R² score**.
 
----
 
 ## 📌 Project Overview
 
@@ -25,7 +22,6 @@ Each team will complete the **entire workflow** and compete to see who can engin
   * Streamlit app development
   * Team collaboration & presentation
 
----
 
 ## 🛠 Workflow
 
@@ -56,7 +52,7 @@ Each team will complete the **entire workflow** and compete to see who can engin
    * Share your process, challenges, and results.
    * Compete based on **model accuracy, feature creativity, and app usability**.
 
----
+
 
 ## 📊 Evaluation Criteria
 
@@ -67,7 +63,6 @@ Your project will be judged on:
 3. **User Interface** – usability, clarity, and design.
 4. **Collaboration & Presentation** – documentation and delivery.
 
----
 
 ## 🚀 Getting Started
 
@@ -90,7 +85,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
----
+
 
 ## 📂 Suggested Repository Structure
 
@@ -104,7 +99,7 @@ streamlit run app.py
 └── LICENSE  
 ```
 
----
+
 
 ## 🏆 The Challenge
 
