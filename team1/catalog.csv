@@ -1,0 +1,3097 @@
+brand,model,year,color,transmission_type,number_of_doors,source,kilometers,price
+porsche,taycan,2021,white,automatic,4/5,company source,43000,39900.0
+porsche,cayenne,2019,purple,automatic,4/5,company source,58000,28000.0
+toyota,land cruiser,2022,white,manual,4/5,gcc,155274,24500.0
+kia,k8,2024,white,automatic,4/5,gcc,5491,12500.0
+toyota,rav 4,2017,white,automatic,4/5,gcc,165989,6200.0
+mercedes,gle 450 amg,2020,blue,automatic,4/5,us,60000,20200.0
+mazda,6,2022,blue,automatic,4/5,gcc,87000,6000.0
+lincoln,continental,2020,gold,automatic,4/5,us,39000,7400.0
+chevrolet,tahoe,2021,white,automatic,4/5,us,95000,17500.0
+hyundai,santa fe,2020,white,automatic,4/5,us,77000,7500.0
+range rover,range rover sport,2016,blue,manual,4/5,gcc,109000,13500.0
+bmw,x5,2009,black,automatic,4/5,gcc,139400,2200.0
+gmc,sierra,2022,silver,automatic,2/3,gcc,23000,18900.0
+lexus,nx,2023,gold,automatic,4/5,us,52800,14200.0
+toyota,corolla,2022,white,automatic,4/5,gcc,145000,6100.0
+toyota,fortuner,2022,white,automatic,4/5,gcc,121000,11900.0
+nissan,altima,2018,white,automatic,4/5,gcc,62000,4200.0
+mg,e 350,2021,brown,automatic,4/5,us,82000,16900.0
+lexus,lx 570,2021,green,automatic,4/5,gcc,115000,37900.0
+land rover,defender,2021,green,automatic,4/5,gcc,55000,29900.0
+foton,view c2,2022,white,manual,4/5,gcc,61000,5600.0
+kia,sportage,2022,white,automatic,4/5,gcc,110000,6200.0
+hyundai,elantra,2021,white,automatic,4/5,gcc,80000,5300.0
+kia,sportage,2023,brown,automatic,4/5,gcc,3383,8500.0
+infiniti,q50,2023,blue,automatic,4/5,gcc,39694,14000.0
+suzuki,grand vitara,2020,white,automatic,4/5,gcc,190000,3300.0
+gmc,sierra,2024,white,automatic,2/3,gcc,30000,21900.0
+mercedes,s 450,2019,beige,automatic,4/5,us,55000,17700.0
+hyundai,avanti,2021,white,automatic,4/5,us,171000,5100.0
+toyota,camry,2018,blue,automatic,4/5,us,173000,6500.0
+toyota,rav 4,2022,white,automatic,4/5,us,36000,8200.0
+cadillac,escalade,2016,brown,automatic,4/5,gcc,172898,12500.0
+hyundai,elantra,2022,white,automatic,4/5,us,49000,5200.0
+gmc,sierra,2018,brown,automatic,4/5,canada,110000,7800.0
+lexus,lxseries,2020,white,automatic,4/5,us,141892,30550.0
+chevrolet,suburban,2017,gold,automatic,4/5,gcc,127000,9900.0
+infiniti,other,2017,white,automatic,4/5,gcc,145000,7900.0
+lexus,gxseries,2017,white,automatic,4/5,gcc,140000,11900.0
+lexus,gxseries,2022,red,automatic,4/5,gcc,54000,22800.0
+toyota,corolla,2018,white,automatic,4/5,gcc,261000,5200.0
+land rover,defender,2021,white,automatic,4/5,gcc,83000,27800.0
+toyota,land cruiser,2020,grey,automatic,4/5,gcc,147000,22900.0
+toyota,highlander,2017,white,automatic,4/5,us,139000,7300.0
+infiniti,qx80,2023,grey,automatic,4/5,us,29000,20500.0
+toyota,corolla,2017,burgundy,automatic,4/5,us,45000,3300.0
+volkswagen,passat,2018,black,automatic,4/5,us,75000,6000.0
+bmw,x5,2014,white,automatic,4/5,gcc,165000,6900.0
+land rover,range rover velar,2022,other,automatic,4/5,us,32000,19400.0
+chevrolet,tahoe,2024,silver,automatic,4/5,gcc,11000,24500.0
+jeep,wrangler,2019,red,automatic,4/5,us,51000,9300.0
+nissan,patrol,2016,white,automatic,4/5,gcc,254000,7800.0
+land rover,evoque,2020,white,automatic,4/5,company source,31667,16000.0
+hyundai,tucson,2012,white,automatic,4/5,gcc,300000,1950.0
+nissan,pathfinder,2016,black,automatic,4/5,gcc,190000,4999.0
+dodge,charger,2021,blue,automatic,4/5,us,71000,6500.0
+mercedes,c 300,2024,white,automatic,4/5,us,5000,18700.0
+mg,mg rx5,2020,blue,automatic,4/5,gcc,113500,3900.0
+gmc,sierra,2022,black,automatic,2/3,gcc,50000,18900.0
+porsche,cayenne gts,2014,white,automatic,4/5,gcc,72000,9800.0
+jetour,t2,2025,silver,automatic,4/5,gcc,24000,13200.0
+mercedes,e 350,2024,brown,automatic,4/5,us,3800,30500.0
+nissan,patrol safari,2021,beige,automatic,2/3,us,116000,14700.0
+mercedes,e 350,2024,grey,automatic,4/5,us,13000,27900.0
+bmw,x6,2015,white,automatic,4/5,gcc,91000,8000.0
+mercedes,e300,2017,blue,automatic,4/5,us,178000,7900.0
+ford,raptor,2017,red,automatic,4/5,gcc,225000,11600.0
+toyota,corolla,2022,blue,automatic,4/5,us,54000,5800.0
+mitsubishi,pajero,2011,black,automatic,2/3,us,300000,3600.0
+toyota,corolla,2018,blue,automatic,4/5,us,52000,4000.0
+toyota,avalon,2022,grey,automatic,4/5,us,42000,12000.0
+toyota,camry,2022,red,automatic,4/5,us,65000,6700.0
+toyota,land cruiser,2017,white,automatic,4/5,gcc,256000,16900.0
+honda,accord,2020,blue,automatic,4/5,us,112000,5200.0
+jeep,wrangler,2022,white,automatic,4/5,us,51000,11000.0
+toyota,4runner,2017,red,automatic,4/5,us,177000,8900.0
+gmc,yukon,2009,white,automatic,4/5,gcc,300000,2000.0
+toyota,corolla,2024,white,automatic,4/5,us,39000,6400.0
+ford,f150,2023,grey,automatic,4/5,us,64000,11500.0
+ford,expedition,2012,white,automatic,4/5,gcc,232000,2400.0
+toyota,4runner,2023,grey,automatic,4/5,us,39000,14000.0
+toyota,rav 4,2017,burgundy,automatic,4/5,us,91000,6400.0
+toyota,avalon,2019,red,automatic,4/5,us,56000,8400.0
+nissan,altima,2023,black,automatic,4/5,us,20000,8200.0
+mercedes,e300,2017,silver,automatic,4/5,us,66000,9300.0
+nissan,altima,2020,red,automatic,4/5,us,130000,4900.0
+toyota,highlander,2018,grey,automatic,4/5,us,172000,7900.0
+gmc,sierra,2018,white,automatic,2/3,us,164000,7800.0
+infiniti,qx80,2019,white,automatic,4/5,us,159000,9600.0
+toyota,camry,2017,blue,automatic,4/5,us,276000,4400.0
+chevrolet,suburban,2017,red,automatic,4/5,us,113000,9800.0
+toyota,corolla,2020,black,automatic,4/5,us,145000,4200.0
+jeep,ghibli,2015,red,automatic,4/5,gcc,99000,5000.0
+toyota,highlander,2018,burgundy,automatic,4/5,us,162000,8400.0
+chevrolet,suburban,2017,black,automatic,4/5,us,186000,9400.0
+jeep,wrangler,2023,white,automatic,2/3,us,36000,10000.0
+bmw,428,2015,white,automatic,4/5,europe,246000,3400.0
+chevrolet,tahoe,2011,blue,automatic,4/5,us,26300,3600.0
+audi,a8,2016,silver,automatic,4/5,gcc,11600,8600.0
+lexus,es 350,2019,red,automatic,4/5,us,59000,12300.0
+toyota,rav 4,2016,silver,automatic,4/5,us,99000,5800.0
+honda,accord,2022,other,automatic,4/5,us,61000,6900.0
+honda,accord,2019,red,automatic,4/5,us,95000,5500.0
+lexus,is 300,2016,silver,automatic,4/5,gcc,170000,4950.0
+ford,edge,2017,red,automatic,4/5,gcc,69000,5200.0
+porsche,cayenne,2018,blue,automatic,4/5,gcc,69000,17900.0
+audi,s3/rs3,2018,black,automatic,4/5,gcc,73000,14300.0
+lexus,es 350,2019,black,automatic,4/5,us,147000,10800.0
+kia,rio,2019,white,automatic,4/5,gcc,183000,4800.0
+bmw,430i,2023,burgundy,automatic,4/5,gcc,20000,23500.0
+land rover,range rover velar,2018,silver,automatic,4/5,gcc,50000,8950.0
+mercedes,c 63 amg,2016,white,automatic,4/5,us,100000,9950.0
+porsche,cayenne,2015,silver,automatic,4/5,gcc,20000,8300.0
+mercedes,gt class,2021,silver,automatic,4/5,gcc,50000,33500.0
+mercedes,e 63 amg,2020,grey,automatic,4/5,us,50000,22500.0
+toyota,land cruiser,2011,white,manual,4/5,gcc,1111,9500.0
+mercedes,gle 53 coupe amg,2024,white,automatic,4/5,us,18000,39900.0
+mercedes,gle 450 amg,2023,grey,automatic,4/5,us,34000,26900.0
+mercedes,glc 300,2020,white,automatic,4/5,us,66000,13800.0
+jeep,gladiator,2023,blue,automatic,4/5,us,13000,14300.0
+nissan,altima,2019,white,automatic,4/5,us,128734,4450.0
+toyota,camry,2023,grey,automatic,4/5,gcc,3932,10950.0
+nissan,versa,2012,white,automatic,4/5,us,129014,1550.0
+lincoln,mkz,2017,gold,automatic,4/5,us,131218,4750.0
+toyota,fortuner,2022,white,automatic,4/5,us,97667,12750.0
+infiniti,q50,2017,silver,automatic,4/5,us,199825,4450.0
+hyundai,elantra,2021,black,automatic,4/5,us,131170,5150.0
+toyota,camry,2022,grey,automatic,4/5,us,42281,8250.0
+nissan,altima,2020,grey,automatic,4/5,us,120905,4450.0
+lincoln,mkz,2019,other,automatic,4/5,us,95542,4350.0
+nissan,sentra,2021,burgundy,automatic,4/5,us,95542,4350.0
+nissan,altima,2021,grey,automatic,4/5,us,50936,5250.0
+toyota,prado,2013,gold,automatic,4/5,gcc,287473,7150.0
+toyota,rav 4,2016,blue,automatic,4/5,us,171346,4550.0
+toyota,corolla,2020,silver,automatic,4/5,us,124313,4350.0
+kia,telluride,2022,white,automatic,4/5,gcc,17238,9550.0
+ford,f150,2020,grey,automatic,4/5,us,109448,8750.0
+toyota,camry,2017,white,automatic,4/5,us,186450,4350.0
+nissan,armada,2017,other,automatic,4/5,us,92505,7950.0
+kia,sportage,2024,white,automatic,4/5,gcc,60000,7700.0
+renault,duster,2022,white,automatic,4/5,gcc,130000,3450.0
+kia,sportage,2022,red,automatic,4/5,gcc,116000,6200.0
+kia,optima,2006,black,automatic,4/5,gcc,365000,750.0
+foton,view c2,2020,white,manual,4/5,gcc,45000,5500.0
+toyota,hiace,2023,white,manual,4/5,gcc,64000,8200.0
+hyundai,creta,2022,silver,automatic,4/5,gcc,150000,5500.0
+mitsubishi,pickup,2020,white,manual,4/5,gcc,70000,6600.0
+isuzu,reward,2019,white,manual,4/5,gcc,150000,5850.0
+renault,duster,2021,white,automatic,4/5,gcc,72000,3500.0
+renault,duster,2018,white,automatic,4/5,gcc,131000,2100.0
+toyota,fortuner,2020,white,automatic,4/5,gcc,146000,9750.0
+toyota,fortuner,2021,white,automatic,4/5,gcc,107999,11200.0
+nissan,sunny,2022,white,automatic,4/5,gcc,120000,3750.0
+mercedes,gle 450,2022,beige,automatic,4/5,us,36000,22900.0
+mercedes,gle 350,2020,black,automatic,4/5,us,60000,17300.0
+mercedes,c 300,2023,white,automatic,4/5,us,6000,18300.0
+mercedes,e 450,2021,grey,automatic,4/5,us,45000,18700.0
+mercedes,e300,2018,blue,automatic,4/5,us,46000,10300.0
+lexus,es 350,2021,grey,automatic,4/5,us,3500,12900.0
+lexus,es 350,2019,grey,automatic,4/5,us,55000,11500.0
+mercedes,gle 350,2020,white,automatic,4/5,us,85000,20900.0
+jeep,wrangler,2020,grey,automatic,4/5,gcc,140000,10000.0
+range rover,range rover sport,2017,silver,automatic,4/5,gcc,182603,9500.0
+toyota,fortuner,2017,white,automatic,4/5,gcc,117927,8700.0
+gac,gs 8,2020,blue,automatic,4/5,gcc,106183,5500.0
+kia,sonet,2021,white,automatic,4/5,gcc,8175,6200.0
+ford,territory,2023,white,automatic,4/5,gcc,16244,10500.0
+toyota,camry,2017,white,automatic,4/5,gcc,112994,5500.0
+gac,ga 8,2020,white,automatic,4/5,gcc,16660,5999.0
+gac,gs 4,2021,white,automatic,4/5,gcc,15754,4200.0
+gac,gn 8,2020,white,automatic,4/5,gcc,13163,6500.0
+lincoln,other,2020,grey,automatic,4/5,gcc,75000,10900.0
+hyundai,elantra,2020,black,automatic,4/5,us,30000,3600.0
+hyundai,veloster,2019,grey,automatic,2/3,us,57000,4300.0
+hyundai,elantra,2019,blue,automatic,4/5,us,140000,3700.0
+hyundai,elantra,2021,red,automatic,4/5,us,53000,4400.0
+toyota,rav 4,2021,white,automatic,4/5,us,48000,6300.0
+hyundai,elantra,2018,white,automatic,4/5,us,92000,2800.0
+hyundai,sonata,2019,white,automatic,4/5,us,103000,3900.0
+infiniti,qx80,2020,blue,automatic,4/5,us,84000,10700.0
+nissan,patrol,2015,white,automatic,4/5,gcc,247000,6900.0
+gmc,terrain,2020,grey,automatic,4/5,gcc,96000,6900.0
+range rover,range rover sport,2023,white,automatic,4/5,canada,19000,39900.0
+toyota,hilux,2024,white,automatic,4/5,gcc,24000,15300.0
+chevrolet,silverado,2023,black,automatic,4/5,gcc,94000,22800.0
+toyota,yaris,2019,silver,automatic,4/5,gcc,91999,4600.0
+bmw,316,2015,white,automatic,4/5,gcc,185000,4900.0
+toyota,prado,2019,silver,automatic,4/5,gcc,114000,14900.0
+mg,200,2017,brown,automatic,4/5,gcc,204000,6900.0
+jeep,grand cherokee,2017,black,automatic,4/5,gcc,173000,7700.0
+toyota,land cruiser,2018,grey,automatic,4/5,gcc,147000,17900.0
+ram,ram,2015,red,automatic,4/5,gcc,127000,7900.0
+nissan,kicks,2019,white,automatic,4/5,gcc,99000,4900.0
+toyota,land cruiser,2021,white,automatic,4/5,gcc,136000,24900.0
+range rover,range rover vogue,2015,purple,automatic,4/5,gcc,171000,11900.0
+jeep,wrangler,2019,silver,automatic,4/5,gcc,73000,12900.0
+jeep,wrangler,2020,blue,automatic,4/5,gcc,94000,13900.0
+toyota,yaris,2019,white,automatic,4/5,gcc,147000,4500.0
+suzuki,swift,2019,white,automatic,4/5,gcc,121000,3700.0
+gmc,sierra,2022,blue,automatic,4/5,gcc,32000,24900.0
+hyundai,sonata,2016,brown,automatic,4/5,us,141000,2650.0
+mazda,6,2020,white,automatic,4/5,gcc,64000,6600.0
+nissan,patrol,2021,white,automatic,4/5,gcc,44000,17900.0
+nissan,patrol,2022,white,manual,2/3,gcc,66000,17900.0
+jeep,grand cherokee,2016,red,automatic,4/5,gcc,148000,6900.0
+nissan,patrol,2016,gold,automatic,4/5,gcc,12900,11900.0
+hyundai,creta,2023,grey,automatic,4/5,gcc,59000,6300.0
+mazda,6,2022,red,automatic,4/5,gcc,61000,6900.0
+nissan,patrol,2021,black,automatic,4/5,gcc,25000,18600.0
+nissan,patrol,2022,white,automatic,4/5,gcc,45000,18900.0
+jeep,wrangler,2020,green,automatic,4/5,gcc,45000,13900.0
+jeep,wrangler,2020,red,automatic,4/5,gcc,85000,13900.0
+land rover,defender,2021,grey,automatic,4/5,gcc,165000,26900.0
+range rover,range rover,2018,white,automatic,4/5,gcc,85000,19900.0
+mini,cooper,2018,grey,automatic,2/3,gcc,55000,8800.0
+gmc,acadia,2015,gold,automatic,4/5,gcc,165000,4300.0
+honda,civic,2018,white,automatic,4/5,gcc,156000,4900.0
+gmc,sierra,2024,black,automatic,2/3,gcc,34000,21900.0
+infiniti,q70,2015,brown,automatic,4/5,gcc,137000,5900.0
+hyundai,h1,2020,white,automatic,4/5,gcc,256000,6700.0
+jeep,wrangler,2024,grey,automatic,4/5,gcc,33000,33000.0
+chevrolet,captiva,2023,brown,automatic,4/5,gcc,90000,6900.0
+lexus,es 350,2022,white,automatic,4/5,gcc,40000,16700.0
+kia,seltos,2024,green,automatic,4/5,gcc,4000,7900.0
+lexus,es 350,2020,gold,automatic,4/5,gcc,72000,14900.0
+jeep,wrangler,2023,blue,automatic,4/5,gcc,18000,16900.0
+ram,ram,2019,grey,automatic,4/5,gcc,159000,13900.0
+ram,ram,2022,burgundy,automatic,4/5,gcc,111000,16900.0
+ram,ram,2014,silver,automatic,4/5,gcc,207000,5900.0
+gmc,sierra,2019,brown,automatic,4/5,gcc,112000,15700.0
+hyundai,santa fe,2018,white,automatic,4/5,gcc,105000,5900.0
+chevrolet,tahoe,2021,white,automatic,4/5,gcc,90000,16900.0
+gmc,sierra,2017,black,automatic,4/5,gcc,48000,11900.0
+chevrolet,captiva,2023,white,automatic,4/5,gcc,46000,6700.0
+volkswagen,touareg,2022,white,automatic,4/5,gcc,70000,14900.0
+suzuki,jimny,2023,grey,automatic,2/3,gcc,44000,6900.0
+chevrolet,tahoe,2024,white,automatic,4/5,gcc,5000,26900.0
+toyota,camry,2019,white,automatic,4/5,gcc,168000,7400.0
+toyota,corolla,2019,white,automatic,4/5,gcc,223000,5600.0
+toyota,rav 4,2018,white,automatic,4/5,gcc,239000,6900.0
+toyota,corolla,2020,grey,automatic,4/5,gcc,105000,5600.0
+dodge,durango,2016,grey,automatic,4/5,gcc,153000,5900.0
+toyota,corolla,2021,grey,automatic,4/5,gcc,96000,5900.0
+nissan,maxima,2018,white,automatic,4/5,gcc,143000,7300.0
+toyota,corolla,2024,white,automatic,4/5,gcc,36000,8300.0
+suzuki,swift,2018,blue,automatic,4/5,gcc,190000,2950.0
+volkswagen,gti,2015,grey,automatic,4/5,gcc,94000,3800.0
+hyundai,accent,2024,grey,automatic,4/5,gcc,18000,5900.0
+ford,escape,2020,blue,automatic,4/5,gcc,174000,4300.0
+dodge,neon,2020,burgundy,automatic,4/5,gcc,90000,3300.0
+kia,cerato,2014,red,automatic,4/5,gcc,33000,3900.0
+lexus,es 350,2015,white,automatic,4/5,gcc,65000,6900.0
+nissan,maxima,2015,white,automatic,4/5,gcc,230000,2900.0
+jeep,cherokee,2014,burgundy,automatic,4/5,gcc,129000,3800.0
+volvo,xc90,2016,blue,automatic,4/5,gcc,121000,8800.0
+honda,city,2023,silver,automatic,4/5,gcc,25000,5500.0
+kia,rio,2015,white,automatic,4/5,gcc,104000,2800.0
+kia,sportage,2017,white,automatic,4/5,gcc,120000,5800.0
+peugeot,208,2016,white,automatic,4/5,gcc,191000,1800.0
+ford,mustang,2017,white,manual,2/3,gcc,125000,8800.0
+nissan,patrol,2014,grey,automatic,4/5,gcc,312896,8200.0
+ford,explorer,2016,brown,automatic,4/5,gcc,184059,6900.0
+toyota,corolla cross,2022,white,automatic,4/5,gcc,145000,6200.0
+mazda,3,2020,black,automatic,4/5,us,180989,4600.0
+mazda,6,2021,brown,automatic,4/5,gcc,117000,5300.0
+hyundai,azera,2017,silver,automatic,4/5,gcc,47000,4200.0
+hyundai,santa fe,2017,silver,automatic,4/5,gcc,190000,4400.0
+ford,f150,2019,silver,automatic,4/5,us,125893,8700.0
+hyundai,sonata,2020,white,automatic,4/5,us,198650,5800.0
+infiniti,q50,2017,blue,automatic,4/5,us,209865,3650.0
+subaru,legacy,2016,blue,automatic,4/5,gcc,190865,3900.0
+hyundai,accent,2016,white,automatic,4/5,gcc,190685,1900.0
+honda,odyssey,2022,white,automatic,4/5,gcc,45326,12500.0
+nissan,pathfinder,2020,white,automatic,4/5,gcc,103000,5600.0
+volkswagen,tivoli,2020,red,automatic,4/5,gcc,135000,2500.0
+lexus,rc 350,2015,white,automatic,2/3,us,10000,5800.0
+toyota,prado,2019,white,automatic,4/5,gcc,126980,13300.0
+nissan,armada,2019,silver,automatic,4/5,us,145826,12800.0
+ford,fusion,2012,burgundy,automatic,4/5,gcc,325361,1550.0
+toyota,land cruiser,2020,white,automatic,4/5,gcc,126358,20700.0
+toyota,avalon,2019,silver,automatic,4/5,us,109899,7650.0
+nissan,pajero,2016,beige,automatic,4/5,gcc,156832,4700.0
+suzuki,ertiga,2020,white,automatic,4/5,gcc,256000,3000.0
+toyota,rav 4,2021,grey,automatic,4/5,us,75369,8400.0
+nissan,patrol,2018,gold,automatic,4/5,gcc,156898,10900.0
+toyota,land cruiser,2016,burgundy,automatic,4/5,gcc,196830,16300.0
+toyota,camry,2018,silver,automatic,4/5,us,135246,4700.0
+volkswagen,tiguan,2016,brown,automatic,4/5,gcc,159006,2900.0
+volkswagen,tiguan,2017,white,automatic,4/5,gcc,95000,4700.0
+chevrolet,aveo,2019,white,automatic,4/5,gcc,123000,2200.0
+nissan,kicks,2018,orange,automatic,4/5,gcc,95680,3600.0
+jeep,compass,2020,white,automatic,4/5,gcc,78000,6400.0
+nissan,sentra,2019,white,automatic,4/5,gcc,160000,2800.0
+ford,fusion,2016,blue,automatic,4/5,gcc,200000,2900.0
+chevrolet,trax,2019,gold,automatic,4/5,gcc,101000,3100.0
+toyota,fj cruiser,2007,burgundy,automatic,4/5,us,352890,3650.0
+renault,koleos,2022,white,automatic,4/5,gcc,114000,4400.0
+toyota,avalon,2008,black,automatic,4/5,us,265830,1700.0
+ford,edge,2021,silver,automatic,4/5,gcc,87000,6800.0
+mitsubishi,asx,2024,white,automatic,4/5,gcc,2000,6500.0
+gmc,other,2017,silver,automatic,4/5,gcc,165328,3700.0
+hyundai,santa fe,2017,red,automatic,4/5,gcc,163809,4300.0
+nissan,altima,2020,other,automatic,4/5,us,40368,4700.0
+suzuki,grand vitara,2018,brown,automatic,4/5,gcc,185098,3550.0
+hyundai,elantra,2020,brown,automatic,4/5,gcc,107000,4400.0
+mitsubishi,pajero,2019,white,automatic,4/5,gcc,189000,6500.0
+toyota,corolla,2020,blue,automatic,4/5,us,208793,4500.0
+kia,pegas,2022,white,automatic,4/5,gcc,106000,3500.0
+nissan,sunny,2021,white,automatic,4/5,gcc,107000,3600.0
+kia,optima,2020,silver,automatic,4/5,gcc,144000,4300.0
+hyundai,elantra,2018,silver,automatic,4/5,gcc,220000,3400.0
+hyundai,accent,2020,white,automatic,4/5,gcc,123000,3400.0
+hyundai,santa fe,2020,white,automatic,4/5,gcc,78000,7500.0
+mazda,6,2018,grey,automatic,4/5,gcc,128000,3800.0
+kia,optima,2018,white,automatic,4/5,gcc,178000,3400.0
+toyota,land cruiser,2010,white,automatic,4/5,gcc,412568,8700.0
+toyota,camry,2014,grey,automatic,4/5,us,358009,2800.0
+toyota,land cruiser,2023,grey,automatic,4/5,gcc,10000,29900.0
+jeep,laredo,2016,grey,automatic,4/5,gcc,110000,6200.0
+fiat,500,2015,white,automatic,2/3,gcc,172850,1850.0
+toyota,prado,2021,white,automatic,4/5,gcc,159000,14700.0
+nissan,maxima,2013,silver,automatic,4/5,gcc,160009,2100.0
+chevrolet,silverado,2021,grey,automatic,4/5,us,158965,9700.0
+ford,edge,2014,black,automatic,4/5,gcc,20000,2600.0
+toyota,rav 4,2016,red,automatic,4/5,us,108529,4900.0
+cadillac,sts,2017,white,automatic,2/3,gcc,17000,3900.0
+toyota,fortuner,2013,beige,automatic,4/5,gcc,20800,5400.0
+ford,edge,2014,orange,automatic,4/5,gcc,17000,3000.0
+chrysler,300m/300c,2016,grey,automatic,4/5,us,200008,3600.0
+mitsubishi,outlander,2019,white,automatic,4/5,gcc,115000,5500.0
+hyundai,tucson,2023,silver,automatic,4/5,gcc,23000,9500.0
+renault,megan,2019,gold,automatic,4/5,gcc,111000,2300.0
+mazda,2,2018,white,automatic,4/5,gcc,115000,2800.0
+hyundai,santa fe,2016,beige,automatic,4/5,gcc,112000,4800.0
+renault,megan,2021,white,automatic,4/5,gcc,46000,3100.0
+chevrolet,malibu,2018,white,automatic,4/5,gcc,116000,3800.0
+gmc,acadia,2018,silver,automatic,4/5,gcc,133000,6100.0
+honda,accord,2019,white,automatic,4/5,us,110000,5200.0
+chevrolet,tahoe,2018,silver,automatic,4/5,gcc,100000,12700.0
+porsche,macan,2017,gold,automatic,4/5,gcc,149000,9400.0
+toyota,camry,2020,grey,automatic,4/5,us,60000,5800.0
+chevrolet,tahoe,2021,grey,automatic,4/5,us,94000,14900.0
+honda,civic,2019,white,automatic,4/5,gcc,88000,4500.0
+chery,tiggo,2016,red,automatic,4/5,gcc,95000,1550.0
+toyota,hiace,2017,white,manual,4/5,gcc,280000,8000.0
+mitsubishi,l200,2018,white,manual,4/5,gcc,198000,4500.0
+toyota,coaster,2022,white,manual,2/3,gcc,80000,19900.0
+fuso,fuso rosa,2021,white,manual,2/3,gcc,500000,15500.0
+toyota,hilux,2019,white,manual,4/5,gcc,100000,5400.0
+renault,dokker van,2021,white,manual,2/3,gcc,92000,3800.0
+hino,other,2019,white,manual,2/3,gcc,119000,11500.0
+mitsubishi,pajero,2020,white,automatic,4/5,gcc,118000,7200.0
+mitsubishi,pajero,2019,grey,automatic,4/5,gcc,130000,6600.0
+toyota,yaris,2021,white,automatic,4/5,gcc,119000,4000.0
+fuso,fuso canter,2020,white,manual,2/3,gcc,163000,13250.0
+toyota,coaster,2020,white,manual,2/3,gcc,87000,18500.0
+kia,sportage,2018,blue,automatic,4/5,gcc,79000,3800.0
+kia,sportage,2019,white,automatic,4/5,gcc,177000,4000.0
+toyota,hilux,2022,white,manual,4/5,gcc,197000,9200.0
+mitsubishi,pickup,2019,white,manual,4/5,gcc,170000,4550.0
+mitsubishi,pickup,2021,white,manual,4/5,gcc,197000,6200.0
+man,144,2006,white,manual,2/3,gcc,300000,6500.0
+man,other,2015,white,manual,2/3,gcc,500000,23000.0
+mitsubishi,pickup,2022,white,automatic,4/5,gcc,200000,6600.0
+toyota,coaster,2014,white,manual,2/3,gcc,227000,10500.0
+ram,rav 4,2019,grey,automatic,4/5,gcc,150000,9900.0
+toyota,avalon,2016,black,automatic,4/5,gcc,139000,6900.0
+gmc,sierra,2021,red,automatic,2/3,gcc,92000,11700.0
+infiniti,q50,2017,silver,automatic,4/5,gcc,155000,3900.0
+cadillac,ct6,2019,black,automatic,4/5,gcc,93000,11900.0
+gmc,acadia,2019,silver,automatic,4/5,gcc,86000,6900.0
+toyota,corolla,2019,blue,automatic,4/5,us,46000,5200.0
+toyota,camry,2023,silver,automatic,4/5,us,39000,6400.0
+toyota,camry,2020,white,automatic,4/5,us,55000,6900.0
+toyota,camry,2019,silver,automatic,4/5,us,201600,5900.0
+infiniti,qx80,2019,grey,automatic,4/5,us,187000,10100.0
+honda,odyssey,2018,white,automatic,4/5,us,174000,7500.0
+honda,accord,2023,white,automatic,4/5,us,34000,7700.0
+toyota,fortuner,2018,grey,automatic,4/5,us,137000,9900.0
+honda,accord,2024,silver,automatic,4/5,us,6631,8600.0
+mazda,3,2023,grey,automatic,4/5,us,42000,6100.0
+mercedes,c 300,2019,white,automatic,4/5,us,116000,8900.0
+toyota,avalon,2021,red,automatic,4/5,us,48000,10600.0
+infiniti,qx80,2019,silver,automatic,4/5,us,197000,11600.0
+gmc,terrain,2019,blue,automatic,4/5,gcc,129000,5800.0
+gac,gs4,2022,white,automatic,4/5,gcc,104000,3700.0
+gmc,yukon,2017,brown,automatic,4/5,gcc,140000,10900.0
+suzuki,swift,2020,red,automatic,4/5,gcc,148000,3800.0
+nissan,altima,2022,grey,automatic,4/5,us,38000,6400.0
+nissan,pathfinder,2021,white,automatic,4/5,us,64000,13400.0
+suzuki,vitara,2020,red,automatic,4/5,gcc,118000,4400.0
+nissan,armada,2018,silver,automatic,4/5,us,105000,11300.0
+jeep,cherokee,2016,grey,automatic,4/5,gcc,140000,3900.0
+ford,f150,2021,grey,automatic,4/5,us,70000,13700.0
+chevrolet,tahoe,2018,white,automatic,4/5,us,73000,7650.0
+infiniti,qx56,2017,silver,automatic,4/5,gcc,165000,10400.0
+nissan,patrol,2018,grey,automatic,4/5,gcc,140000,12900.0
+lincoln,continental,2017,white,automatic,4/5,us,54000,5800.0
+range rover,range rover sport,2016,white,automatic,4/5,gcc,250000,11500.0
+toyota,corolla,2020,white,automatic,4/5,gcc,188000,4700.0
+hyundai,elantra,2021,white,automatic,4/5,us,54000,5200.0
+mitsubishi,pajero,2016,white,automatic,4/5,gcc,135000,6000.0
+toyota,fortuner,2023,gold,automatic,4/5,gcc,12000,18700.0
+kia,sorento,2014,grey,automatic,4/5,gcc,278000,3300.0
+toyota,sequoia,2020,black,automatic,4/5,us,83000,14800.0
+ford,f150,2020,silver,automatic,4/5,us,116000,8700.0
+toyota,tacoma,2021,red,automatic,4/5,us,128000,9500.0
+nissan,sentra,2022,black,automatic,4/5,us,48000,4900.0
+gmc,other,2004,white,automatic,4/5,gcc,42900,3300.0
+nissan,pickup,2015,white,manual,2/3,gcc,167555,2650.0
+nissan,pathfinder,2017,grey,automatic,4/5,us,202000,5650.0
+nissan,300zx,1986,silver,manual,2/3,us,200000,5800.0
+honda,civic,2022,white,automatic,4/5,us,22000,6300.0
+volkswagen,passat,2016,black,automatic,4/5,us,182000,3200.0
+ford,escape,2016,white,automatic,4/5,us,72000,3700.0
+chevrolet,tahoe,2018,silver,automatic,4/5,us,265000,8950.0
+nissan,altima,2018,grey,automatic,4/5,us,134000,2950.0
+toyota,sequoia,2017,burgundy,automatic,4/5,us,156000,9300.0
+lexus,gx 460,2021,white,automatic,4/5,us,37000,17500.0
+toyota,corolla,2017,red,automatic,4/5,us,100000,4200.0
+lexus,es 250,2021,silver,automatic,4/5,us,50000,12400.0
+hyundai,veloster,2017,white,automatic,4/5,us,50000,2650.0
+toyota,camry,2019,grey,automatic,4/5,us,50000,5950.0
+honda,civic,2019,silver,automatic,4/5,us,36800,4200.0
+lexus,gx 460,2017,silver,automatic,4/5,us,100000,11800.0
+lexus,gx 460,2018,silver,automatic,4/5,us,100000,12400.0
+toyota,corolla,2022,silver,automatic,4/5,us,5100,5650.0
+changan,alsvin,2024,beige,automatic,4/5,gcc,11000,3800.0
+porsche,taycan,2023,black,automatic,4/5,company source,11844,38500.0
+great wall,great wall wingle 7,2023,white,automatic,4/5,gcc,25000,4300.0
+dodge,ram,2019,blue,automatic,4/5,gcc,165000,5900.0
+nissan,patrol safari,2020,gold,automatic,2/3,gcc,166000,12700.0
+nissan,patrol,2017,white,automatic,4/5,gcc,166000,10900.0
+porsche,cayenne,2014,silver,automatic,4/5,gcc,201000,7800.0
+mg,gla 35 amg,2020,red,automatic,4/5,us,98000,15600.0
+toyota,land cruiser,2019,white,automatic,4/5,gcc,99000,23500.0
+gmc,sierra,2016,silver,automatic,2/3,gcc,240000,7800.0
+lexus,nx,2023,white,automatic,4/5,us,29000,15500.0
+toyota,land cruiser,2023,white,automatic,4/5,gcc,68000,21900.0
+toyota,land cruiser,2017,blue,automatic,4/5,gcc,176000,17900.0
+mercedes,s500,2015,other,automatic,4/5,us,100000,9500.0
+infiniti,qx80,2022,other,automatic,4/5,us,25000,17500.0
+toyota,land cruiser,2018,white,automatic,2/3,gcc,110000,9200.0
+nissan,altima,2022,other,automatic,4/5,us,87000,4800.0
+jeep,wrangler,2019,silver,automatic,4/5,us,174000,11400.0
+toyota,fj cruiser,2019,white,automatic,4/5,gcc,246000,9900.0
+suzuki,dzire,2022,brown,automatic,4/5,gcc,107000,3200.0
+toyota,yaris,2017,white,automatic,4/5,gcc,163000,3600.0
+bmw,x5,2016,white,automatic,4/5,gcc,132000,7200.0
+mazda,6,2023,silver,automatic,4/5,gcc,21300,7700.0
+nissan,altima,2019,black,automatic,4/5,us,78000,3900.0
+ford,f150,2022,blue,automatic,4/5,us,118000,12900.0
+ford,raptor,2022,white,automatic,4/5,us,75000,27600.0
+toyota,camry,2018,red,automatic,4/5,us,100000,4800.0
+mercedes,c 300,2018,white,automatic,4/5,us,100000,6000.0
+ford,expedition,2019,silver,automatic,4/5,gcc,112000,13500.0
+toyota,hilux,2022,white,automatic,4/5,gcc,236000,9000.0
+mitsubishi,canter,2023,white,automatic,2/3,gcc,67000,9500.0
+toyota,land cruiser,2015,white,automatic,4/5,gcc,263000,9300.0
+toyota,hilux,2021,white,automatic,2/3,gcc,171000,7600.0
+toyota,corolla,2020,silver,automatic,4/5,gcc,135000,4200.0
+suzuki,vitara,2016,brown,automatic,4/5,gcc,119000,2400.0
+subaru,forester,2018,white,automatic,4/5,gcc,200000,3500.0
+mg,mg 5,2022,white,automatic,4/5,gcc,131700,2800.0
+mg,mg rx5,2022,blue,automatic,4/5,gcc,226489,3500.0
+kia,sportage,2019,blue,automatic,4/5,gcc,205000,3500.0
+mitsubishi,l200,2021,white,manual,4/5,gcc,191000,5200.0
+nissan,patrol,2019,white,automatic,4/5,gcc,118000,11000.0
+kia,sportage,2019,grey,automatic,4/5,gcc,204000,3500.0
+mitsubishi,l200,2021,white,automatic,4/5,gcc,130000,5900.0
+nissan,sunny,2020,white,automatic,4/5,gcc,150000,2300.0
+range rover,range rover,2020,white,automatic,4/5,gcc,78000,524.0
+toyota,hilux,2021,white,manual,4/5,gcc,160000,7200.0
+hyundai,santa fe,2018,silver,automatic,4/5,gcc,187000,3700.0
+toyota,hilux,2017,white,automatic,4/5,gcc,171000,7600.0
+mitsubishi,canter,2023,white,automatic,4/5,gcc,67000,9000.0
+toyota,corolla,2019,red,automatic,4/5,gcc,80000,5900.0
+ford,explorer,2020,black,automatic,4/5,us,50000,8500.0
+infiniti,q50,2020,silver,automatic,4/5,us,50000,7500.0
+lexus,is 200,2017,blue,automatic,4/5,us,50000,6500.0
+volkswagen,passat,2019,white,automatic,4/5,us,50000,3500.0
+jeep,wrangler,2018,black,automatic,4/5,us,50000,8200.0
+toyota,sienna,2017,grey,automatic,4/5,us,50000,6000.0
+hyundai,elantra,2022,black,automatic,4/5,us,50000,5000.0
+ford,f150,2017,white,automatic,4/5,us,50000,5500.0
+porsche,macan,2024,blue,automatic,4/5,company source,1912,26500.0
+porsche,panamera turbo,2017,white,automatic,4/5,company source,2851,41900.0
+honda,civic,2021,grey,automatic,4/5,us,82000,5800.0
+mini,cooper,2021,beige,automatic,4/5,us,25000,5600.0
+ford,mustang,2024,other,automatic,2/3,gcc,7800,24900.0
+toyota,rav 4,2024,silver,automatic,4/5,us,12000,9500.0
+mercedes,glb 250,2021,white,automatic,4/5,us,69000,8900.0
+tesla,model 3,2023,white,automatic,4/5,us,16000,10900.0
+toyota,camry,2018,white,automatic,4/5,us,163159,5950.0
+toyota,fj cruiser,2023,grey,automatic,2/3,gcc,47563,14500.0
+toyota,land cruiser,2016,white,automatic,4/5,gcc,259810,16500.0
+ford,mustang,2023,white,automatic,2/3,gcc,5000,18900.0
+nissan,patrol,2020,blue,automatic,4/5,gcc,109000,17800.0
+nissan,kicks,2018,grey,automatic,4/5,gcc,401235,2700.0
+nissan,altima,2015,gold,automatic,4/5,us,20000,2400.0
+suzuki,vitara,2021,white,automatic,4/5,gcc,154000,3600.0
+ford,transit,2020,white,manual,2/3,gcc,197000,3300.0
+nissan,silvia,2018,white,manual,2/3,gcc,285000,10500.0
+nissan,altima,2019,grey,automatic,2/3,us,180000,4200.0
+mercedes,e300,2019,white,automatic,4/5,us,98000,10200.0
+honda,accord,2021,blue,automatic,4/5,us,270395,6500.0
+bmw,x5,2016,grey,automatic,4/5,gcc,180000,6500.0
+ram,ram,2019,white,automatic,4/5,us,104000,7800.0
+porsche,taycan,2022,grey,automatic,4/5,company source,17300,38500.0
+toyota,fj cruiser,2022,silver,automatic,4/5,gcc,62000,12900.0
+toyota,corolla,2020,red,automatic,4/5,us,1680,4800.0
+ford,expedition,2019,brown,automatic,4/5,us,155000,9400.0
+toyota,camry,2021,black,automatic,4/5,us,50000,8000.0
+mercedes,gle 400 coupe,2016,red,automatic,4/5,gcc,50000,10800.0
+mg,mg rx5,2021,white,automatic,4/5,gcc,75135,5000.0
+porsche,cayenne,2020,silver,automatic,4/5,gcc,58000,26900.0
+mercedes,c180,2009,white,automatic,4/5,gcc,375000,1300.0
+hyundai,accent,2013,white,automatic,4/5,gcc,328000,1280.0
+infiniti,qx80,2018,black,automatic,4/5,gcc,84000,12900.0
+land rover,range rover velar,2018,black,automatic,4/5,gcc,210000,6000.0
+volkswagen,tiguan,2009,blue,automatic,4/5,gcc,290000,1365.0
+lexus,rc,2022,white,automatic,2/3,us,4200,11500.0
+hyundai,elantra,2013,red,automatic,4/5,gcc,374000,1550.0
+volkswagen,jetta,2016,silver,automatic,4/5,us,140000,1400.0
+nissan,sentra,2014,grey,automatic,4/5,us,1455,1500.0
+toyota,corolla,2015,red,automatic,4/5,gcc,173140,3900.0
+bmw,x65,2020,white,automatic,2/3,company source,71000,3850.0
+bmw,x65,2017,white,automatic,4/5,company source,55000,2700.0
+hyundai,accent,2017,grey,automatic,4/5,gcc,150000,2400.0
+bmw,x1,2011,brown,automatic,4/5,gcc,290000,1200.0
+dodge,challenger,2019,silver,automatic,4/5,canada,111000,5400.0
+gmc,other,2014,burgundy,automatic,4/5,gcc,237000,5700.0
+gmc,yukon,2004,blue,automatic,4/5,us,512000,2000.0
+lexus,rx 350,2021,blue,automatic,4/5,us,88000,11700.0
+subaru,legacy,2016,grey,automatic,4/5,gcc,255000,2100.0
+kia,sportage,2016,white,automatic,4/5,gcc,153000,3500.0
+chevrolet,spark,2013,white,automatic,2/3,gcc,235000,950.0
+nissan,versa,2015,white,automatic,4/5,us,350000,1450.0
+toyota,prado,2013,white,automatic,4/5,gcc,220000,8000.0
+hyundai,sonata,2018,white,automatic,4/5,gcc,300000,2900.0
+audi,q3,2016,brown,automatic,4/5,gcc,160000,3500.0
+mercedes,clk 240,2014,grey,automatic,4/5,us,140000,3000.0
+jeep,compass,2012,white,automatic,4/5,gcc,175000,1200.0
+kia,optima,2017,grey,automatic,4/5,us,190000,2600.0
+mitsubishi,lancer,2012,beige,automatic,4/5,gcc,204000,1500.0
+mazda,6,2023,white,automatic,4/5,gcc,130000,5950.0
+toyota,land cruiser,2022,white,automatic,4/5,gcc,135000,23000.0
+fuso,fuso canter,2008,white,manual,2/3,gcc,400000,5000.0
+audi,q5,2014,silver,automatic,4/5,gcc,200000,3300.0
+toyota,corolla,2011,gold,automatic,4/5,gcc,200000,1950.0
+renault,duster,2012,white,automatic,4/5,company source,269600,1050.0
+mitsubishi,pajero,2008,black,automatic,4/5,gcc,375000,1400.0
+toyota,yaris,2008,white,automatic,4/5,gcc,123456,1050.0
+toyota,yaris,2009,white,manual,2/3,gcc,22222,1200.0
+mini,cooper s,2011,brown,automatic,4/5,gcc,145000,1200.0
+toyota,aurion,2007,black,automatic,4/5,gcc,490000,1550.0
+kia,sportage,2017,green,automatic,4/5,gcc,140000,4100.0
+honda,accord,2004,blue,automatic,4/5,gcc,270000,950.0
+hyundai,creta,2024,other,automatic,4/5,gcc,11000,7950.0
+hyundai,santa fe,2016,white,automatic,2/3,gcc,280000,2700.0
+mercedes,cla 250,2018,black,automatic,4/5,canada,102000,4450.0
+volkswagen,passat,2015,silver,automatic,4/5,gcc,210800,2500.0
+toyota,corolla,2012,white,automatic,4/5,gcc,30000,1900.0
+subaru,xv,2017,other,automatic,2/3,gcc,186000,3750.0
+nissan,tiida,2015,gold,automatic,4/5,gcc,169000,2050.0
+chevrolet,cruze,2013,beige,automatic,2/3,company source,187000,850.0
+jeep,wrangler,2018,grey,automatic,2/3,gcc,133000,11500.0
+suzuki,grand vitara,2016,brown,automatic,4/5,gcc,158757,2700.0
+mercedes,280c,1996,silver,automatic,4/5,europe,200000,850.0
+mg,mg 5,2023,black,automatic,4/5,gcc,50000,3950.0
+toyota,land cruiser,1998,green,automatic,4/5,us,25000,2700.0
+suzuki,swift,2016,grey,automatic,4/5,gcc,17000,1800.0
+jeep,compass,2019,grey,automatic,4/5,company source,82000,5350.0
+mitsubishi,lancer,2015,white,automatic,4/5,gcc,385000,2000.0
+toyota,camry,2008,white,automatic,4/5,gcc,18900,1500.0
+toyota,yaris,2013,white,automatic,4/5,gcc,284000,1600.0
+toyota,corolla,2012,white,automatic,2/3,gcc,200000,2500.0
+genesis,g80,2015,brown,automatic,4/5,us,125000,3500.0
+jeep,wrangler,2021,grey,automatic,4/5,us,74000,10200.0
+hyundai,santa fe,2018,brown,automatic,4/5,gcc,200000,4000.0
+nissan,sentra,2015,grey,automatic,4/5,gcc,83000,1900.0
+hyundai,veloster,2020,blue,automatic,2/3,gcc,131350,5150.0
+mazda,2,2016,blue,automatic,4/5,gcc,122000,2500.0
+nissan,tiida,2008,red,automatic,4/5,company source,300000,750.0
+hyundai,tucson,2012,brown,automatic,4/5,gcc,198000,2300.0
+bmw,x4,2017,white,automatic,4/5,gcc,97922,9700.0
+toyota,yaris,2007,silver,automatic,4/5,gcc,450000,1050.0
+toyota,camry,1998,gold,automatic,4/5,gcc,800000,1300.0
+peugeot,207,2013,other,automatic,4/5,company source,180000,650.0
+bmw,428,2015,brown,automatic,4/5,gcc,290000,4400.0
+mitsubishi,pajero sport,2016,burgundy,automatic,2/3,gcc,190000,5500.0
+nissan,pathfinder,2015,white,automatic,4/5,canada,153000,2500.0
+kia,sorento,2010,silver,automatic,4/5,us,155000,2600.0
+hyundai,elantra,2012,white,automatic,2/3,gcc,200000,1500.0
+hyundai,accent,2013,silver,automatic,4/5,gcc,127000,1470.0
+honda,civic,2007,white,automatic,4/5,gcc,300000,1200.0
+kia,forte,2022,grey,automatic,4/5,us,66000,4000.0
+toyota,corolla,2017,white,automatic,4/5,us,170000,3300.0
+mg,mg rx8,2024,white,automatic,4/5,gcc,17000,10500.0
+hyundai,elantra,2015,burgundy,automatic,4/5,gcc,200000,1750.0
+nissan,kicks,2020,orange,automatic,4/5,us,65000,4750.0
+hyundai,santa fe,2016,grey,automatic,4/5,gcc,120149,3500.0
+toyota,camry,2004,red,automatic,4/5,gcc,500000,1000.0
+honda,pilot,2015,other,automatic,4/5,gcc,200000,5000.0
+hyundai,accent,2022,silver,automatic,4/5,us,30000,3600.0
+renault,dokker van,2018,white,manual,2/3,gcc,210000,2300.0
+skoda,fabia,2012,black,automatic,4/5,europe,200000,900.0
+subaru,forester,2016,silver,automatic,4/5,gcc,135000,3200.0
+toyota,corolla,2015,white,automatic,4/5,gcc,237000,2900.0
+renault,duster,2019,beige,automatic,4/5,gcc,165000,2000.0
+kia,sorento,2020,white,automatic,4/5,gcc,98000,3200.0
+hyundai,veloster,2017,beige,automatic,2/3,gcc,197000,2600.0
+hyundai,elantra,2013,white,automatic,4/5,us,161000,1600.0
+mitsubishi,pajero,2020,silver,automatic,4/5,gcc,47500,8250.0
+hyundai,tucson,2022,brown,automatic,4/5,gcc,40500,8900.0
+nissan,maxima,2017,white,automatic,4/5,us,103649,3350.0
+toyota,yaris,2012,white,automatic,4/5,gcc,200000,1800.0
+mitsubishi,lancer,2012,white,automatic,4/5,gcc,245000,1400.0
+toyota,corolla,2014,white,automatic,4/5,gcc,250000,2600.0
+audi,q7,2018,white,automatic,4/5,gcc,128000,13000.0
+audi,a8,2013,blue,automatic,4/5,gcc,90000,6500.0
+toyota,rav 4,2014,grey,automatic,4/5,us,171000,3800.0
+jeep,wrangler,2017,silver,automatic,4/5,us,145000,6300.0
+peugeot,boxer,2023,white,manual,4/5,company source,83440,6500.0
+suzuki,swift,2008,silver,manual,4/5,gcc,425000,550.0
+toyota,sienna,2017,white,automatic,4/5,us,6200,6200.0
+kia,optima,2012,brown,automatic,2/3,us,279767,1300.0
+kia,sirion,2006,silver,automatic,4/5,gcc,200000,630.0
+mazda,mazda 3,2010,other,automatic,4/5,gcc,25000,1175.0
+nissan,tiida,2009,red,automatic,4/5,us,300000,920.0
+mazda,3,2006,gold,automatic,4/5,gcc,240000,750.0
+lexus,es 350,2016,grey,automatic,4/5,us,25977,7100.0
+nissan,sunny,2008,white,automatic,4/5,europe,11111,780.0
+infiniti,qx60,2015,white,automatic,4/5,gcc,233000,3600.0
+mitsubishi,lancer,2007,white,automatic,4/5,gcc,150000,750.0
+jeep,grand cherokee,2012,other,automatic,4/5,gcc,198000,2950.0
+chery,tiggo,2018,white,automatic,4/5,gcc,150000,2000.0
+toyota,camry,2001,white,automatic,4/5,gcc,200000,950.0
+honda,city,2016,white,automatic,4/5,gcc,170000,1775.0
+toyota,rav 4,2024,white,automatic,4/5,gcc,20000,11600.0
+ford,focus,2014,silver,automatic,4/5,gcc,300000,1450.0
+toyota,fortuner,2018,white,automatic,4/5,gcc,108000,11000.0
+toyota,prado,2011,white,automatic,4/5,company source,260000,8000.0
+hyundai,elantra,2016,red,automatic,4/5,gcc,95000,3000.0
+ford,focus,2012,grey,automatic,2/3,us,19999,950.0
+chevrolet,cruze,2012,silver,automatic,4/5,gcc,200000,1000.0
+toyota,camry,2020,silver,automatic,4/5,us,161000,8000.0
+toyota,rav 4,2016,brown,automatic,4/5,gcc,297000,4600.0
+mazda,mazda 2,2012,grey,automatic,4/5,gcc,206000,1300.0
+jeep,grand cherokee,2020,brown,automatic,4/5,us,61000,5900.0
+dodge,dart,2015,black,automatic,4/5,company source,190000,1900.0
+ford,explorer,2008,orange,automatic,4/5,canada,25686,800.0
+nissan,pathfinder,2014,white,automatic,4/5,gcc,265000,2400.0
+nissan,maxima,2011,silver,automatic,4/5,gcc,230000,1250.0
+honda,accord,2007,brown,automatic,2/3,gcc,42522,1650.0
+kia,cerato,2015,white,automatic,4/5,gcc,266000,1699.0
+fuso,fuso rosa,2002,white,manual,2/3,us,190000,3000.0
+toyota,hiace,2020,white,manual,2/3,gcc,130000,9200.0
+volkswagen,other,2011,brown,automatic,4/5,gcc,40000,1500.0
+kia,sirion,2010,silver,automatic,2/3,gcc,22000,930.0
+hyundai,sonata,2017,silver,automatic,4/5,gcc,65000,3350.0
+lexus,es 350,2021,silver,automatic,4/5,us,80000,10000.0
+kia,soul,2019,grey,automatic,4/5,us,126000,2900.0
+nissan,altima,2005,red,automatic,4/5,gcc,250000,700.0
+ford,focus,2008,silver,manual,4/5,us,12000,800.0
+suzuki,celerio,2011,green,automatic,4/5,gcc,190000,1100.0
+mazda,6,2009,burgundy,automatic,4/5,gcc,300000,980.0
+suzuki,vitara,2015,brown,automatic,4/5,gcc,300000,2400.0
+honda,accord,2018,silver,automatic,4/5,us,115000,5800.0
+nissan,urvan,2003,white,manual,2/3,gcc,500000,1950.0
+mazda,mazda 3,2019,silver,automatic,4/5,gcc,106828,3450.0
+audi,a3,2018,brown,automatic,4/5,gcc,128000,3500.0
+nissan,sunny,2011,green,automatic,2/3,gcc,112233,900.0
+mg,mg rx5,2020,grey,automatic,4/5,gcc,74000,8000.0
+kia,optima,2015,white,automatic,4/5,us,168000,2100.0
+suzuki,swift,2021,silver,automatic,4/5,gcc,102000,2800.0
+jeep,wrangler,2016,silver,manual,2/3,gcc,140000,8000.0
+hyundai,elantra,2018,white,automatic,4/5,gcc,3300,3000.0
+mercedes,e250,2015,white,automatic,4/5,gcc,195000,3300.0
+nissan,armada,2017,silver,automatic,2/3,us,118000,7500.0
+nissan,altima,2021,grey,automatic,2/3,us,130000,3500.0
+toyota,corolla,2011,blue,automatic,4/5,gcc,280866,1900.0
+nissan,altima,2017,white,automatic,4/5,us,260000,2000.0
+toyota,camry,2012,white,automatic,4/5,gcc,100121,1550.0
+toyota,camry,2013,silver,automatic,4/5,gcc,187162,1650.0
+hyundai,accent,2007,white,automatic,4/5,gcc,286000,950.0
+hyundai,tucson,2019,white,automatic,4/5,us,88000,4350.0
+land rover,range rover vogue,2018,orange,automatic,4/5,company source,70000,32500.0
+nissan,armada,2010,grey,automatic,4/5,us,250000,1800.0
+hyundai,santa fe,2013,black,automatic,4/5,gcc,19000,3300.0
+gmc,terrain,2017,grey,automatic,4/5,gcc,138000,3200.0
+renault,symbol,2016,silver,automatic,4/5,company source,10000,1300.0
+honda,pilot,2013,grey,automatic,4/5,gcc,300000,2900.0
+audi,q7,2015,white,automatic,4/5,gcc,184000,5900.0
+dodge,charger,2011,grey,automatic,4/5,gcc,322229,2400.0
+subaru,svx,2012,white,automatic,4/5,gcc,300000,1250.0
+nissan,patrol,2018,black,automatic,4/5,us,1400,3500.0
+honda,civic,2008,white,automatic,4/5,gcc,250000,1100.0
+jeep,wrangler,2008,black,automatic,2/3,gcc,305000,2200.0
+peugeot,407,2010,silver,automatic,4/5,gcc,265000,550.0
+toyota,echo,2002,white,manual,4/5,gcc,400000,650.0
+jeep,wrangler,2013,black,automatic,4/5,us,245000,5500.0
+hyundai,santa fe,2015,silver,automatic,4/5,gcc,170000,4500.0
+jeep,grand cherokee,2021,grey,automatic,4/5,us,50000,6300.0
+byd,yuan plus ev,2024,grey,automatic,4/5,gcc,13000,10500.0
+mercedes,c250,2014,white,automatic,4/5,us,391053,2800.0
+ford,mustang,2010,blue,manual,2/3,us,100000,2300.0
+toyota,aurion,2013,grey,automatic,4/5,gcc,200000,2800.0
+nissan,sunny,2009,white,automatic,4/5,gcc,370000,850.0
+mg,mg zs,2023,white,automatic,4/5,company source,86900,5500.0
+nissan,altima,2006,white,manual,4/5,gcc,439000,670.0
+tesla,model 3,2024,black,automatic,4/5,us,17000,13000.0
+kia,sportage,2022,grey,automatic,4/5,us,116269,6200.0
+jeep,patriot,2008,green,automatic,4/5,us,202000,1300.0
+mercedes,c200,2019,white,automatic,4/5,europe,49500,7500.0
+ford,mustang,2016,red,automatic,2/3,us,250850,4500.0
+mercedes,e 350,2014,silver,automatic,4/5,us,210000,3600.0
+jeep,compass,2018,orange,automatic,4/5,gcc,90000,5000.0
+toyota,prado,2008,white,automatic,4/5,gcc,240000,4800.0
+ford,ecosport,2014,white,automatic,4/5,gcc,197000,1200.0
+toyota,echo,2000,green,automatic,4/5,gcc,200000,700.0
+nissan,tiida,2009,white,manual,4/5,company source,1000000,900.0
+nissan,pathfinder,2017,brown,automatic,4/5,us,181000,2200.0
+nissan,xterra,2015,silver,automatic,4/5,us,80000,4700.0
+mitsubishi,lancer,2008,red,automatic,2/3,gcc,248000,1200.0
+hyundai,elantra,2009,white,automatic,4/5,gcc,300000,950.0
+nissan,patrol,2014,white,automatic,4/5,gcc,420000,7500.0
+nissan,qx80,2017,black,automatic,4/5,us,150000,7500.0
+subaru,impreza,2008,red,automatic,4/5,gcc,24000,800.0
+skoda,js4,2024,blue,automatic,4/5,company source,49000,4500.0
+kia,morning,2017,white,automatic,4/5,company source,100000,2400.0
+kia,sportage,2019,red,automatic,4/5,us,80000,4050.0
+range rover,range rover sport,2015,white,automatic,4/5,us,118000,9950.0
+jeep,renegade,2020,white,automatic,4/5,europe,142500,5000.0
+renault,duster,2014,green,automatic,4/5,gcc,300000,800.0
+lexus,rx 300,1998,beige,automatic,4/5,company source,200000,1500.0
+mitsubishi,lancer,2011,silver,automatic,4/5,gcc,300000,1050.0
+toyota,rav 4,2018,silver,automatic,4/5,us,63000,5150.0
+honda,odyssey,2013,silver,automatic,4/5,gcc,170000,4000.0
+mini,cooper s,2012,blue,automatic,4/5,us,130000,1550.0
+jeep,wrangler,2020,yellow,automatic,4/5,us,145000,8400.0
+toyota,camry,2011,white,automatic,4/5,gcc,348969,1550.0
+toyota,rav 4,2018,brown,automatic,4/5,gcc,100179,7700.0
+nissan,xterra,2014,black,automatic,4/5,us,230000,4800.0
+toyota,rav 4,2020,silver,automatic,4/5,gcc,160000,8200.0
+nissan,kicks,2020,white,automatic,4/5,us,101000,3950.0
+mitsubishi,pajero,2012,brown,automatic,4/5,gcc,180000,2650.0
+audi,a4,2011,silver,automatic,4/5,gcc,200000,1500.0
+genesis,g70,2019,blue,automatic,4/5,us,125000,4700.0
+renault,fluence,2015,black,automatic,4/5,gcc,152000,1250.0
+chevrolet,cruze,2014,white,automatic,4/5,gcc,242000,1250.0
+hyundai,accent,2014,white,automatic,4/5,gcc,170000,1200.0
+kia,cadenza,2011,white,automatic,4/5,gcc,560000,1600.0
+hyundai,veloster,2016,white,automatic,2/3,canada,121000,1600.0
+honda,pilot,2012,burgundy,automatic,4/5,gcc,318000,3100.0
+chevrolet,impala,2016,blue,automatic,4/5,gcc,200000,2600.0
+toyota,prado,2015,white,automatic,4/5,gcc,63000,9000.0
+ford,mustang,2013,red,automatic,2/3,us,175000,2500.0
+hyundai,elantra,2021,silver,automatic,4/5,us,24000,5500.0
+toyota,yaris,2017,other,automatic,4/5,gcc,82000,3975.0
+toyota,corolla,2019,silver,automatic,4/5,us,9999,3900.0
+hyundai,tucson,2016,white,automatic,4/5,gcc,190000,3500.0
+honda,accord,2018,gold,automatic,4/5,us,50000,5750.0
+toyota,corolla,2021,silver,automatic,4/5,us,71000,4800.0
+hyundai,tucson,2016,silver,automatic,4/5,gcc,150000,3500.0
+chevrolet,spark,2007,white,manual,4/5,gcc,10000,550.0
+jeep,compass,2019,grey,automatic,4/5,gcc,54000,6900.0
+nissan,rogue,2021,white,automatic,4/5,us,33000,6300.0
+honda,pilot,2012,grey,automatic,4/5,gcc,300000,3500.0
+toyota,yaris,2009,white,automatic,2/3,gcc,235000,1550.0
+renault,duster,2015,burgundy,automatic,4/5,gcc,235000,890.0
+mazda,2,2014,gold,automatic,4/5,gcc,245000,1150.0
+chevrolet,tahoe,2020,black,automatic,4/5,us,35000,9400.0
+toyota,camry,2017,red,automatic,4/5,us,125000,3700.0
+suzuki,ciaz,2016,brown,automatic,4/5,gcc,200000,1650.0
+mazda,3,2008,white,manual,4/5,company source,245000,800.0
+mazda,3,2006,grey,automatic,4/5,gcc,200000,800.0
+audi,a6,2020,black,automatic,4/5,gcc,137000,10200.0
+honda,civic,2003,gold,automatic,4/5,gcc,300000,750.0
+nissan,altima,2013,grey,automatic,4/5,us,186000,1650.0
+nissan,versa,2007,silver,automatic,4/5,us,220631,750.0
+mitsubishi,pajero,2017,white,automatic,4/5,gcc,165000,4300.0
+toyota,yaris,2017,brown,automatic,4/5,gcc,190000,2750.0
+nissan,altima,2007,green,automatic,4/5,us,45000,700.0
+suzuki,swift,2012,red,automatic,4/5,company source,200000,1450.0
+toyota,yaris,2022,white,automatic,2/3,gcc,82265,4500.0
+mitsubishi,galant,2009,silver,automatic,4/5,company source,198000,950.0
+jetour,t2,2025,black,automatic,4/5,gcc,23000,12500.0
+kia,sorento,2015,white,automatic,4/5,gcc,210251,2950.0
+ford,figo,2016,silver,automatic,4/5,gcc,240850,1200.0
+land rover,lr2,2011,red,automatic,4/5,gcc,144000,1800.0
+hyundai,elantra,2016,brown,automatic,4/5,gcc,1881,2450.0
+nissan,sentra,2015,beige,automatic,4/5,gcc,167000,2000.0
+toyota,corolla,2020,white,automatic,4/5,us,9000,5400.0
+hyundai,santa fe,2010,blue,automatic,4/5,gcc,350000,1800.0
+mitsubishi,lancer,2006,silver,automatic,4/5,gcc,628000,750.0
+nissan,tiida,2007,brown,automatic,4/5,company source,459689,850.0
+nissan,armada,2020,black,automatic,4/5,us,50000,8500.0
+mitsubishi,lancer,2006,silver,automatic,4/5,company source,629728,750.0
+hyundai,elantra,2018,burgundy,automatic,4/5,gcc,89000,3500.0
+land rover,discovery,2016,white,automatic,4/5,us,132000,4900.0
+nissan,altima,2011,brown,automatic,4/5,us,400000,1260.0
+suzuki,swift,2006,red,automatic,4/5,gcc,350000,850.0
+chevrolet,cruze,2012,silver,automatic,2/3,gcc,183898,1000.0
+toyota,4runner,2019,grey,automatic,4/5,us,80000,9000.0
+honda,civic,2010,white,automatic,4/5,gcc,470000,2000.0
+toyota,corolla,2008,red,automatic,2/3,gcc,20000,1500.0
+audi,a3,2015,red,automatic,4/5,gcc,127350,4000.0
+renault,duster,2013,white,automatic,4/5,gcc,300000,899.0
+honda,accord,2022,white,automatic,4/5,us,29000,7700.0
+bentley,bentayga,2017,beige,automatic,4/5,gcc,75000,36500.0
+mitsubishi,pajero,2017,brown,automatic,4/5,gcc,109000,5650.0
+hyundai,accent,2015,blue,automatic,4/5,gcc,245000,1700.0
+hyundai,tucson,2013,burgundy,automatic,4/5,gcc,18000,2250.0
+honda,odyssey,2019,silver,automatic,4/5,us,144000,6300.0
+hyundai,sonata,2015,red,automatic,4/5,us,170000,2450.0
+honda,civic,2001,white,automatic,2/3,gcc,300000,600.0
+honda,accord,2005,black,automatic,4/5,gcc,700000,750.0
+honda,civic,2015,white,automatic,4/5,gcc,121844,3750.0
+toyota,yaris,2021,white,automatic,4/5,company source,60000,4600.0
+nissan,altima,2022,white,automatic,4/5,us,85000,4600.0
+hyundai,accent,2015,brown,automatic,4/5,gcc,245000,1350.0
+mercedes,glb 250,2020,burgundy,automatic,4/5,us,30000,10000.0
+mitsubishi,lancer,2014,silver,automatic,4/5,gcc,170116,1750.0
+suzuki,sx4,2014,white,automatic,4/5,gcc,230000,1250.0
+kia,sirion,2008,white,automatic,2/3,gcc,150000,850.0
+chevrolet,cruze,2017,white,automatic,4/5,gcc,224000,1200.0
+ford,mustang,2018,burgundy,automatic,2/3,us,30000,4400.0
+hyundai,santa fe,2010,purple,automatic,4/5,us,342000,1850.0
+hyundai,tucson,2023,beige,automatic,4/5,company source,72000,8800.0
+suzuki,dzire,2013,gold,automatic,4/5,gcc,245000,1100.0
+toyota,corolla,2018,silver,automatic,4/5,canada,88000,3500.0
+honda,odyssey,2021,white,automatic,4/5,gcc,85000,8900.0
+subaru,forester,2013,grey,automatic,4/5,gcc,173000,1950.0
+mitsubishi,pajero,2010,silver,automatic,4/5,company source,172500,2500.0
+hyundai,elantra,2013,other,automatic,4/5,gcc,200000,1650.0
+jeep,grand cherokee,2011,black,automatic,4/5,gcc,300000,2400.0
+lexus,es 350,2007,silver,automatic,4/5,company source,29000,1700.0
+jeep,cherokee,2014,grey,automatic,4/5,gcc,108000,2400.0
+hyundai,sonata,2018,black,automatic,4/5,us,145000,3100.0
+bmw,x7,2020,green,automatic,4/5,gcc,168000,21500.0
+kia,carens,2011,white,automatic,4/5,gcc,244000,1100.0
+toyota,corolla,2009,silver,automatic,4/5,gcc,200000,1500.0
+renault,duster,2014,grey,automatic,4/5,europe,200000,900.0
+subaru,impreza,2007,other,automatic,2/3,gcc,300000,650.0
+mercedes,300/350/380,2012,white,automatic,4/5,us,20000,2000.0
+toyota,corolla,1994,white,manual,4/5,gcc,200000,575.0
+jeep,wrangler,2023,silver,automatic,4/5,us,70000,9000.0
+tank,500,2024,beige,automatic,4/5,gcc,29000,15700.0
+hyundai,tucson,2015,brown,automatic,4/5,gcc,201241,2399.0
+nissan,tiida,2014,black,automatic,4/5,gcc,221036,1950.0
+dodge,challenger,2018,grey,automatic,2/3,us,93000,5500.0
+honda,pilot,2011,grey,automatic,4/5,gcc,350000,1900.0
+toyota,yaris,2016,white,automatic,4/5,gcc,180000,3300.0
+nissan,pathfinder,2017,silver,automatic,4/5,us,180000,5500.0
+renault,fluence,2014,white,automatic,4/5,europe,100000,750.0
+ford,mustang,2016,white,automatic,2/3,us,175000,4850.0
+hyundai,elantra,2020,white,automatic,4/5,us,112000,3350.0
+maserati,quattroporte,2015,white,automatic,2/3,gcc,70000,8500.0
+lexus,es 350,2008,silver,automatic,4/5,gcc,252557,950.0
+suzuki,sx4,2015,white,automatic,4/5,gcc,256000,1499.0
+toyota,camry,2018,burgundy,automatic,4/5,us,74000,5700.0
+chevrolet,silverado,2007,gold,automatic,4/5,us,320000,2000.0
+mitsubishi,pajero,2008,white,automatic,4/5,gcc,12314,1350.0
+gmc,yukon,2011,red,automatic,4/5,us,380000,3000.0
+volkswagen,beetle,2014,yellow,automatic,2/3,us,200000,3100.0
+kia,rio,2009,white,automatic,4/5,gcc,200000,980.0
+kia,optima,2014,white,automatic,4/5,gcc,19199,1700.0
+lexus,is 300,2016,white,automatic,4/5,us,133000,4300.0
+mg,mg hs,2021,white,automatic,4/5,gcc,80000,4700.0
+kia,sorento,2023,silver,automatic,4/5,gcc,26000,11000.0
+nissan,altima,2020,black,automatic,4/5,us,77477,3600.0
+mercedes,e300,2023,grey,automatic,4/5,gcc,13500,24500.0
+dodge,charger,2018,other,automatic,4/5,us,1400,5400.0
+subaru,impreza,2014,silver,automatic,4/5,gcc,116000,1850.0
+toyota,corolla,2013,white,automatic,4/5,gcc,212000,2100.0
+lincoln,other,2021,white,automatic,4/5,us,52000,7900.0
+volvo,xc60,2012,silver,automatic,4/5,gcc,199500,1350.0
+mercedes,sprinter,2015,white,manual,2/3,gcc,221514,7300.0
+mercedes,gla 200,2025,white,automatic,4/5,gcc,2142,20000.0
+toyota,camry,2017,black,automatic,4/5,us,117000,3500.0
+hyundai,sonata,2014,brown,automatic,4/5,gcc,175000,1650.0
+chrysler,300m/300c,2007,black,automatic,4/5,us,410000,1250.0
+honda,civic,2016,blue,automatic,2/3,canada,89000,3500.0
+honda,civic,2006,white,automatic,4/5,gcc,285000,1550.0
+hyundai,accent,2020,blue,automatic,4/5,us,100000,3300.0
+nissan,sunny,2010,white,automatic,4/5,gcc,300000,900.0
+lexus,es 350,2018,white,automatic,4/5,gcc,149000,6850.0
+suzuki,dzire,2014,silver,automatic,4/5,gcc,228000,1350.0
+toyota,camry,2020,other,automatic,4/5,us,80000,6600.0
+honda,accord,2012,burgundy,automatic,4/5,gcc,300000,1800.0
+mg,emgrand 7,2015,white,automatic,4/5,us,100000,750.0
+hyundai,kona,2022,grey,automatic,4/5,gcc,48000,5900.0
+toyota,yaris,2018,beige,automatic,4/5,gcc,260000,2750.0
+honda,civic,2022,black,automatic,4/5,us,140000,5250.0
+honda,civic,2007,black,automatic,4/5,gcc,100000,900.0
+nissan,altima,2011,white,automatic,4/5,gcc,45000,1200.0
+ford,focus,2009,silver,automatic,4/5,us,300000,680.0
+hyundai,sonata,2011,blue,automatic,4/5,europe,300385,1250.0
+hyundai,elantra,2009,red,automatic,4/5,gcc,123456,1150.0
+mg,mg gt,2023,silver,automatic,4/5,gcc,50000,4800.0
+hyundai,veloster,2019,grey,automatic,2/3,gcc,220000,3700.0
+kia,sportage,2023,blue,automatic,4/5,us,43000,6750.0
+maserati,levante,2017,white,automatic,4/5,company source,91000,12000.0
+toyota,other,2015,black,automatic,4/5,us,190000,2500.0
+dodge,avenger,2015,black,automatic,4/5,gcc,9000,2200.0
+audi,other,2022,white,automatic,4/5,gcc,88000,32500.0
+nissan,pathfinder,2019,white,automatic,4/5,us,96700,3400.0
+nissan,tiida,2012,white,automatic,4/5,gcc,280000,1150.0
+hyundai,elantra,2019,silver,automatic,4/5,us,105285,2700.0
+ford,mustang,2014,red,automatic,2/3,us,165000,2000.0
+nissan,altima,2018,grey,automatic,4/5,gcc,85000,3900.0
+nissan,sentra,2014,white,automatic,4/5,gcc,200000,1250.0
+toyota,corolla cross,2019,white,automatic,4/5,gcc,1000000,4250.0
+mitsubishi,pajero,2008,silver,automatic,4/5,gcc,289635,1650.0
+audi,cs35 plus,2021,brown,automatic,4/5,gcc,68000,4000.0
+kia,cadenza,2017,white,automatic,4/5,us,188000,3600.0
+mazda,6,2007,silver,automatic,4/5,gcc,470004,680.0
+toyota,avalon,2017,burgundy,automatic,4/5,us,62000,6300.0
+jeep,wrangler,2019,blue,automatic,2/3,gcc,40000,9200.0
+mercedes,gle 43 amg,2018,white,automatic,4/5,gcc,104000,14800.0
+nissan,pathfinder,2020,blue,automatic,4/5,us,140000,5300.0
+lexus,es 350,2007,grey,automatic,4/5,gcc,256000,2100.0
+hyundai,santa fe,2007,white,automatic,4/5,company source,3000,1000.0
+chevrolet,traverse,2022,black,automatic,4/5,gcc,12000,9850.0
+toyota,yaris,2013,white,manual,4/5,company source,360000,1200.0
+kia,sportage,2011,silver,automatic,4/5,gcc,15000,1950.0
+kia,rio,2013,brown,automatic,2/3,us,256855,1100.0
+hyundai,other,2012,grey,automatic,4/5,gcc,189000,1559.0
+hyundai,veloster,2013,white,automatic,2/3,gcc,199999,1500.0
+hummer,h3,2007,blue,automatic,4/5,gcc,210000,1100.0
+range rover,range rover sport,2013,white,automatic,4/5,gcc,150000,2300.0
+subaru,impreza,2016,white,automatic,4/5,gcc,430000,1750.0
+mg,mg hs,2021,red,automatic,4/5,gcc,41000,4700.0
+hyundai,tucson,2017,white,automatic,4/5,company source,155000,3400.0
+hyundai,elantra,2016,silver,automatic,4/5,us,19999,1950.0
+audi,a6,2008,black,automatic,4/5,gcc,230000,1500.0
+nissan,altima,2008,green,automatic,4/5,gcc,200000,1400.0
+hyundai,tucson,2019,silver,automatic,4/5,gcc,200000,5000.0
+mg,emgrand 7,2015,burgundy,automatic,4/5,company source,143000,675.0
+kia,sportage,2014,white,automatic,4/5,gcc,182000,2650.0
+chevrolet,trailblazer,2018,white,automatic,4/5,gcc,200000,4800.0
+suzuki,dzire,2022,grey,automatic,4/5,gcc,110000,2800.0
+volkswagen,touareg,2015,brown,automatic,4/5,gcc,120000,6000.0
+kia,rio,2016,white,automatic,4/5,gcc,163500,1700.0
+kia,sportage,2007,brown,manual,4/5,gcc,200000,1300.0
+nissan,sunny,2015,silver,automatic,4/5,gcc,180000,1650.0
+hyundai,santa fe,2014,white,automatic,4/5,gcc,270000,3500.0
+mazda,3,2012,grey,automatic,4/5,gcc,400000,1250.0
+toyota,camry,2014,red,automatic,4/5,company source,199200,2500.0
+mazda,6,2015,red,automatic,4/5,gcc,200000,2700.0
+kia,optima,2013,burgundy,automatic,4/5,gcc,20000,1550.0
+nissan,tiida,2008,silver,automatic,4/5,gcc,200000,750.0
+toyota,yaris,2008,blue,automatic,4/5,gcc,100000,1150.0
+jeep,grand cherokee,2013,blue,automatic,4/5,us,230000,3000.0
+bmw,x1,2012,grey,automatic,4/5,gcc,185000,1950.0
+nissan,sunny,2026,white,manual,4/5,company source,223864,600.0
+hyundai,elantra,2016,white,automatic,4/5,gcc,156700,2000.0
+toyota,prado,2020,black,automatic,4/5,gcc,96000,16000.0
+toyota,camry,2007,silver,automatic,4/5,gcc,271317,1230.0
+renault,19,2019,gold,automatic,2/3,europe,425000,1500.0
+mitsubishi,pajero,2014,silver,automatic,4/5,gcc,10000,2400.0
+toyota,corolla,2021,red,automatic,4/5,us,158000,5200.0
+mg,mg 5,2021,black,automatic,4/5,gcc,50000,3250.0
+hyundai,terracan,2023,white,automatic,4/5,gcc,55000,8900.0
+honda,civic,2007,beige,automatic,2/3,gcc,400000,1250.0
+honda,accord,2009,white,automatic,4/5,gcc,280000,2000.0
+nissan,sentra,2016,white,automatic,4/5,gcc,100000,1700.0
+mazda,6,2016,red,automatic,4/5,us,205000,3400.0
+suzuki,swift,2011,white,automatic,4/5,company source,275000,950.0
+infiniti,qx56,2012,white,automatic,4/5,gcc,200000,5200.0
+toyota,hiace,2021,white,manual,2/3,gcc,125000,10200.0
+kia,sportage,2019,brown,automatic,2/3,company source,193000,4800.0
+lexus,rx 350,2017,other,automatic,4/5,canada,120000,9500.0
+mercedes,s class,2016,silver,automatic,4/5,us,190000,8600.0
+mazda,3,2005,burgundy,automatic,4/5,gcc,200000,650.0
+dodge,charger,2012,red,automatic,4/5,us,200000,2000.0
+ford,focus,2014,orange,automatic,4/5,gcc,225000,1099.0
+gmc,acadia,2014,silver,automatic,4/5,gcc,260000,3200.0
+mercedes,a 250,2019,grey,automatic,2/3,gcc,83000,8500.0
+bmw,m3,2021,white,manual,2/3,us,130000,9000.0
+jeep,cherokee,2011,black,automatic,4/5,gcc,300000,1650.0
+mercedes,caprice classic,2006,black,automatic,4/5,us,229000,550.0
+nissan,patrol safari,2021,white,automatic,4/5,gcc,81000,15700.0
+hyundai,elantra,2014,white,automatic,4/5,gcc,181100,1840.0
+hyundai,accent,2012,white,automatic,4/5,gcc,240000,1550.0
+ford,edge,2011,red,automatic,4/5,gcc,136485,1500.0
+kia,cerato,2008,silver,automatic,4/5,company source,280000,750.0
+hyundai,tucson,2017,blue,automatic,4/5,gcc,138000,4500.0
+nissan,altima,2020,orange,automatic,4/5,us,135000,4100.0
+hyundai,creta,2017,silver,automatic,4/5,gcc,145000,3400.0
+nissan,micra,2012,white,automatic,4/5,gcc,207000,1450.0
+volkswagen,grand vitara,2016,brown,automatic,4/5,gcc,91000,3600.0
+gmc,yukon,2018,silver,automatic,4/5,us,100000,10950.0
+porsche,cayman,2015,silver,automatic,2/3,gcc,100690,14000.0
+nissan,tiida,2008,white,automatic,4/5,gcc,250000,1050.0
+mini,cooper,2013,beige,automatic,2/3,europe,120000,1400.0
+jeep,grand cherokee,2015,white,automatic,4/5,gcc,280000,3500.0
+gmc,acadia,2012,beige,automatic,4/5,gcc,209000,2300.0
+dodge,durango,2013,burgundy,automatic,4/5,gcc,230000,2600.0
+mitsubishi,rosa,2019,yellow,manual,2/3,gcc,60000,50000.0
+hyundai,accent,2012,blue,automatic,4/5,gcc,192000,2000.0
+volkswagen,tiguan,2009,silver,automatic,4/5,gcc,295000,1250.0
+nissan,altima,2020,silver,automatic,4/5,us,130000,3650.0
+gmc,terrain,2016,blue,automatic,4/5,gcc,28000,2800.0
+jeep,grand cherokee,2013,blue,automatic,4/5,gcc,233000,2900.0
+nissan,altima,2020,white,automatic,4/5,us,84000,4800.0
+jeep,renegade,2019,white,automatic,4/5,us,125000,3600.0
+gmc,terrain,2019,black,automatic,4/5,us,120000,4500.0
+suzuki,vitara,2017,beige,automatic,4/5,gcc,250000,3500.0
+renault,safrane,2013,beige,automatic,4/5,company source,190000,950.0
+suzuki,grand vitara,2008,white,manual,4/5,gcc,1111,1200.0
+mini,cooper s,2021,blue,automatic,2/3,gcc,47000,12900.0
+toyota,corolla cross,2017,black,automatic,4/5,us,126668,2900.0
+nissan,kicks,2018,brown,automatic,4/5,gcc,113750,4500.0
+toyota,corolla,2015,silver,automatic,4/5,gcc,25000,3100.0
+suzuki,celerio,2012,white,automatic,4/5,gcc,250000,800.0
+mercedes,c 300,2021,black,automatic,4/5,us,70000,7600.0
+land rover,lr4,2012,burgundy,automatic,4/5,gcc,197000,4400.0
+mitsubishi,lancer,2008,white,manual,4/5,gcc,70000,700.0
+hyundai,santa fe,2010,white,automatic,4/5,gcc,369000,1700.0
+toyota,corolla,2022,burgundy,automatic,4/5,us,45000,5200.0
+toyota,iq,2014,burgundy,automatic,2/3,us,90000,1950.0
+mitsubishi,l200,2024,white,manual,2/3,gcc,24000,5800.0
+toyota,tundra,2017,silver,automatic,4/5,us,204442,7300.0
+honda,accord,2018,white,automatic,4/5,us,149000,4800.0
+kia,sorento,2012,other,automatic,4/5,europe,1000000,2000.0
+hyundai,tucson,2017,brown,automatic,4/5,gcc,142000,4000.0
+ford,explorer,2013,white,automatic,4/5,gcc,207000,2800.0
+bmw,x4 m,2019,white,automatic,4/5,gcc,153000,15500.0
+hyundai,sonata,2012,white,automatic,2/3,gcc,165000,1600.0
+toyota,camry,2021,silver,automatic,4/5,us,12000,6200.0
+mercedes,gle 53 coupe amg,2024,grey,automatic,4/5,gcc,14000,48000.0
+toyota,yaris,2017,white,automatic,4/5,company source,138000,2600.0
+kia,optima,2017,silver,automatic,4/5,us,130000,3150.0
+mazda,3,2007,burgundy,automatic,4/5,gcc,300000,850.0
+nissan,versa,2010,silver,manual,4/5,us,30000,1200.0
+hyundai,elantra,2019,grey,automatic,4/5,us,77096,2700.0
+hyundai,elantra,2010,silver,manual,4/5,gcc,300000,1000.0
+honda,civic,2009,white,automatic,4/5,gcc,200000,1700.0
+gmc,acadia,2012,gold,automatic,4/5,gcc,182800,2400.0
+nissan,armada,2011,white,automatic,4/5,gcc,250000,3000.0
+chevrolet,camaro,2011,black,automatic,2/3,gcc,224000,4500.0
+suzuki,swift,2018,white,automatic,4/5,gcc,230000,2100.0
+jeep,grand cherokee,2016,blue,automatic,4/5,gcc,250000,4800.0
+land rover,range rover vogue,2007,white,automatic,4/5,gcc,200000,1800.0
+hyundai,sonata,2014,grey,automatic,4/5,gcc,196000,1550.0
+honda,city,2017,red,automatic,4/5,gcc,224000,2000.0
+jeep,cherokee,2014,white,automatic,4/5,gcc,170000,2250.0
+mercedes,glc 300,2020,white,automatic,4/5,gcc,70000,15000.0
+nissan,pathfinder,2012,white,automatic,4/5,gcc,248000,3200.0
+mercedes,e 350,2006,gold,automatic,4/5,us,42000,1800.0
+jeep,grand cherokee,2017,grey,automatic,4/5,us,270000,5500.0
+toyota,yaris,2007,white,automatic,4/5,us,300000,1240.0
+toyota,aurion,2008,black,automatic,4/5,gcc,533000,1600.0
+mitsubishi,galant,2010,white,automatic,4/5,gcc,290000,1300.0
+toyota,avalon,2019,burgundy,automatic,4/5,us,80000,8300.0
+hyundai,creta,2018,white,automatic,4/5,gcc,100000,3500.0
+chevrolet,silverado,2018,grey,automatic,4/5,gcc,300000,7400.0
+toyota,corolla,2010,silver,automatic,4/5,gcc,330000,1550.0
+mitsubishi,lancer,2009,gold,automatic,4/5,gcc,320000,1350.0
+audi,q5,2013,black,automatic,4/5,gcc,285000,2650.0
+range rover,range rover,2020,red,automatic,4/5,us,62000,18200.0
+nissan,tiida,2008,silver,manual,4/5,gcc,400000,750.0
+nissan,armada,2009,black,automatic,4/5,europe,30000,1550.0
+hyundai,elantra,2010,silver,manual,4/5,europe,20000,1200.0
+mercedes,e250,2023,black,automatic,4/5,gcc,33000,16500.0
+toyota,yaris,2011,white,automatic,4/5,company source,5000,1600.0
+honda,odyssey,2011,brown,automatic,4/5,gcc,210000,3100.0
+toyota,avalon,2019,burgundy,automatic,2/3,us,110000,6800.0
+toyota,camry,2014,black,automatic,4/5,us,156000,2800.0
+hyundai,tucson,2023,white,automatic,4/5,gcc,17000,8900.0
+suzuki,sx4,2007,white,manual,4/5,gcc,200000,550.0
+hyundai,veloster,2020,grey,automatic,2/3,us,94000,4500.0
+suzuki,swift,2013,silver,automatic,4/5,gcc,2000,1100.0
+nissan,sunny,2017,white,automatic,4/5,gcc,115000,2350.0
+infiniti,m35,2008,white,automatic,4/5,gcc,19000,1500.0
+kia,rio,2012,silver,automatic,4/5,gcc,300000,1100.0
+toyota,rav 4,2010,black,automatic,4/5,gcc,350405,3800.0
+toyota,corolla,2022,silver,automatic,4/5,gcc,51000,5200.0
+mercedes,300/350/380,2015,other,automatic,4/5,us,280000,3400.0
+toyota,camry,2025,red,automatic,4/5,us,89000,5400.0
+chevrolet,camaro,2011,white,automatic,2/3,us,230559,1850.0
+hyundai,accent,2014,red,automatic,4/5,gcc,280000,1350.0
+nissan,tiida,2007,white,automatic,4/5,gcc,475000,600.0
+toyota,camry,2014,grey,automatic,4/5,gcc,300000,2150.0
+bmw,528,2012,black,automatic,2/3,company source,200000,5000.0
+toyota,corolla,2012,silver,automatic,4/5,gcc,220000,1850.0
+mini,cooper s,2017,beige,automatic,4/5,us,155000,4600.0
+hyundai,sonata,2014,white,automatic,4/5,gcc,210000,1500.0
+honda,accord,2009,grey,automatic,2/3,gcc,400000,1600.0
+gmc,yukon,2017,black,automatic,4/5,gcc,230000,7600.0
+suzuki,ciaz,2015,silver,automatic,4/5,gcc,200000,1700.0
+hyundai,accent,2017,silver,automatic,2/3,gcc,230000,2150.0
+hyundai,veloster,2014,grey,automatic,2/3,company source,213260,1600.0
+kia,optima k5,2021,white,automatic,4/5,gcc,153000,4800.0
+hyundai,elantra,2008,silver,manual,4/5,gcc,480000,600.0
+ford,f150,2021,black,automatic,4/5,us,66000,12150.0
+hyundai,sonata,2017,blue,automatic,4/5,gcc,160000,2300.0
+hyundai,elantra,2018,black,automatic,4/5,us,111000,2950.0
+hyundai,elantra,2021,other,automatic,4/5,us,24000,6000.0
+nissan,altima,2017,white,automatic,4/5,gcc,155000,3150.0
+suzuki,swift,2018,silver,automatic,4/5,gcc,135100,2700.0
+toyota,corolla,2016,silver,automatic,4/5,us,110000,3150.0
+ford,mustang,2014,white,automatic,2/3,us,217000,2300.0
+mercedes,r 300,2012,grey,automatic,4/5,gcc,200000,3000.0
+toyota,echo,2010,silver,automatic,4/5,gcc,577250,1500.0
+ford,ranger,2015,white,manual,4/5,gcc,272000,3800.0
+nissan,xterra,2013,red,automatic,4/5,gcc,40000,3700.0
+hyundai,azera,2013,white,automatic,4/5,us,195274,1900.0
+honda,pilot,2013,burgundy,automatic,4/5,gcc,206000,3250.0
+toyota,camry,2015,brown,automatic,4/5,us,172000,3500.0
+toyota,other,2009,white,automatic,2/3,company source,465450,1500.0
+hyundai,tucson,2019,white,automatic,4/5,gcc,240000,5300.0
+ford,fusion,2012,silver,automatic,4/5,gcc,530000,900.0
+nissan,altima,2018,red,automatic,4/5,gcc,155000,3800.0
+honda,accord,2014,white,automatic,4/5,us,250000,2450.0
+mercedes,c 300,2019,grey,automatic,4/5,us,100000,6600.0
+land rover,discovery sport,2019,white,automatic,4/5,company source,37000,10500.0
+audi,a4,2012,grey,automatic,4/5,gcc,116000,3200.0
+kia,sportage,2013,white,automatic,4/5,gcc,212000,2400.0
+renault,duster,2015,brown,automatic,4/5,company source,228057,1000.0
+volkswagen,passat,2015,red,automatic,4/5,company source,138000,3300.0
+mazda,mazda 6,2009,red,automatic,4/5,us,402550,850.0
+jeep,grand cherokee,2011,red,automatic,4/5,gcc,199000,2799.0
+changan,cs85,2023,blue,automatic,4/5,gcc,63000,7200.0
+ford,edge,2008,orange,automatic,4/5,us,400000,650.0
+toyota,camry,2016,black,automatic,4/5,us,180000,4000.0
+volkswagen,passat,2012,blue,automatic,4/5,gcc,4520,1650.0
+gmc,sierra,2016,white,automatic,2/3,us,54000,4200.0
+chevrolet,blazer,2006,silver,automatic,4/5,us,429863,800.0
+nissan,altima,2015,silver,automatic,4/5,us,350000,2300.0
+bmw,x5,2013,black,automatic,4/5,gcc,240000,2800.0
+mitsubishi,pajero,2008,grey,automatic,4/5,gcc,249670,2000.0
+volkswagen,tiguan,2011,white,automatic,4/5,gcc,267000,1400.0
+suzuki,grand vitara,2016,white,automatic,4/5,gcc,200000,2550.0
+suzuki,alto,2008,silver,manual,4/5,gcc,195592,540.0
+toyota,avalon,2011,white,automatic,4/5,us,337600,2850.0
+mitsubishi,pajero,2004,blue,automatic,4/5,gcc,500000,950.0
+chevrolet,impala,2014,blue,automatic,4/5,gcc,180000,3500.0
+hyundai,elantra,2015,red,automatic,4/5,company source,174000,1800.0
+nissan,sunny,2013,white,automatic,4/5,gcc,350000,1250.0
+honda,accord,2015,black,automatic,2/3,us,95000,2900.0
+kia,sirion,2008,red,automatic,4/5,company source,400000,950.0
+nissan,patrol,2016,grey,automatic,4/5,gcc,28000,9200.0
+kia,sportage,2005,green,automatic,4/5,gcc,340000,700.0
+chevrolet,suburban,2018,silver,automatic,4/5,us,112000,8200.0
+mazda,pickup,2009,white,manual,2/3,gcc,280000,2400.0
+jeep,cherokee,2021,orange,automatic,4/5,us,55000,6500.0
+toyota,corolla,2011,white,automatic,4/5,gcc,400000,1900.0
+hyundai,tucson,2017,white,automatic,4/5,gcc,255000,3600.0
+toyota,yaris,2011,silver,automatic,4/5,gcc,347000,1450.0
+toyota,corolla,2022,grey,automatic,4/5,canada,39000,4600.0
+toyota,rav 4,2020,grey,automatic,4/5,canada,72000,75000.0
+gmc,acadia,2019,white,automatic,4/5,us,130050,4450.0
+subaru,legacy,2014,blue,automatic,4/5,gcc,287000,2500.0
+toyota,camry,2011,silver,automatic,2/3,gcc,1000000,1650.0
+hyundai,elantra,2015,blue,automatic,4/5,gcc,173000,2650.0
+subaru,xv,2013,burgundy,automatic,4/5,gcc,155000,2500.0
+toyota,yaris,2009,white,automatic,4/5,gcc,107897,1350.0
+chevrolet,cruze,2010,burgundy,automatic,4/5,gcc,199999,750.0
+mercedes,v 250,2020,other,automatic,2/3,gcc,125000,12700.0
+toyota,camry,2007,silver,automatic,4/5,us,290000,1299.0
+nissan,kicks,2019,silver,automatic,4/5,gcc,57000,3900.0
+nissan,juke,2013,silver,automatic,4/5,us,170000,1200.0
+nissan,pathfinder,2013,white,automatic,4/5,us,345000,2000.0
+mitsubishi,lancer,2008,silver,automatic,4/5,gcc,350000,1000.0
+toyota,corolla,2014,silver,automatic,2/3,us,141690,2400.0
+range rover,range rover,2015,blue,automatic,2/3,gcc,200000,7900.0
+porsche,cayman,2009,grey,automatic,2/3,gcc,125000,5800.0
+hyundai,elantra,2015,red,automatic,4/5,gcc,190000,2100.0
+nissan,pathfinder,2017,blue,automatic,4/5,us,204000,3900.0
+nissan,sentra,2019,silver,automatic,4/5,us,99100,2850.0
+hyundai,sonata,2015,white,automatic,4/5,us,206000,1500.0
+toyota,camry,2021,white,automatic,4/5,us,91000,7200.0
+toyota,yaris,2015,white,automatic,2/3,gcc,400000,2300.0
+kia,rio,2017,silver,automatic,4/5,gcc,120000,1850.0
+dodge,charger,2022,grey,automatic,4/5,us,62000,7500.0
+nissan,altima,2008,silver,automatic,4/5,company source,400000,950.0
+nissan,tiida,2011,silver,automatic,4/5,company source,222500,990.0
+toyota,avalon,2006,silver,automatic,4/5,company source,400000,1250.0
+toyota,land cruiser,2014,white,automatic,4/5,gcc,260000,9300.0
+toyota,corolla,2014,silver,automatic,4/5,us,371800,2500.0
+toyota,corolla,2015,white,automatic,4/5,us,200000,2700.0
+kia,sportage,2012,silver,automatic,4/5,gcc,280000,1900.0
+jeep,renegade,2020,white,automatic,4/5,us,97700,3450.0
+mitsubishi,outlander,2009,other,automatic,4/5,gcc,27500,1550.0
+mini,cooper,2017,red,automatic,4/5,gcc,666666,7000.0
+range rover,range rover sport,2020,black,automatic,4/5,us,99999,16000.0
+alfa romeo,brera,2010,red,automatic,4/5,gcc,1500,1200.0
+mini,cooper,2016,beige,automatic,4/5,us,160000,3000.0
+toyota,rav 4,2019,white,automatic,4/5,us,139000,6500.0
+jeep,wrangler,2017,red,automatic,2/3,canada,119100,5300.0
+subaru,impreza,2009,white,automatic,4/5,gcc,310000,840.0
+mazda,6,2023,other,automatic,4/5,gcc,80000,6800.0
+nissan,rogue,2017,silver,automatic,4/5,us,64000,3100.0
+toyota,yaris,2010,white,automatic,4/5,gcc,365000,1350.0
+porsche,boxster,2015,white,automatic,2/3,gcc,95000,16500.0
+jeep,wrangler,2020,green,automatic,4/5,us,80000,8000.0
+gmc,yukon,2015,black,automatic,4/5,us,200000,6800.0
+ford,escape,2012,silver,automatic,4/5,us,100000,970.0
+dodge,charger,2015,black,automatic,4/5,us,217356,3000.0
+volkswagen,cc,2011,white,automatic,4/5,gcc,195000,2200.0
+suzuki,swift,2007,white,automatic,4/5,gcc,350000,900.0
+hyundai,sonata,2019,silver,automatic,4/5,us,99000,3100.0
+bmw,x5,2015,silver,automatic,4/5,gcc,181000,5000.0
+dodge,charger,2020,white,automatic,4/5,gcc,12900,5350.0
+suzuki,sx4,2011,white,automatic,4/5,gcc,350000,1200.0
+toyota,camry,2015,white,automatic,4/5,gcc,30000,1950.0
+ram,ram,2018,white,automatic,4/5,us,260000,4100.0
+mitsubishi,outlander,2009,grey,automatic,4/5,gcc,410464,1250.0
+mercedes,e240,2005,blue,automatic,4/5,gcc,320000,1200.0
+mercedes,a 200,2022,silver,automatic,4/5,gcc,42000,11500.0
+ford,fusion,2012,black,automatic,4/5,gcc,170000,1400.0
+tesla,model 3,2021,white,automatic,4/5,us,155000,9000.0
+suzuki,swift,2008,burgundy,automatic,2/3,gcc,300000,800.0
+ram,ram,2016,brown,automatic,4/5,gcc,220000,6000.0
+nissan,altima,2012,white,automatic,4/5,gcc,310000,1150.0
+kia,soul,2017,black,automatic,4/5,us,117000,2000.0
+hyundai,elantra,2013,white,automatic,4/5,gcc,280000,1600.0
+hyundai,sonata,2011,silver,automatic,4/5,us,190000,1100.0
+chevrolet,groove,2024,white,automatic,4/5,gcc,28000,5000.0
+nissan,armada,2009,black,automatic,4/5,gcc,343000,1900.0
+chevrolet,aveo,2011,white,automatic,2/3,europe,200000,620.0
+toyota,corolla,2019,black,automatic,4/5,us,135000,5200.0
+toyota,corolla,2013,grey,automatic,4/5,us,350000,2000.0
+infiniti,fx45/fx35,2006,blue,automatic,4/5,europe,285000,1400.0
+kia,carens,2013,white,automatic,4/5,gcc,120000,1450.0
+toyota,corolla,2008,white,automatic,4/5,gcc,500000,1550.0
+hyundai,santa fe,2012,blue,automatic,4/5,gcc,330000,2000.0
+mercedes,c 300,2010,white,automatic,4/5,europe,200000,1800.0
+hyundai,sonata,2021,silver,automatic,4/5,gcc,71000,6300.0
+nissan,kicks,2019,white,automatic,4/5,us,146000,3400.0
+hyundai,sonata,2016,silver,automatic,4/5,gcc,290000,2550.0
+gac,gs 3 em zoom,2024,white,automatic,4/5,gcc,20000,7500.0
+kia,optima k5,2021,silver,automatic,4/5,gcc,40000,8500.0
+toyota,camry,2018,white,automatic,4/5,gcc,120000,4000.0
+mercedes,c180,2010,grey,automatic,4/5,gcc,500000,1200.0
+dodge,charger,2013,black,automatic,4/5,gcc,227125,1000.0
+toyota,avalon,2008,beige,automatic,4/5,europe,400000,1400.0
+hyundai,sonata,2012,black,automatic,2/3,us,220000,1375.0
+changan,cs85,2022,other,automatic,4/5,gcc,63000,6000.0
+suzuki,celerio,2013,burgundy,automatic,4/5,gcc,230000,950.0
+geely,other,2023,silver,automatic,4/5,gcc,91000,6900.0
+hyundai,santa fe,2015,white,automatic,4/5,gcc,193000,2800.0
+toyota,yaris,2007,silver,automatic,4/5,us,20000,1350.0
+chrysler,300,2021,white,automatic,4/5,canada,135000,4900.0
+nissan,sunny,2012,white,automatic,4/5,company source,100000,1200.0
+nissan,sentra,2016,silver,automatic,4/5,gcc,200000,1600.0
+hyundai,tucson,2022,blue,automatic,4/5,us,51000,8400.0
+toyota,tundra,2007,silver,automatic,4/5,us,213000,2600.0
+mitsubishi,lancer,2009,silver,automatic,4/5,gcc,200000,900.0
+hyundai,sonata,2015,silver,automatic,4/5,us,200000,2000.0
+toyota,corolla,2015,silver,automatic,4/5,canada,182000,3000.0
+bmw,428,2015,grey,automatic,4/5,us,159000,5200.0
+volkswagen,jetta,2013,blue,automatic,4/5,gcc,160000,1800.0
+ford,taurus,2013,blue,automatic,4/5,gcc,132000,1950.0
+hyundai,sonata,2015,burgundy,automatic,4/5,us,181000,1800.0
+chevrolet,spark,2018,blue,automatic,4/5,company source,105000,2200.0
+subaru,forester,2011,grey,automatic,4/5,gcc,346000,1000.0
+mg,mg 6,2020,white,automatic,4/5,gcc,133000,3750.0
+kia,cerato,2012,red,automatic,2/3,gcc,30000,1450.0
+toyota,avalon,2005,gold,automatic,4/5,us,180000,1100.0
+toyota,corolla,2013,other,automatic,4/5,canada,112130,3000.0
+geely,gc7,2015,grey,automatic,4/5,gcc,600000,550.0
+jeep,grand cherokee,2014,red,automatic,4/5,gcc,171000,4500.0
+infiniti,q50,2017,white,automatic,4/5,europe,145000,4300.0
+toyota,yaris,2012,other,automatic,4/5,gcc,240477,1800.0
+bmw,z series,2010,black,automatic,2/3,gcc,290000,3000.0
+mitsubishi,pajero,2010,brown,automatic,4/5,gcc,265000,1700.0
+hyundai,elantra,2019,silver,automatic,4/5,europe,160000,2750.0
+hyundai,kona,2022,grey,automatic,4/5,us,90000,4350.0
+mazda,6,2010,burgundy,automatic,4/5,gcc,320000,1450.0
+mercedes,e 300,2011,black,automatic,4/5,gcc,100000,2450.0
+jeep,grand cherokee,2017,grey,automatic,4/5,canada,200000,6500.0
+infiniti,g37,2012,white,automatic,4/5,us,200000,2100.0
+mazda,6,2020,burgundy,automatic,4/5,gcc,127000,5400.0
+infiniti,qx70,2020,black,automatic,4/5,gcc,55000,9300.0
+jetour,jetour x70,2025,white,automatic,4/5,gcc,7000,5500.0
+jeep,wrangler,2020,red,automatic,2/3,gcc,57500,13000.0
+volkswagen,tiguan,2021,white,automatic,4/5,us,175000,4500.0
+hyundai,sonata,2021,grey,automatic,4/5,us,57000,7400.0
+toyota,corolla,2011,gold,automatic,4/5,us,42000,2100.0
+land rover,range rover sport,2011,silver,automatic,4/5,gcc,180000,2500.0
+mercedes,gle 350,2022,blue,automatic,4/5,us,11000,22000.0
+dodge,neon,2017,grey,automatic,4/5,gcc,140000,2000.0
+chevrolet,malibu,2013,other,automatic,4/5,gcc,360000,1000.0
+honda,civic,2005,gold,automatic,4/5,gcc,45000,750.0
+genesis,genesis,2013,yellow,automatic,2/3,gcc,96000,2800.0
+toyota,yaris,2007,white,manual,4/5,gcc,400000,950.0
+kia,optima,2020,white,automatic,4/5,us,45000,3800.0
+lexus,is 300,2019,white,automatic,4/5,us,94000,7300.0
+lexus,es 350,1999,gold,automatic,4/5,gcc,35000,700.0
+nissan,rogue,2021,gold,automatic,4/5,us,90000,6700.0
+lexus,lx 570,2021,white,automatic,4/5,gcc,89000,33000.0
+toyota,yaris,2008,black,automatic,4/5,gcc,296000,1250.0
+mercedes,c 300,2017,black,automatic,4/5,canada,150000,6500.0
+kia,sportage,2013,burgundy,automatic,4/5,gcc,260000,2200.0
+jeep,cherokee,2014,gold,automatic,4/5,gcc,181000,2800.0
+jeep,wrangler,2018,red,automatic,4/5,gcc,146000,8900.0
+dodge,charger,2011,black,automatic,4/5,gcc,345000,1950.0
+audi,a8,2016,white,automatic,4/5,gcc,111000,7500.0
+lexus,rx 350,2018,silver,automatic,4/5,canada,90000,8700.0
+renault,15,2015,white,automatic,4/5,us,300000,750.0
+nissan,juke,2013,red,automatic,4/5,gcc,206000,1200.0
+nissan,xterra,2011,black,automatic,4/5,us,330000,1850.0
+bmw,x5 m,2023,blue,automatic,4/5,us,34000,22000.0
+nissan,tiida,2007,black,automatic,4/5,gcc,295000,900.0
+honda,accord,2023,grey,automatic,4/5,us,40000,8000.0
+nissan,altima,2017,silver,automatic,4/5,us,600000,2700.0
+kia,sportage,2012,burgundy,automatic,4/5,gcc,220655,2700.0
+suzuki,kizashi,2011,white,automatic,4/5,europe,200000,1200.0
+nissan,rogue,2017,green,automatic,4/5,us,161915,4100.0
+hyundai,accent,2011,silver,automatic,4/5,gcc,400000,1000.0
+toyota,land cruiser 76,2022,beige,manual,4/5,gcc,11000,18500.0
+nissan,sentra,2015,grey,automatic,4/5,us,200000,1850.0
+mitsubishi,pajero,2018,black,automatic,2/3,gcc,89048,6250.0
+mg,mg gt,2022,grey,automatic,4/5,gcc,46000,4500.0
+lexus,ux,2019,white,automatic,4/5,us,115721,7400.0
+land rover,lr3,2006,blue,automatic,4/5,gcc,200000,1200.0
+mitsubishi,lancer,2010,blue,automatic,4/5,gcc,385000,999.0
+mitsubishi,lancer,2008,silver,automatic,2/3,company source,986595,780.0
+hyundai,trajet,2003,silver,manual,4/5,gcc,480000,700.0
+volkswagen,caddy,2014,white,automatic,4/5,gcc,210000,1450.0
+dodge,neon,2017,white,automatic,4/5,gcc,92000,1750.0
+mazda,6,2021,other,automatic,4/5,us,175000,5300.0
+toyota,tacoma,1999,red,manual,2/3,us,200000,1550.0
+mazda,mazda 2,2016,brown,automatic,4/5,gcc,300000,1900.0
+kia,seltos,2020,red,automatic,4/5,gcc,194000,4500.0
+dodge,charger,2006,silver,automatic,4/5,us,420000,600.0
+nissan,tiida,2009,white,automatic,4/5,gcc,400000,1050.0
+toyota,corolla,2022,black,automatic,4/5,us,109000,4750.0
+hyundai,sonata,2014,red,automatic,4/5,gcc,130000,3000.0
+hyundai,sonata,2010,white,automatic,4/5,company source,299172,850.0
+hyundai,tucson,2019,other,automatic,4/5,us,77000,4350.0
+jeep,wrangler,2015,red,automatic,2/3,gcc,137000,6900.0
+chrysler,300s,2016,brown,automatic,4/5,us,190000,3500.0
+lexus,es 300,2001,white,automatic,4/5,us,200000,1050.0
+jeep,wrangler,2020,white,automatic,2/3,us,59000,7800.0
+nissan,altima,2020,blue,automatic,4/5,us,30000,3400.0
+toyota,hilux,1994,white,manual,4/5,gcc,3283,850.0
+mazda,3,2021,grey,automatic,2/3,gcc,198000,5500.0
+chevrolet,groove,2023,white,automatic,4/5,gcc,37000,4000.0
+suzuki,swift,2010,grey,automatic,4/5,gcc,391000,1000.0
+peugeot,2008,2019,blue,automatic,4/5,gcc,192329,1850.0
+volkswagen,touareg,2009,burgundy,automatic,4/5,gcc,214000,1000.0
+jeep,wrangler,2018,white,automatic,4/5,gcc,190000,9800.0
+kia,cerato,2011,white,automatic,4/5,company source,11000,1200.0
+lexus,gx 460,2015,white,automatic,4/5,gcc,180000,11000.0
+nissan,pathfinder,2010,white,automatic,4/5,us,200000,1900.0
+toyota,camry,2014,silver,automatic,4/5,gcc,200000,2300.0
+toyota,yaris,2006,silver,automatic,4/5,gcc,500000,1050.0
+renault,fluence,2014,brown,automatic,4/5,gcc,180000,1100.0
+ford,mustang,2018,black,automatic,2/3,us,80000,5300.0
+hyundai,sonata,2013,white,automatic,4/5,us,162000,1500.0
+nissan,pathfinder,2018,white,automatic,4/5,us,164000,4150.0
+nissan,patrol,2018,silver,automatic,4/5,gcc,210000,9900.0
+chevrolet,trailblazer,2013,brown,automatic,4/5,gcc,255124,2500.0
+kia,rio,2011,grey,automatic,2/3,gcc,220000,1050.0
+hyundai,elantra,2018,blue,automatic,4/5,us,75000,2800.0
+honda,accord,2023,burgundy,automatic,4/5,us,25000,6900.0
+toyota,hilux,1994,green,manual,2/3,us,200000,1500.0
+jeep,wrangler,2008,black,manual,2/3,us,250000,2300.0
+mitsubishi,l200,2013,white,manual,4/5,gcc,230000,1000.0
+kia,optima,2012,white,automatic,4/5,us,140000,1500.0
+ford,explorer,2015,blue,automatic,4/5,gcc,87000,4800.0
+kia,sportage,2008,silver,automatic,4/5,gcc,340162,1500.0
+land rover,hse v8,2014,white,automatic,4/5,gcc,152000,9900.0
+hyundai,sonata,2008,white,automatic,4/5,gcc,280000,950.0
+kia,sorento,2020,silver,automatic,4/5,gcc,57000,7500.0
+hyundai,tucson,2015,white,automatic,4/5,gcc,153000,2750.0
+honda,civic,2005,brown,automatic,4/5,gcc,120000,550.0
+toyota,camry,2020,blue,automatic,4/5,us,72000,6800.0
+toyota,camry,2015,blue,automatic,4/5,us,265000,3800.0
+renault,safrane,2015,white,automatic,4/5,gcc,169000,1100.0
+hyundai,veloster,2014,yellow,automatic,2/3,gcc,283000,1700.0
+nissan,sunny,2014,white,automatic,4/5,gcc,240180,1350.0
+nissan,rogue,2019,black,automatic,4/5,us,80000,4500.0
+gmc,terrain,2015,white,automatic,4/5,gcc,166000,2900.0
+land rover,lr2,2009,gold,automatic,4/5,gcc,210000,1200.0
+mg,emgrand 7,2023,other,automatic,4/5,company source,70415,4500.0
+toyota,corolla,2021,black,automatic,2/3,company source,150000,4700.0
+honda,accord,2022,grey,automatic,4/5,us,83000,6300.0
+renault,duster,2015,green,automatic,4/5,gcc,192300,1250.0
+jaguar,xf,2012,white,automatic,4/5,us,200000,3000.0
+toyota,avalon,2006,blue,automatic,4/5,us,25000,1700.0
+dodge,charger,2014,beige,automatic,4/5,gcc,199990,1900.0
+nissan,sunny,2004,silver,manual,4/5,gcc,40000,850.0
+toyota,camry,2008,silver,automatic,4/5,gcc,300000,1550.0
+dodge,neon,2017,black,automatic,4/5,gcc,130000,1500.0
+mg,emgrand 7,2015,brown,automatic,2/3,gcc,269000,740.0
+nissan,versa,2012,grey,automatic,4/5,us,250000,1050.0
+chevrolet,aveo,2017,grey,automatic,4/5,gcc,207000,1250.0
+toyota,camry,2004,grey,automatic,4/5,gcc,400000,850.0
+bmw,x5,2023,other,automatic,4/5,us,34000,22000.0
+geely,gc2,2015,yellow,automatic,4/5,gcc,96000,780.0
+peugeot,partner,2007,white,manual,4/5,gcc,123000,700.0
+suzuki,jimny,2018,brown,manual,2/3,company source,19000,3600.0
+toyota,camry,2012,silver,automatic,4/5,us,200000,2300.0
+toyota,corolla,2015,silver,automatic,4/5,us,193000,2500.0
+kia,optima,2012,white,automatic,4/5,gcc,350000,1300.0
+hyundai,sonata,2009,white,automatic,4/5,gcc,349789,680.0
+jeep,cherokee,1999,blue,automatic,4/5,us,333333,1400.0
+toyota,camry,2018,silver,automatic,4/5,gcc,130000,4000.0
+mercedes,200,2019,white,automatic,4/5,gcc,120000,7999.0
+jeep,wrangler,2020,blue,automatic,4/5,us,94000,10500.0
+toyota,camry,2017,burgundy,automatic,4/5,us,101000,3800.0
+kia,sirion,2010,white,automatic,4/5,gcc,211452,1050.0
+hyundai,sonata,2019,white,automatic,4/5,gcc,152000,3699.0
+ford,expedition,2019,black,automatic,4/5,us,190000,8600.0
+audi,rs q8,2019,gold,automatic,4/5,gcc,77000,19000.0
+chevrolet,suburban,2020,black,automatic,4/5,us,190000,8000.0
+nissan,altima,2021,black,automatic,4/5,us,97000,5300.0
+infiniti,q50,2018,grey,automatic,4/5,us,90000,5700.0
+hyundai,veloster,2021,white,manual,2/3,us,76500,4800.0
+bmw,x5,2014,black,automatic,4/5,company source,250000,5300.0
+ford,f150,2019,white,automatic,4/5,canada,116000,11200.0
+chevrolet,camaro,2017,white,automatic,2/3,gcc,130000,7800.0
+mg,mg 6,2020,silver,automatic,4/5,gcc,115000,2750.0
+genesis,gv 80,2024,blue,automatic,4/5,us,52000,17800.0
+mitsubishi,mirage,2021,black,automatic,4/5,us,96000,2600.0
+ford,explorer,2006,black,automatic,4/5,gcc,300000,850.0
+nissan,sunny,2022,blue,automatic,4/5,gcc,80000,2900.0
+mazda,mazda 2,2014,silver,automatic,4/5,gcc,190000,1120.0
+hyundai,azera,2019,black,automatic,4/5,company source,120000,4200.0
+mitsubishi,galant,2006,other,automatic,4/5,europe,340000,670.0
+land rover,range rover sport,2014,white,automatic,4/5,gcc,210000,7400.0
+nissan,van,2008,white,manual,4/5,gcc,180000,1400.0
+mg,emgrand x7,2015,black,automatic,4/5,gcc,98000,1000.0
+toyota,prado,2019,white,automatic,4/5,company source,42900,16500.0
+toyota,corolla hatchback,2023,white,automatic,4/5,us,46000,6500.0
+toyota,yaris,2024,silver,automatic,4/5,gcc,25000,6000.0
+ford,focus,2009,silver,automatic,4/5,gcc,320000,700.0
+gmc,sierra,2019,blue,automatic,4/5,gcc,150000,12200.0
+honda,accord,2013,grey,automatic,4/5,gcc,190000,3200.0
+toyota,rav 4,2007,white,automatic,4/5,gcc,354490,2350.0
+dodge,charger,2021,grey,automatic,4/5,us,100000,5400.0
+jeep,grand cherokee,2020,white,automatic,4/5,us,10000,8450.0
+gmc,acadia,2011,white,automatic,4/5,us,232000,1850.0
+honda,civic,2001,silver,automatic,4/5,gcc,20000,530.0
+land rover,defender,2022,brown,automatic,4/5,company source,60000,31500.0
+toyota,yaris,2014,white,automatic,4/5,gcc,338848,2350.0
+jeep,grand cherokee,2015,white,automatic,4/5,company source,200000,4250.0
+volkswagen,polo,2014,white,automatic,4/5,gcc,210000,1300.0
+ford,expedition,2020,white,automatic,4/5,us,167000,8700.0
+subaru,impreza,2007,blue,automatic,4/5,europe,400000,950.0
+toyota,yaris,2023,grey,automatic,4/5,gcc,47000,4999.0
+mazda,3,2010,black,automatic,4/5,gcc,300000,950.0
+hyundai,sonata,2018,silver,automatic,2/3,us,99456,3000.0
+lexus,es 350,2017,gold,automatic,4/5,us,7800,6200.0
+hyundai,i10,2020,silver,automatic,4/5,gcc,60000,2250.0
+mitsubishi,pajero,2016,silver,automatic,4/5,gcc,118000,5500.0
+jeep,grand cherokee,2018,brown,automatic,4/5,gcc,171000,6975.0
+chevrolet,equinox,2018,white,automatic,4/5,us,79000,3900.0
+cadillac,cts,2008,white,automatic,4/5,us,200000,1050.0
+nissan,pathfinder,2007,silver,automatic,4/5,us,300000,1100.0
+toyota,yaris,2022,white,automatic,4/5,gcc,120000,4500.0
+jeep,wrangler,2017,silver,automatic,2/3,us,150000,5500.0
+kia,optima,2016,grey,automatic,4/5,gcc,100000,4900.0
+mg,mg rx8,2022,blue,automatic,4/5,gcc,53000,7000.0
+geely,gc6,2018,brown,automatic,4/5,gcc,120000,790.0
+nissan,sunny,2012,silver,automatic,4/5,gcc,91150,1900.0
+chevrolet,silverado,2020,silver,automatic,4/5,us,135000,6400.0
+mitsubishi,outlander,2016,white,automatic,4/5,gcc,260000,3000.0
+volkswagen,teramont,2019,blue,automatic,4/5,gcc,92000,9000.0
+toyota,echo,2001,gold,manual,4/5,gcc,360000,800.0
+hyundai,tucson,2012,red,automatic,4/5,gcc,231000,2200.0
+toyota,corolla,2020,red,automatic,2/3,us,24580,3000.0
+audi,a4,2011,white,automatic,4/5,us,210000,1450.0
+kia,optima,2011,brown,automatic,4/5,gcc,224000,1350.0
+nissan,sunny,2016,silver,automatic,4/5,gcc,174000,1750.0
+hyundai,elantra,2017,burgundy,automatic,4/5,gcc,182000,2750.0
+toyota,crown,2023,white,automatic,4/5,gcc,35000,12900.0
+audi,a4,2010,brown,automatic,4/5,gcc,195668,1800.0
+ford,raptor,2019,blue,automatic,4/5,us,95000,16800.0
+kia,stinger,2018,red,automatic,4/5,us,132000,6900.0
+ford,explorer,2009,red,automatic,4/5,gcc,235000,1500.0
+lexus,gs 430,2007,white,automatic,4/5,gcc,276000,2000.0
+honda,civic,2022,other,automatic,4/5,us,35000,5200.0
+mazda,6,2007,red,automatic,4/5,gcc,400000,650.0
+audi,q3,2022,white,automatic,4/5,us,62000,11700.0
+hyundai,elantra,2023,other,automatic,4/5,us,37900,3800.0
+nissan,sunny,2012,white,automatic,4/5,us,20000,1250.0
+toyota,corolla,2004,white,manual,4/5,gcc,400058,950.0
+hyundai,sonata,2010,silver,automatic,4/5,gcc,500000,1000.0
+mercedes,s 350,2011,brown,automatic,4/5,gcc,19999,3500.0
+chevrolet,captiva,2011,gold,automatic,4/5,gcc,224000,1090.0
+lexus,es 300,1998,black,automatic,4/5,gcc,400000,650.0
+nissan,tiida,2009,white,automatic,4/5,us,250000,1150.0
+jeep,wrangler,2015,grey,automatic,2/3,gcc,157000,4600.0
+hyundai,sonata,2016,blue,automatic,4/5,us,140000,2700.0
+nissan,murano,2018,black,automatic,4/5,us,270566,3500.0
+jeep,wrangler,2018,red,automatic,4/5,us,120000,8500.0
+toyota,camry,2021,red,automatic,4/5,us,110000,6900.0
+chevrolet,aveo,2011,grey,manual,4/5,gcc,250000,550.0
+nissan,other,2004,white,automatic,4/5,gcc,300000,750.0
+toyota,rav 4,2011,blue,automatic,4/5,us,200000,2900.0
+jeep,compass,2019,other,automatic,4/5,gcc,50000,7000.0
+land rover,lr3,2009,blue,automatic,4/5,canada,200000,1150.0
+hyundai,sonata,2012,white,automatic,4/5,gcc,250000,1450.0
+gmc,sierra,2019,black,automatic,2/3,gcc,130000,12100.0
+hyundai,accent,2008,blue,manual,2/3,gcc,280000,700.0
+ford,expedition,2008,green,automatic,4/5,us,30000,1700.0
+hyundai,santa fe,2016,white,automatic,4/5,gcc,156000,4500.0
+hyundai,elantra,2012,beige,automatic,4/5,gcc,306000,1550.0
+nissan,altima,2019,red,automatic,4/5,us,158000,4300.0
+hyundai,sonata,2012,silver,automatic,4/5,gcc,200000,1400.0
+volkswagen,tiguan,2015,blue,automatic,4/5,gcc,175000,3200.0
+nissan,rogue,2021,silver,automatic,4/5,us,105000,4400.0
+chrysler,200/200c ev,2016,white,automatic,4/5,us,46485,3000.0
+hyundai,accent,2015,silver,automatic,4/5,gcc,159000,1850.0
+nissan,xterra,2012,silver,automatic,4/5,us,193000,3000.0
+land rover,discovery,2020,black,automatic,4/5,us,93000,7000.0
+toyota,land cruiser,1998,black,automatic,4/5,company source,490000,3300.0
+nissan,urvan,2018,white,manual,2/3,gcc,95000,5500.0
+kia,sorento,2012,silver,automatic,4/5,gcc,500000,1800.0
+nissan,altima,2017,blue,automatic,4/5,us,95000,2800.0
+mini,cooper s,2002,blue,manual,2/3,gcc,230000,800.0
+mazda,6,2018,white,automatic,4/5,gcc,170000,3650.0
+kia,carnival,2008,white,automatic,4/5,company source,350000,950.0
+nissan,sunny,2010,white,automatic,4/5,company source,250000,950.0
+toyota,yaris,2009,white,manual,4/5,gcc,300000,1150.0
+mercedes,c180,2009,black,automatic,4/5,gcc,285000,1250.0
+mg,mg zs,2020,silver,automatic,4/5,gcc,40000,4500.0
+nissan,sentra,2015,white,automatic,4/5,us,160000,1650.0
+toyota,corolla,2018,black,automatic,4/5,us,1650,3000.0
+toyota,camry,2012,red,automatic,4/5,us,173252,2200.0
+audi,q3,2015,red,automatic,4/5,company source,135000,3800.0
+hyundai,elantra,2009,other,manual,4/5,company source,200000,795.0
+toyota,rav 4,2015,silver,automatic,4/5,us,88900,5600.0
+hyundai,elantra,2009,burgundy,automatic,4/5,gcc,100000,1100.0
+mitsubishi,pajero,2016,black,automatic,4/5,gcc,153000,4000.0
+mitsubishi,lancer,2014,black,automatic,4/5,gcc,298000,1900.0
+suzuki,swift,2009,blue,automatic,4/5,company source,257000,980.0
+mitsubishi,pickup,2002,white,manual,4/5,gcc,42500,550.0
+mini,paceman,2015,black,automatic,4/5,us,109000,3200.0
+porsche,panamera,2012,white,automatic,2/3,gcc,199000,3700.0
+honda,accord,2012,silver,automatic,4/5,gcc,280000,1600.0
+nissan,sentra,2015,silver,automatic,4/5,gcc,228000,1600.0
+kia,rio,2015,red,automatic,4/5,gcc,126000,2100.0
+hyundai,accent,2018,grey,automatic,4/5,gcc,200000,2750.0
+suzuki,swift,2008,burgundy,automatic,4/5,gcc,250000,980.0
+toyota,rav 4,2018,white,automatic,4/5,us,133000,6300.0
+nissan,sunny,2013,silver,automatic,4/5,gcc,245700,1200.0
+dodge,charger,2020,green,automatic,4/5,us,107000,5600.0
+ford,mustang,2017,burgundy,automatic,2/3,us,165000,5900.0
+hyundai,elantra,2017,other,automatic,4/5,gcc,200000,3000.0
+honda,accord,2003,silver,automatic,2/3,gcc,500000,700.0
+lexus,es 350,2019,blue,automatic,4/5,us,58000,10300.0
+mitsubishi,lancer,2016,silver,automatic,4/5,gcc,236000,1950.0
+mercedes,200,2024,white,automatic,4/5,gcc,5000,17800.0
+mitsubishi,outlander,2014,white,automatic,4/5,gcc,163390,2200.0
+chevrolet,impala,2016,silver,automatic,4/5,us,225234,2750.0
+nissan,sunny,2012,burgundy,automatic,4/5,company source,350000,1300.0
+jeep,wrangler,2017,grey,automatic,4/5,us,170000,6800.0
+toyota,camry,2011,black,automatic,4/5,gcc,408000,1600.0
+toyota,other,2011,grey,automatic,4/5,gcc,401200,1750.0
+suzuki,celerio,2012,grey,automatic,4/5,gcc,180000,850.0
+toyota,avalon,2006,black,automatic,4/5,canada,220000,1700.0
+jeep,grand cherokee,2014,white,automatic,4/5,gcc,292000,4200.0
+kia,optima,2013,white,automatic,4/5,us,157000,1550.0
+jeep,grand cherokee,2014,beige,automatic,4/5,gcc,200000,3700.0
+nissan,tiida,2010,white,automatic,4/5,gcc,180000,1050.0
+toyota,camry,2000,white,automatic,4/5,us,40000,800.0
+kia,sportage,2011,white,automatic,4/5,gcc,150000,2000.0
+hyundai,elantra,2017,black,automatic,4/5,gcc,195274,2000.0
+porsche,cayenne gts,2013,white,automatic,4/5,gcc,334000,5200.0
+toyota,land cruiser,2008,white,automatic,4/5,gcc,545051,6500.0
+toyota,tundra,2014,silver,automatic,4/5,gcc,164361,5900.0
+infiniti,q70,2014,black,automatic,2/3,gcc,200000,2200.0
+hyundai,i10,2012,white,automatic,4/5,company source,227377,850.0
+lexus,is 350,2022,white,automatic,4/5,us,64000,12700.0
+renault,duster,2015,white,automatic,4/5,gcc,188000,1100.0
+kia,sirion,2008,other,automatic,4/5,gcc,200000,840.0
+suzuki,swift,2019,grey,automatic,4/5,gcc,132000,3000.0
+mercedes,gle 63 s amg,2018,silver,automatic,4/5,gcc,140000,17000.0
+toyota,camry,2008,silver,automatic,4/5,company source,550000,1450.0
+audi,q5,2012,red,automatic,4/5,gcc,272300,2750.0
+jeep,wrangler,2020,brown,automatic,2/3,us,64000,7400.0
+ford,focus,2014,white,automatic,4/5,gcc,180000,1000.0
+suzuki,swift,2021,blue,automatic,4/5,gcc,236000,2850.0
+chevrolet,cruze,2012,blue,automatic,4/5,gcc,200000,700.0
+jeep,wrangler,2013,white,manual,4/5,us,180000,2900.0
+mitsubishi,galant,2013,red,automatic,4/5,gcc,300000,1280.0
+nissan,versa,2010,other,automatic,2/3,gcc,175000,1050.0
+honda,accord,2008,gold,automatic,4/5,gcc,350000,2000.0
+toyota,camry,2009,white,automatic,4/5,gcc,570000,1200.0
+hyundai,accent,2023,white,automatic,4/5,gcc,42000,4900.0
+chrysler,200/200c ev,2013,white,automatic,4/5,gcc,210000,1150.0
+kia,cerato,2011,brown,automatic,4/5,gcc,40000,1100.0
+chevrolet,camaro,2013,red,automatic,2/3,gcc,230000,1950.0
+mercedes,glc 300,2017,white,automatic,4/5,us,222000,5500.0
+nissan,sunny,2013,silver,automatic,2/3,company source,275087,1250.0
+kia,optima,2013,purple,automatic,4/5,us,166700,1500.0
+mg,mg 6,2015,other,automatic,4/5,gcc,200000,1000.0
+kia,sorento,2016,silver,automatic,4/5,gcc,151000,3750.0
+mg,other,2019,silver,automatic,4/5,gcc,110000,2000.0
+dodge,charger,2015,white,automatic,4/5,us,30000,3000.0
+jeep,grand cherokee,2017,silver,automatic,4/5,gcc,200000,4650.0
+hyundai,tucson,2015,grey,automatic,4/5,gcc,144000,3700.0
+hyundai,sonata,2012,gold,automatic,4/5,gcc,201000,1500.0
+suzuki,grand vitara,2016,white,automatic,2/3,gcc,97000,3400.0
+toyota,camry,2020,black,automatic,4/5,us,11600,7500.0
+toyota,camry,2022,blue,automatic,4/5,us,75000,6999.0
+mg,mg 6,2020,white,automatic,4/5,company source,108000,3200.0
+ssang yong,rexton,2013,white,automatic,4/5,gcc,142000,2500.0
+nissan,sunny,2023,white,automatic,4/5,gcc,47700,4000.0
+hyundai,accent,2016,beige,automatic,4/5,gcc,234200,1750.0
+nissan,altima,2018,black,automatic,4/5,us,170777,3400.0
+nissan,sunny,2016,silver,automatic,4/5,company source,216000,3100.0
+hyundai,elantra,2011,beige,automatic,4/5,gcc,200000,1300.0
+toyota,rav 4,2017,burgundy,automatic,4/5,canada,170000,5300.0
+honda,accord,2016,white,automatic,4/5,us,140535,4500.0
+volkswagen,jetta,2012,blue,automatic,4/5,gcc,300000,1500.0
+toyota,echo,2005,white,manual,4/5,gcc,600000,1200.0
+kia,rio,2008,white,manual,2/3,gcc,425000,650.0
+jeep,cherokee,2015,burgundy,automatic,4/5,gcc,260000,2700.0
+infiniti,fx45/fx35,2008,orange,automatic,4/5,gcc,30000,700.0
+jeep,cherokee,2015,red,automatic,4/5,gcc,260000,2700.0
+audi,q7,2020,white,automatic,4/5,gcc,82000,17450.0
+nissan,maxima,2012,white,automatic,4/5,us,222000,1500.0
+chevrolet,tahoe,2015,brown,automatic,4/5,us,190000,8500.0
+renault,safrane,2010,grey,automatic,4/5,europe,497000,700.0
+kia,sportage,2014,red,automatic,4/5,gcc,156000,3500.0
+mercedes,cla 250,2015,white,automatic,4/5,us,177000,3300.0
+gmc,acadia,2009,brown,automatic,4/5,us,278541,1350.0
+renault,11,2011,white,automatic,4/5,gcc,3514,650.0
+toyota,echo,2004,silver,automatic,4/5,gcc,300000,1050.0
+toyota,yaris,2015,silver,automatic,4/5,gcc,200000,2300.0
+nissan,sentra,2022,burgundy,automatic,4/5,us,82000,3800.0
+jeep,grand cherokee,2012,white,automatic,4/5,gcc,276000,2950.0
+renault,duster,2016,grey,automatic,4/5,gcc,190000,1500.0
+ford,focus,2011,silver,automatic,4/5,gcc,215000,900.0
+hyundai,veloster,2015,white,automatic,2/3,gcc,214000,2050.0
+mercedes,a 220,2021,blue,automatic,4/5,us,37000,7200.0
+dodge,charger,2023,black,automatic,4/5,gcc,29000,14599.0
+jeep,wrangler,2011,orange,automatic,2/3,us,197041,2750.0
+ford,f150,2017,brown,automatic,4/5,us,176000,7450.0
+hyundai,santa fe,2017,silver,automatic,4/5,us,147000,4400.0
+nissan,tiida,2016,grey,automatic,4/5,us,115000,2750.0
+toyota,camry,2007,blue,automatic,4/5,gcc,400000,1200.0
+suzuki,apv,2012,other,manual,4/5,gcc,136253,1600.0
+alfa romeo,giulia,2022,red,automatic,4/5,us,37000,6300.0
+ford,edge,2013,black,automatic,4/5,us,277000,2350.0
+toyota,yaris,2015,white,automatic,4/5,gcc,185000,3500.0
+kia,sirion,2009,grey,automatic,4/5,europe,295604,800.0
+kia,sirion,2005,red,automatic,2/3,europe,100000,750.0
+suzuki,swift,2008,blue,automatic,4/5,gcc,200000,1100.0
+daihatsu,gran max,2014,silver,manual,4/5,company source,390000,1000.0
+hyundai,sonata,2015,grey,automatic,4/5,gcc,180000,2600.0
+mg,mg 5,2019,burgundy,automatic,4/5,gcc,233000,3000.0
+mercedes,300sel,1990,white,automatic,4/5,us,300000,3450.0
+toyota,rav 4,2014,silver,automatic,2/3,gcc,200000,4100.0
+mitsubishi,outlander,2012,silver,automatic,4/5,gcc,178000,2300.0
+toyota,corolla,2019,white,automatic,4/5,canada,144123,3550.0
+mazda,6,2016,silver,automatic,4/5,gcc,450000,2800.0
+jaguar,xf,2015,white,automatic,4/5,gcc,178000,2300.0
+hyundai,sonata,2015,grey,automatic,4/5,us,154226,1850.0
+mercedes,e300,2019,grey,automatic,4/5,us,90000,8800.0
+audi,q7,2016,burgundy,automatic,4/5,gcc,209000,7800.0
+hyundai,i10,2019,grey,automatic,4/5,gcc,20012,2500.0
+dodge,durango,2005,black,automatic,4/5,us,3000,1050.0
+nissan,murano,2019,white,automatic,4/5,us,150000,4500.0
+honda,pilot,2011,silver,automatic,4/5,us,200000,2000.0
+mitsubishi,pajero,2016,gold,automatic,4/5,gcc,280000,4200.0
+subaru,impreza,2019,blue,automatic,4/5,gcc,120000,4800.0
+nissan,armada,2014,blue,automatic,4/5,gcc,130000,5000.0
+mitsubishi,lancer,2004,other,automatic,4/5,gcc,200000,750.0
+jeep,wrangler,2015,white,automatic,2/3,gcc,230000,5700.0
+jeep,wrangler,2002,burgundy,manual,2/3,gcc,400000,2500.0
+land rover,range rover,2015,burgundy,automatic,4/5,gcc,144000,8900.0
+dodge,ram,2022,white,automatic,4/5,canada,45000,17500.0
+audi,a8,2013,brown,automatic,4/5,gcc,159999,2450.0
+toyota,camry,2016,white,automatic,4/5,gcc,170000,2100.0
+chevrolet,tahoe,2021,black,automatic,4/5,us,130000,13900.0
+jeep,wrangler,2019,blue,automatic,4/5,us,12900,7900.0
+toyota,corolla,2010,white,automatic,4/5,gcc,450000,1500.0
+kia,rio,2018,white,automatic,4/5,gcc,200000,2800.0
+nissan,patrol,2019,black,automatic,4/5,gcc,109000,10000.0
+range rover,range rover sport,2007,black,automatic,4/5,gcc,36458,1100.0
+honda,odyssey,2002,grey,automatic,4/5,gcc,100000,750.0
+toyota,fj cruiser,2008,silver,automatic,4/5,gcc,389000,4000.0
+toyota,land cruiser,2022,black,automatic,4/5,gcc,28700,28700.0
+mg,mg 5,2019,white,automatic,4/5,gcc,100000,2500.0
+toyota,corolla,2010,white,automatic,2/3,gcc,338000,1550.0
+mitsubishi,lancer,2008,gold,automatic,4/5,gcc,221000,1600.0
+nissan,pathfinder,2016,brown,automatic,4/5,us,204000,2950.0
+toyota,yaris,2008,black,automatic,4/5,company source,35000,1400.0
+toyota,corolla,2009,white,manual,4/5,gcc,255000,1350.0
+hyundai,veracruz,2008,white,automatic,2/3,gcc,55000,1500.0
+toyota,corolla,2021,blue,automatic,4/5,us,72000,5400.0
+bmw,x35,2019,red,automatic,4/5,gcc,240000,2500.0
+hyundai,accent,2014,silver,automatic,4/5,gcc,270000,1350.0
+volvo,s40,2009,blue,automatic,4/5,gcc,306719,800.0
+nissan,sunny,2006,white,automatic,4/5,company source,30000,750.0
+proton,other,2013,silver,automatic,2/3,gcc,191000,700.0
+toyota,echo,2002,white,manual,4/5,company source,400000,860.0
+infiniti,g37,2010,red,automatic,4/5,gcc,190000,1480.0
+kia,sorento,2016,grey,automatic,4/5,gcc,200000,3500.0
+suzuki,kizashi,2015,white,automatic,4/5,gcc,270000,1700.0
+lexus,is 300,2016,grey,automatic,4/5,us,130000,4200.0
+suzuki,grand vitara,2019,white,automatic,4/5,gcc,150000,3650.0
+hyundai,kona,2020,red,automatic,4/5,gcc,134000,4000.0
+honda,accord,2004,black,automatic,2/3,gcc,20000,800.0
+land rover,defender 90,1996,blue,manual,2/3,company source,10000,6500.0
+nissan,maxima,2016,burgundy,automatic,4/5,us,183000,2600.0
+kia,optima,2005,silver,automatic,4/5,gcc,365000,550.0
+land rover,range rover sport,2015,white,automatic,4/5,gcc,136000,9800.0
+toyota,camry,2019,other,automatic,4/5,us,140000,4700.0
+kia,rio,2013,brown,automatic,4/5,gcc,180000,1950.0
+nissan,patrol,2012,white,automatic,4/5,gcc,300000,5500.0
+cadillac,srx,2015,red,automatic,4/5,gcc,64000,3000.0
+suzuki,ciaz,2024,red,automatic,4/5,gcc,19500,4700.0
+mitsubishi,outlander,2013,silver,automatic,4/5,gcc,250000,2000.0
+hyundai,santa fe,2007,black,automatic,4/5,gcc,350000,1250.0
+mazda,mazda 3,2021,white,automatic,4/5,us,59000,5500.0
+nissan,datsun,2012,white,manual,2/3,gcc,330000,2800.0
+hyundai,accent,2019,gold,automatic,4/5,us,109000,2900.0
+nissan,sunny,2012,grey,automatic,4/5,company source,265000,975.0
+chrysler,300m/300c,2016,white,automatic,4/5,us,169009,3450.0
+jeep,wrangler,1997,red,manual,2/3,us,333333,3300.0
+hyundai,elantra,2010,purple,automatic,2/3,gcc,350000,1300.0
+chevrolet,cruze,2013,blue,automatic,4/5,gcc,108000,1350.0
+mercedes,s 350,2008,white,automatic,4/5,gcc,290000,2200.0
+mercedes,e 350,2021,silver,automatic,4/5,us,60000,15800.0
+honda,accord,2020,white,automatic,4/5,us,50000,5600.0
+gmc,yukon,2016,silver,automatic,4/5,gcc,200000,10500.0
+toyota,camry,2012,white,automatic,2/3,gcc,470000,2200.0
+jeep,wrangler,2021,white,automatic,4/5,us,68000,12800.0
+toyota,rav 4,2020,other,automatic,4/5,canada,87000,7600.0
+mg,cla 250,2018,white,automatic,4/5,gcc,150000,7500.0
+ford,ecosport,2015,silver,automatic,4/5,company source,80000,2300.0
+gmc,yukon,2010,blue,automatic,4/5,us,30000,2500.0
+lexus,lx 470,1999,gold,automatic,4/5,us,200000,1999.0
+toyota,camry,2017,silver,automatic,4/5,us,53000,4500.0
+toyota,rav 4,2011,black,automatic,4/5,gcc,201536,2500.0
+peugeot,traveller,2019,silver,automatic,4/5,gcc,196000,5300.0
+chevrolet,camaro,2015,yellow,automatic,2/3,gcc,199000,3100.0
+suzuki,ciaz,2020,white,automatic,4/5,gcc,190000,2300.0
+jeep,compass,2020,other,automatic,4/5,gcc,100000,5300.0
+suzuki,ciaz,2024,blue,automatic,4/5,gcc,20000,4700.0
+nissan,pathfinder,2020,red,automatic,4/5,us,40000,6400.0
+hyundai,elantra,2012,grey,automatic,4/5,us,170000,1550.0
+mazda,6,2018,other,automatic,2/3,gcc,220000,4200.0
+hyundai,sonata,2018,red,automatic,4/5,us,111000,4600.0
+toyota,xa,2004,white,automatic,4/5,company source,193425,950.0
+toyota,yaris,2012,silver,automatic,4/5,gcc,54500,1580.0
+mg,mg rx5,2023,white,automatic,4/5,company source,44000,4600.0
+toyota,rav 4,2008,green,automatic,4/5,us,240000,1900.0
+nissan,van,2017,white,manual,2/3,gcc,362000,5750.0
+toyota,corolla,2013,brown,automatic,4/5,us,220000,2800.0
+nissan,altima,2017,grey,automatic,4/5,us,164000,2500.0
+chevrolet,malibu,2012,gold,automatic,4/5,gcc,300000,900.0
+toyota,camry,2013,white,automatic,4/5,company source,200000,2000.0
+land rover,discovery,2015,gold,automatic,4/5,company source,95000,11900.0
+volkswagen,polo,2009,white,automatic,4/5,gcc,300000,900.0
+chevrolet,cruze,2016,white,automatic,4/5,gcc,165000,1300.0
+toyota,aurion,2007,black,automatic,4/5,us,262000,1600.0
+toyota,camry,2015,white,automatic,4/5,us,178562,3300.0
+hyundai,santa fe,2014,brown,automatic,4/5,gcc,20000,2400.0
+kia,carens,2008,white,automatic,4/5,gcc,45000,1050.0
+toyota,camry,2018,white,automatic,4/5,canada,120000,8000.0
+toyota,echo,2004,brown,automatic,2/3,gcc,400000,800.0
+honda,accord,2019,black,automatic,4/5,us,104000,4800.0
+kia,rio,2012,blue,automatic,4/5,gcc,128770,1750.0
+hyundai,accent,2011,white,automatic,4/5,gcc,220000,949.0
+hyundai,accent,2009,burgundy,manual,4/5,company source,60000,700.0
+lincoln,mkz,2014,orange,automatic,4/5,gcc,190000,3000.0
+hyundai,santa fe,2013,white,automatic,4/5,gcc,302000,2290.0
+nissan,micra,2020,white,automatic,4/5,gcc,56000,2200.0
+audi,a4,2018,white,automatic,4/5,us,80000,6500.0
+chevrolet,malibu,2017,white,automatic,4/5,gcc,189632,2450.0
+kia,rio,2009,red,manual,4/5,gcc,1000000,600.0
+chevrolet,suburban,2019,black,automatic,4/5,us,10000,9500.0
+land rover,range rover velar,2019,white,automatic,4/5,gcc,72000,12800.0
+mg,mg rx5,2020,white,automatic,4/5,gcc,141000,3700.0
+ford,expedition,2013,silver,automatic,4/5,gcc,120000,5150.0
+renault,safrane,2012,white,automatic,4/5,gcc,20000,850.0
+byd,f3,2012,black,automatic,4/5,gcc,450000,700.0
+toyota,camry,2001,gold,automatic,4/5,gcc,599999,1100.0
+gmc,yukon,2023,beige,automatic,4/5,gcc,45000,26000.0
+nissan,tiida,2013,silver,automatic,4/5,us,172000,1550.0
+kia,sportage,2009,blue,automatic,4/5,gcc,334000,1100.0
+bmw,740,2022,black,automatic,4/5,us,59000,17000.0
+toyota,land cruiser,2013,white,automatic,4/5,gcc,253000,12500.0
+toyota,camry,2005,green,automatic,2/3,us,486252,1400.0
+kia,cerato,2012,silver,automatic,4/5,gcc,200000,1200.0
+nissan,altima,2019,burgundy,automatic,4/5,us,88000,3900.0
+ford,escape,2017,black,automatic,4/5,us,124000,2100.0
+porsche,cayenne,2009,red,automatic,4/5,us,233000,1700.0
+tesla,model 3,2019,grey,automatic,4/5,us,87000,7600.0
+mg,c 63 coupe amg,2019,black,automatic,2/3,us,55000,18000.0
+peugeot,expert,2018,white,automatic,2/3,gcc,185000,3500.0
+kia,cerato,2018,blue,automatic,4/5,us,150000,2600.0
+chevrolet,cruze,2014,red,automatic,4/5,us,100000,1050.0
+toyota,corolla,2022,white,automatic,4/5,canada,53000,6300.0
+nissan,xterra,2015,blue,manual,4/5,gcc,140000,6000.0
+toyota,camry,2024,white,automatic,4/5,gcc,15000,10500.0
+hyundai,elantra,2012,grey,automatic,4/5,gcc,312945,1500.0
+kia,rio,2013,other,automatic,4/5,gcc,192000,1550.0
+nissan,altima,2021,silver,automatic,4/5,us,100000,4250.0
+mercedes,230,2019,white,automatic,4/5,us,130000,6300.0
+mitsubishi,galant,2012,white,automatic,4/5,gcc,198000,1600.0
+kia,rio,2014,blue,automatic,4/5,gcc,182000,1750.0
+mercedes,c250,2014,white,automatic,4/5,company source,300000,2500.0
+mazda,6,2016,white,automatic,4/5,gcc,300000,3100.0
+toyota,camry,2019,white,automatic,4/5,us,142000,4900.0
+mercedes,c 300,2021,grey,automatic,4/5,us,105000,8000.0
+renault,talisman,2019,silver,automatic,4/5,gcc,82000,4099.0
+hyundai,creta,2016,red,automatic,4/5,gcc,10000,3450.0
+land rover,hse v8,2015,white,automatic,4/5,gcc,170000,11800.0
+gmc,sierra,2020,black,automatic,4/5,us,80000,13500.0
+hyundai,i10,2015,beige,automatic,4/5,gcc,320000,1350.0
+mini,cooper s,2023,white,automatic,2/3,us,20000,8300.0
+mitsubishi,pajero,2007,white,automatic,4/5,gcc,326000,1550.0
+porsche,cayenne,2013,white,automatic,4/5,gcc,298000,5400.0
+ford,mondeo,2008,black,automatic,4/5,europe,200000,750.0
+jeep,wrangler,2014,red,automatic,4/5,canada,25000,4000.0
+bmw,320,2008,green,automatic,4/5,gcc,222000,750.0
+honda,accord,2024,blue,automatic,4/5,us,15000,10300.0
+kia,rio,2014,burgundy,automatic,4/5,gcc,167258,1850.0
+toyota,fortuner,2013,white,automatic,4/5,gcc,184000,5700.0
+mercedes,e300,2019,silver,automatic,4/5,us,103000,9100.0
+toyota,prius,2017,white,automatic,4/5,gcc,335000,4250.0
+mitsubishi,pajero,2009,silver,automatic,4/5,us,180362,2200.0
+bmw,x3,2022,other,automatic,4/5,us,9000,13000.0
+genesis,gv 80,2022,green,automatic,4/5,us,43000,11900.0
+ford,edge,2014,white,automatic,4/5,gcc,203000,2350.0
+ford,taurus,2018,black,automatic,4/5,us,200000,3600.0
+jeep,wrangler,2024,white,automatic,4/5,gcc,17000,19400.0
+toyota,hilux,2001,white,manual,4/5,gcc,200000,1800.0
+nissan,versa,2018,white,automatic,4/5,us,170000,2800.0
+toyota,corolla,2018,grey,automatic,4/5,us,177000,3800.0
+hyundai,i20,2013,brown,automatic,4/5,gcc,245000,1400.0
+nissan,xterra,2010,blue,automatic,4/5,gcc,400000,2050.0
+toyota,camry,2013,white,automatic,4/5,gcc,269000,2600.0
+mg,mg hs,2023,blue,automatic,4/5,gcc,67000,7000.0
+jeep,wrangler,2012,black,automatic,4/5,gcc,220000,5000.0
+suzuki,swift,2011,burgundy,automatic,2/3,gcc,30000,1000.0
+toyota,camry,2016,blue,automatic,2/3,us,270000,3700.0
+ram,ram,2022,silver,automatic,4/5,us,95000,9150.0
+ford,mustang,2021,black,automatic,2/3,us,58000,9300.0
+kia,rio,2013,white,automatic,4/5,gcc,400000,1550.0
+ford,explorer,2014,silver,automatic,4/5,us,185000,3000.0
+mazda,6,2016,grey,automatic,4/5,company source,220000,2900.0
+ford,escape,2018,white,automatic,4/5,us,120000,2900.0
+toyota,yaris,2023,white,automatic,4/5,gcc,36500,5300.0
+honda,civic,2007,gold,automatic,4/5,gcc,350000,1150.0
+jeep,wrangler,2018,orange,automatic,2/3,canada,100000,6900.0
+nissan,altima,2010,other,automatic,4/5,gcc,180000,1200.0
+honda,civic,2008,white,automatic,4/5,us,418839,1250.0
+gmc,yukon,2007,black,automatic,4/5,us,295000,1250.0
+dodge,durango,2013,white,automatic,4/5,gcc,210000,2400.0
+toyota,corolla,2009,blue,automatic,2/3,gcc,350000,1500.0
+mitsubishi,outlander,2016,red,automatic,4/5,gcc,230900,3500.0
+audi,q7,2016,white,automatic,4/5,gcc,180000,7450.0
+nissan,altima,2006,grey,automatic,4/5,gcc,516336,800.0
+nissan,sunny,2009,white,automatic,2/3,gcc,90000,920.0
+mg,mg rx8,2020,white,automatic,4/5,gcc,155000,5000.0
+chevrolet,camaro,2015,white,automatic,2/3,us,112000,3200.0
+kia,optima,2013,silver,automatic,4/5,gcc,159000,1100.0
+lexus,gs 250,2013,white,automatic,4/5,gcc,269000,3700.0
+nissan,sunny,2003,white,automatic,4/5,gcc,450000,600.0
+nissan,kicks,2021,white,automatic,4/5,us,340000,4800.0
+mitsubishi,pajero,2010,red,automatic,4/5,gcc,300000,2450.0
+kia,sirion,2009,burgundy,automatic,4/5,company source,300000,890.0
+dodge,charger,2021,grey,automatic,4/5,canada,100000,5600.0
+ford,f150,2024,white,automatic,4/5,us,3800,18900.0
+nissan,juke,2016,white,automatic,4/5,gcc,49000,2250.0
+kia,sportage,2017,silver,automatic,4/5,gcc,189000,4800.0
+toyota,corolla,2020,other,automatic,4/5,us,110000,4100.0
+nissan,versa,2021,grey,automatic,4/5,us,138000,3200.0
+jeep,wrangler,2008,grey,manual,2/3,us,340000,2100.0
+honda,accord,2005,white,automatic,4/5,gcc,400000,650.0
+nissan,versa,2014,white,automatic,4/5,us,69360,1360.0
+infiniti,q50,2019,grey,automatic,4/5,us,142000,5500.0
+kia,rio,2014,black,automatic,4/5,gcc,252000,1250.0
+foton,tunland,2022,white,manual,2/3,company source,670000,3000.0
+porsche,cayenne s,2007,grey,automatic,4/5,europe,200000,1500.0
+toyota,tacoma,2018,silver,automatic,4/5,us,137000,8900.0
+nissan,patrol safari,2016,white,manual,4/5,gcc,233000,9000.0
+mitsubishi,pajero,2015,gold,automatic,4/5,gcc,200000,2200.0
+mercedes,e 350,2022,black,automatic,4/5,us,88000,15000.0
+ford,focus,2015,grey,automatic,4/5,gcc,167000,2100.0
+geely,coolray,2025,white,automatic,4/5,gcc,19000,7800.0
+nissan,kicks,2020,white,automatic,4/5,gcc,111103,4800.0
+kia,optima,2014,brown,automatic,4/5,us,240000,2200.0
+infiniti,fx45/fx35,2005,white,automatic,4/5,gcc,335000,950.0
+dodge,ram,2015,red,automatic,4/5,company source,179000,6370.0
+chevrolet,tahoe,2016,black,automatic,4/5,us,380000,8600.0
+hyundai,santa fe,2012,white,automatic,4/5,gcc,225000,1950.0
+mg,c 350,2015,silver,automatic,4/5,company source,211457,1150.0
+ford,expedition,2018,silver,automatic,4/5,gcc,111489,10000.0
+jeep,wrangler,2021,white,automatic,2/3,us,98000,8050.0
+suzuki,sx4,2011,other,automatic,4/5,company source,30000,1280.0
+bmw,x5,2009,white,automatic,4/5,europe,243000,2250.0
+range rover,other,2006,white,automatic,4/5,company source,239984,1400.0
+nissan,sunny,2017,white,automatic,4/5,us,160000,1650.0
+audi,q7,2010,brown,automatic,4/5,gcc,310000,1600.0
+volkswagen,cc,2011,silver,automatic,4/5,gcc,200000,1800.0
+hyundai,elantra,2023,grey,automatic,4/5,us,54000,4750.0
+jeep,wrangler,2020,grey,automatic,4/5,us,67000,10300.0
+toyota,rav 4,2014,white,automatic,4/5,gcc,340000,3800.0
+lexus,lx 470,2001,white,automatic,4/5,us,350000,2750.0
+nissan,altima,2019,blue,automatic,4/5,us,191000,4100.0
+gmc,acadia,2019,white,automatic,4/5,gcc,78000,5700.0
+dodge,pickup,2016,white,manual,4/5,gcc,83100,4810.0
+mercedes,gle 43 amg,2017,grey,automatic,4/5,us,230000,9800.0
+mercedes,e 350e,2013,silver,automatic,2/3,company source,195000,4500.0
+toyota,yaris,2007,green,automatic,4/5,company source,300000,1100.0
+mg,mg 5,2021,white,automatic,4/5,company source,35000,3650.0
+mg,mg rx8,2020,silver,automatic,4/5,gcc,65000,6000.0
+nissan,altima,2019,grey,automatic,4/5,us,110000,4200.0
+nissan,altima,2013,white,automatic,4/5,us,208577,1700.0
+ford,taurus,2018,white,automatic,2/3,us,200000,3800.0
+renault,duster,2017,white,automatic,4/5,gcc,20000,1450.0
+toyota,corolla,2015,black,automatic,2/3,us,145245,2250.0
+dodge,charger,2015,grey,automatic,4/5,canada,300000,4700.0
+hyundai,accent,2014,white,automatic,2/3,gcc,192542,1300.0
+nissan,sunny,2008,white,automatic,4/5,us,500000,800.0
+kia,cerato,2013,red,automatic,4/5,company source,240000,1100.0
+mercedes,230e,2008,silver,automatic,4/5,gcc,20000,1300.0
+range rover,range rover,2008,white,automatic,4/5,company source,440000,700.0
+nissan,sentra,2018,green,automatic,4/5,canada,200000,2900.0
+bmw,520,2024,red,automatic,4/5,gcc,10000,24500.0
+jeep,wrangler,2006,brown,manual,2/3,gcc,119000,2150.0
+mazda,3,2006,other,automatic,4/5,company source,625387,1000.0
+kia,rio,2017,blue,automatic,4/5,gcc,224000,2000.0
+chevrolet,tahoe,2018,other,automatic,4/5,us,123000,8400.0
+mg,emgrand x7,2018,white,automatic,4/5,gcc,65000,3300.0
+mitsubishi,pajero,2015,brown,automatic,4/5,gcc,291000,4500.0
+toyota,fj cruiser,2008,other,automatic,2/3,gcc,395872,3200.0
+volkswagen,arteon,2018,black,automatic,4/5,gcc,220000,5150.0
+hyundai,elantra,2007,purple,automatic,4/5,gcc,300000,900.0
+lexus,is 350,2014,white,automatic,4/5,us,400000,4100.0
+hyundai,sonata,2015,green,automatic,4/5,us,160000,2500.0
+honda,accord,2019,white,automatic,4/5,canada,166000,5450.0
+kia,optima,2015,grey,automatic,4/5,us,150000,2050.0
+chevrolet,cruze,2012,red,automatic,4/5,gcc,214000,900.0
+nissan,pickup,2014,white,manual,2/3,gcc,429942,3500.0
+nissan,tiida,2010,black,automatic,4/5,us,23000,1100.0
+kia,rio,2008,green,automatic,4/5,gcc,625150,1050.0
+ram,santa fe,2016,white,automatic,4/5,gcc,190000,4550.0
+bmw,i8,2016,white,automatic,2/3,gcc,160000,13000.0
+renault,duster,2015,brown,automatic,4/5,gcc,196000,1450.0
+subaru,impreza,2006,white,automatic,4/5,gcc,200000,800.0
+nissan,pathfinder,2017,white,automatic,4/5,us,158000,4300.0
+hyundai,santa fe,2009,black,automatic,4/5,gcc,100858,950.0
+mitsubishi,lancer,2016,black,automatic,4/5,gcc,146000,2850.0
+mazda,mazda 3,2009,grey,automatic,4/5,gcc,261235,1200.0
+bmw,640,2015,grey,automatic,4/5,gcc,136000,5000.0
+toyota,tundra,2010,white,automatic,4/5,canada,250110,4300.0
+kia,forte,2019,red,automatic,4/5,company source,120000,3200.0
+mitsubishi,pajero,2015,white,automatic,4/5,gcc,187000,3500.0
+nissan,altima,2016,silver,automatic,4/5,us,260000,2400.0
+kia,cerato,2012,white,automatic,4/5,gcc,500000,1200.0
+nissan,pathfinder,2016,white,automatic,4/5,us,125000,4400.0
+ford,focus,2007,burgundy,automatic,4/5,gcc,300000,550.0
+toyota,rav 4,2015,black,automatic,4/5,us,244300,3200.0
+suzuki,sx4,2016,silver,automatic,4/5,gcc,190000,2200.0
+nissan,sunny,2015,other,automatic,4/5,gcc,273400,1500.0
+toyota,fortuner,2015,white,automatic,4/5,gcc,124500,4850.0
+nissan,altima,2019,brown,automatic,4/5,us,129362,2350.0
+lexus,ct 200,2017,white,automatic,4/5,us,22222,6500.0
+ford,figo,2016,other,automatic,4/5,gcc,121000,1600.0
+hyundai,accent,2016,grey,automatic,4/5,gcc,186500,2400.0
+ford,f150,2018,white,automatic,4/5,us,121000,6800.0
+suzuki,grand vitara,2015,white,automatic,4/5,gcc,97000,3000.0
+toyota,rav 4,2023,grey,automatic,4/5,us,38900,9800.0
+suzuki,swift,2008,white,automatic,4/5,gcc,260000,1050.0
+honda,accord,2000,red,manual,4/5,gcc,100000,550.0
+dodge,charger,2012,black,automatic,4/5,us,100000,1800.0
+gmc,sierra,2019,grey,automatic,4/5,us,170000,9000.0
+jetour,t2,2024,black,automatic,4/5,gcc,39000,12000.0
+hyundai,elantra,2016,blue,automatic,4/5,gcc,172000,2650.0
+subaru,impreza,2010,silver,automatic,4/5,gcc,227000,900.0
+chevrolet,impala,2016,white,automatic,4/5,gcc,150000,4200.0
+chrysler,300m/300c,2012,black,automatic,4/5,gcc,184000,2150.0
+hyundai,sonata,2015,white,automatic,4/5,gcc,300000,1650.0
+hyundai,i10,2019,white,automatic,4/5,company source,170000,2800.0
+nissan,sentra,2020,white,automatic,4/5,us,125700,3400.0
+kia,cerato,2006,silver,automatic,4/5,company source,300000,600.0
+nissan,sentra,2016,grey,automatic,2/3,gcc,108000,2000.0
+chevrolet,traverse,2009,silver,automatic,4/5,gcc,23000,800.0
+hyundai,i10,2019,white,automatic,4/5,gcc,225000,1900.0
+lexus,rx 350,2018,white,automatic,4/5,us,10570,10200.0
+nissan,altima,2018,other,automatic,4/5,us,190000,2700.0
+mazda,6,2009,silver,automatic,4/5,gcc,250000,1100.0
+hyundai,santa fe,2009,black,automatic,2/3,gcc,300000,950.0
+honda,accord,2005,blue,automatic,4/5,gcc,340000,810.0
+suzuki,sx4,2009,silver,automatic,4/5,gcc,388411,1050.0
+gac,gn 8,2020,blue,automatic,4/5,gcc,200000,3900.0
+mitsubishi,pajero,2012,white,automatic,4/5,gcc,169000,2800.0
+nissan,murano,2020,black,automatic,4/5,us,145000,1000.0
+ford,focus,2007,silver,automatic,4/5,gcc,250000,600.0
+dodge,durango,2017,white,automatic,4/5,gcc,98000,5300.0
+kia,sportage,2018,gold,automatic,4/5,gcc,174000,4600.0
+mg,mg 5,2024,white,automatic,4/5,gcc,6600,4450.0
+hyundai,elantra,2006,white,automatic,4/5,gcc,411586,700.0
+ford,f150,2016,white,automatic,2/3,canada,10000,4000.0
+toyota,avalon,2008,silver,automatic,4/5,gcc,260000,1650.0
+ford,expedition,2017,black,automatic,4/5,gcc,180000,4800.0
+ford,mustang,2002,black,manual,2/3,us,214370,2500.0
+toyota,corolla,2020,burgundy,automatic,4/5,gcc,90000,4800.0
+ram,ram,2017,black,automatic,2/3,us,155000,4500.0
+hyundai,sonata,2011,grey,automatic,4/5,gcc,250000,1450.0
+range rover,range rover sport,2011,white,automatic,4/5,us,200000,2500.0
+toyota,yaris,2016,silver,automatic,4/5,gcc,260854,2800.0
+toyota,avalon,2015,black,automatic,4/5,us,200000,3800.0
+nissan,altima,2016,silver,automatic,4/5,gcc,159999,2500.0
+nissan,pathfinder,2023,white,automatic,4/5,us,72000,9700.0
+hyundai,accent,2008,black,manual,4/5,company source,23588,760.0
+jeep,ghibli,2015,white,automatic,4/5,gcc,100000,6400.0
+nissan,versa,2020,grey,automatic,4/5,us,94000,2900.0
+kia,sorento,2015,red,automatic,4/5,canada,180000,2750.0
+hyundai,sonata,2015,brown,automatic,4/5,europe,180000,21000.0
+hyundai,sonata,2019,other,automatic,2/3,us,123000,4500.0
+toyota,corolla,2017,white,automatic,4/5,gcc,300000,3650.0
+ram,ram,2017,white,automatic,4/5,us,240000,6500.0
+land rover,evoque,2016,white,automatic,4/5,gcc,190000,6500.0
+ford,f150,2017,black,automatic,4/5,us,250000,6000.0
+nissan,urvan,2009,white,manual,4/5,gcc,290000,1800.0
+suzuki,swift,2013,black,automatic,4/5,gcc,167905,1450.0
+nissan,altima,2015,white,automatic,2/3,us,162400,1500.0
+suzuki,dzire,2015,gold,automatic,4/5,gcc,265000,1600.0
+toyota,corolla,2005,white,manual,4/5,gcc,612100,1000.0
+mg,gla 35 amg,2020,grey,automatic,4/5,us,92000,15500.0
+nissan,navara,2019,white,automatic,4/5,gcc,55457,5000.0
+kia,rio,2007,silver,automatic,4/5,europe,50000,850.0
+toyota,yaris,2016,white,automatic,2/3,gcc,189000,2450.0
+mg,mg 5,2021,silver,automatic,4/5,gcc,71500,3300.0
+jaguar,xj6,2012,grey,automatic,4/5,gcc,165000,3200.0
+toyota,corolla,2013,black,automatic,4/5,europe,15000,1900.0
+mitsubishi,galant,2005,silver,automatic,4/5,gcc,300000,600.0
+mitsubishi,galant,2005,black,automatic,4/5,gcc,200000,800.0
+mitsubishi,outlander,2024,burgundy,automatic,4/5,gcc,33000,11200.0
+kia,sonet,2022,white,automatic,4/5,gcc,93000,5600.0
+toyota,corolla,2013,gold,automatic,4/5,gcc,260000,2100.0
+jeep,compass,2019,white,automatic,4/5,gcc,45000,6000.0
+gmc,acadia,2012,burgundy,automatic,4/5,gcc,162000,1500.0
+nissan,navara,2019,white,manual,2/3,gcc,175000,3000.0
+nissan,kicks,2022,silver,automatic,4/5,gcc,10000,5400.0
+hyundai,sonata,2019,grey,automatic,4/5,us,190000,3200.0
+mg,mg 6,2020,black,automatic,4/5,gcc,86000,3900.0
+volkswagen,beetle,2000,black,automatic,2/3,europe,350000,900.0
+toyota,sienna,2018,silver,automatic,4/5,us,141000,5400.0
+jeep,grand cherokee,2019,black,automatic,4/5,us,180000,5500.0
+dodge,durango,2019,burgundy,automatic,4/5,gcc,95000,10000.0
+mercedes,c 300,2015,black,automatic,4/5,us,290000,4350.0
+mitsubishi,lancer,2007,white,manual,4/5,us,999999,670.0
+peugeot,milan,2008,beige,automatic,2/3,gcc,2222,600.0
+hyundai,veloster,2012,other,automatic,2/3,gcc,200000,1550.0
+toyota,corolla,2008,silver,automatic,4/5,gcc,300000,1550.0
+mg,emgrand 7,2016,silver,automatic,4/5,us,132523,1600.0
+jeep,grand cherokee,2014,brown,automatic,4/5,gcc,220000,3900.0
+hyundai,elantra,2010,burgundy,manual,4/5,gcc,25000,800.0
+hyundai,sonata,2016,white,automatic,4/5,us,125711,2600.0
+nissan,altima,2023,other,automatic,4/5,us,33000,3600.0
+honda,civic,2016,white,automatic,4/5,gcc,260000,3500.0
+hyundai,accent,2012,brown,automatic,4/5,gcc,298674,1400.0
+lexus,es 300,1998,white,automatic,4/5,company source,3000,550.0
+kia,sorento,2009,other,automatic,4/5,gcc,250000,1200.0
+land rover,lr4,2010,green,automatic,4/5,company source,240000,3500.0
+mercedes,280c,1995,silver,automatic,4/5,company source,362000,650.0
+mitsubishi,lancer,2008,silver,manual,2/3,gcc,350000,650.0
+hyundai,tucson,2021,grey,automatic,4/5,us,63000,5250.0
+toyota,rav 4,2018,other,automatic,4/5,us,152000,5600.0
+mg,emgrand 7,2015,silver,automatic,4/5,gcc,170000,999.0
+subaru,impreza,2020,black,automatic,4/5,us,122000,3200.0
+toyota,yaris,2007,red,automatic,4/5,us,25000,950.0
+honda,odyssey,2012,grey,automatic,4/5,company source,349914,2350.0
+toyota,corolla,2019,red,automatic,4/5,us,130400,5600.0
+hyundai,tucson,2018,black,automatic,4/5,us,185000,3600.0
+toyota,ls 430,2004,gold,automatic,4/5,gcc,300000,2300.0
+jeep,wrangler,2024,silver,manual,4/5,us,10000,17800.0
+honda,civic,2003,white,automatic,2/3,us,800000,850.0
+mitsubishi,outlander,2015,white,automatic,4/5,gcc,188000,2950.0
+suzuki,grand vitara,2017,brown,automatic,4/5,gcc,206000,2500.0
+mercedes,e220,2019,white,automatic,4/5,us,60000,7700.0
+mitsubishi,pajero,2015,white,automatic,4/5,company source,146000,4444.0
+nissan,altima,2009,black,automatic,4/5,gcc,195000,1350.0
+mercedes,300/350/380,2016,white,automatic,4/5,us,167834,5200.0
+honda,accord,2002,beige,automatic,4/5,gcc,300000,650.0
+lexus,es 350,2020,silver,automatic,4/5,us,166000,9550.0
+jeep,wrangler,2021,other,automatic,4/5,us,27500,9500.0
+nissan,navara,2013,white,automatic,4/5,gcc,280000,2700.0
+hyundai,accent,2016,silver,automatic,4/5,gcc,186600,1950.0
+mercedes,gle 350,2023,other,automatic,4/5,us,19000,19500.0
+honda,civic,2003,silver,automatic,4/5,company source,539178,650.0
+suzuki,celerio,2015,blue,automatic,4/5,gcc,60000,1900.0
+chrysler,200,2017,grey,automatic,4/5,gcc,49000,2900.0
+bmw,x6m,2014,gold,automatic,4/5,gcc,170000,4900.0
+renault,safrane,2009,grey,automatic,4/5,gcc,245000,700.0
+ford,f150,2019,white,automatic,4/5,gcc,132300,5600.0
+mercedes,ml 350,2011,white,automatic,4/5,europe,200000,2300.0
+renault,symbol,2020,white,automatic,4/5,gcc,110000,1700.0
+hyundai,i40,2013,blue,automatic,4/5,gcc,194000,2100.0
+renault,11,2013,white,automatic,4/5,gcc,300000,800.0
+toyota,corolla cross,2019,other,automatic,4/5,us,20410,5200.0
+mg,emgrand 7,2015,white,automatic,4/5,gcc,135000,950.0
+kia,sportage,2019,white,automatic,4/5,europe,91000,4321.0
+chery,arrizo,2016,grey,automatic,4/5,gcc,180000,980.0
+kia,cerato,2013,brown,automatic,4/5,company source,251000,1200.0
+volkswagen,golf,1991,grey,automatic,4/5,company source,130000,4100.0
+renault,duster,2015,silver,automatic,4/5,gcc,180000,1100.0
+kia,sorento,2009,silver,automatic,4/5,gcc,198000,1300.0
+lexus,is 350,2002,white,automatic,4/5,company source,11116,1000.0
+jeep,wrangler,2018,white,automatic,4/5,us,112653,6500.0
+mercedes,a 220,2020,white,automatic,4/5,us,120000,8000.0
+mitsubishi,pajero,2004,beige,automatic,4/5,gcc,500000,850.0
+honda,other,2017,white,automatic,4/5,us,90000,2650.0
+toyota,fj cruiser,2008,blue,automatic,4/5,gcc,223000,3900.0
+mg,mg zs,2023,silver,automatic,4/5,company source,80000,4500.0
+audi,q3,2018,black,automatic,4/5,us,80500,6100.0
+hyundai,accent,2015,white,automatic,4/5,company source,400000,1600.0
+nissan,sunny,2019,white,automatic,4/5,gcc,100000,2650.0
+suzuki,vitara,2017,blue,automatic,4/5,gcc,215000,3500.0
+nissan,rogue,2018,grey,automatic,4/5,us,129500,3500.0
+dodge,nitro,2009,orange,automatic,4/5,gcc,260000,1100.0
+honda,civic,2009,silver,automatic,4/5,gcc,280000,1750.0
+jeep,wrangler,2012,silver,automatic,2/3,gcc,275000,3850.0
+volkswagen,gti,2011,silver,automatic,4/5,gcc,134900,1400.0
+renault,duster,2017,green,automatic,4/5,gcc,14500,1870.0
+toyota,prado,1998,blue,manual,4/5,gcc,375000,1650.0
+honda,pilot,2021,black,automatic,4/5,gcc,112000,11000.0
+hyundai,elantra,2019,brown,automatic,4/5,gcc,95000,4650.0
+chevrolet,cruze,2011,grey,automatic,4/5,gcc,300000,850.0
+suzuki,swift,2021,burgundy,automatic,4/5,gcc,113000,3400.0
+gmc,acadia,2016,black,automatic,4/5,gcc,200000,3000.0
+mazda,6,2007,white,manual,4/5,gcc,308000,550.0
+nissan,versa,2015,blue,automatic,4/5,us,97000,1500.0
+bmw,x65,2019,grey,automatic,4/5,gcc,110000,1500.0
+gmc,acadia,2016,silver,automatic,4/5,gcc,160000,4500.0
+mitsubishi,pajero,2016,beige,automatic,4/5,gcc,216000,3500.0
+mazda,2,2011,silver,automatic,4/5,gcc,225000,1150.0
+nissan,armada,2015,white,automatic,4/5,gcc,270000,4300.0
+bmw,x6,2022,other,automatic,4/5,gcc,22500,30000.0
+dodge,durango,2012,white,automatic,4/5,gcc,270000,1700.0
+genesis,g80,2018,silver,automatic,4/5,us,137000,4900.0
+mitsubishi,galant,2004,white,automatic,4/5,company source,28000,600.0
+jeep,grand cherokee,2019,white,automatic,4/5,us,150000,6000.0
+toyota,corolla,2015,black,automatic,4/5,gcc,250000,2700.0
+honda,pilot,2013,other,automatic,4/5,gcc,295000,3500.0
+honda,accord,2021,grey,automatic,4/5,us,55000,6600.0
+bmw,x6,2016,white,automatic,4/5,gcc,175000,7500.0
+jeep,wrangler,2021,black,automatic,4/5,us,40000,9500.0
+honda,accord,2018,red,automatic,4/5,us,137000,6300.0
+suzuki,sx4,2013,white,automatic,4/5,gcc,170000,1750.0
+jeep,grand cherokee,2017,burgundy,automatic,4/5,gcc,174000,6000.0
+chery,tiggo,2020,blue,automatic,4/5,gcc,20000,1800.0
+gmc,sierra,2022,red,automatic,2/3,gcc,66000,14900.0
+hyundai,santa fe,2015,brown,automatic,4/5,gcc,160000,1800.0
+nissan,altima,2015,white,automatic,4/5,gcc,165673,2200.0
+jeep,wrangler,2013,silver,automatic,4/5,us,209000,4600.0
+chevrolet,trax,2018,white,automatic,4/5,company source,174000,2000.0
+ram,ram,2017,black,automatic,4/5,us,185000,6000.0
+honda,city,2007,gold,automatic,4/5,company source,1200,1200.0
+toyota,corolla,2021,white,automatic,4/5,gcc,99000,5200.0
+hyundai,sonata,2015,red,automatic,4/5,gcc,125000,2300.0
+mazda,3,2016,brown,automatic,4/5,gcc,120000,3000.0
+volkswagen,touareg,2008,other,automatic,4/5,gcc,19000,1100.0
+kia,cerato,2012,red,automatic,4/5,gcc,340000,1300.0
+volkswagen,golf,2011,red,automatic,4/5,gcc,203000,1300.0
+hyundai,i10,2017,white,automatic,4/5,company source,243428,2200.0
+kia,sportage,2021,silver,automatic,4/5,gcc,120000,5000.0
+honda,civic,2009,brown,automatic,4/5,gcc,546300,1300.0
+ford,edge,2014,silver,automatic,4/5,gcc,138000,2800.0
+ford,figo,2017,white,automatic,2/3,gcc,164000,1200.0
+toyota,yaris,2024,white,automatic,4/5,gcc,65000,5600.0
+nissan,altima,2018,black,automatic,2/3,us,72000,2900.0
+mini,cooper s,2018,blue,automatic,2/3,us,20000,4900.0
+land rover,hse v8,2013,red,automatic,4/5,gcc,290000,4100.0
+mitsubishi,lancer,2014,white,automatic,4/5,gcc,180000,1550.0
+nissan,370z,2016,grey,automatic,2/3,gcc,115000,6000.0
+kia,cadenza,2014,white,automatic,4/5,canada,199999,2500.0
+kia,rio,2022,white,automatic,4/5,us,43000,3900.0
+nissan,altima,2021,black,automatic,4/5,gcc,110000,5400.0
+nissan,sentra,2017,black,automatic,4/5,us,245000,2200.0
+porsche,cayenne,2011,gold,automatic,4/5,gcc,285000,3300.0
+hyundai,sonata,2011,white,automatic,4/5,gcc,227711,1250.0
+toyota,sequoia,2002,brown,automatic,4/5,us,3330,1400.0
+toyota,avalon,2000,gold,automatic,4/5,us,500000,780.0
+hyundai,santa fe,2017,blue,automatic,4/5,gcc,123000,4500.0
+toyota,supra,2022,silver,automatic,2/3,us,66000,14500.0
+chevrolet,malibu,2015,white,automatic,4/5,gcc,133000,1950.0
+volkswagen,golf,2012,grey,automatic,4/5,gcc,286000,1300.0
+toyota,corolla,2018,blue,automatic,2/3,canada,150000,3200.0
+nissan,sunny,2012,black,automatic,4/5,gcc,400000,1200.0
+lexus,nx,2019,white,automatic,4/5,canada,62000,8600.0
+nissan,sunny,2016,grey,automatic,2/3,europe,3000,1500.0
+mercedes,gla 200,2024,white,automatic,4/5,gcc,10400,17250.0
+nissan,altima,2008,white,automatic,4/5,gcc,500000,950.0
+nissan,patrol,2019,grey,automatic,4/5,gcc,124000,12950.0
+infiniti,q60,2018,grey,automatic,4/5,gcc,156000,7500.0
+kia,cerato,2013,other,automatic,4/5,gcc,200000,1600.0
+suzuki,swift,2006,burgundy,automatic,4/5,europe,300000,760.0
+fiat,500,2019,red,automatic,2/3,us,92000,3500.0
+suzuki,apv,2012,silver,manual,4/5,company source,300000,1700.0
+toyota,prado,2011,white,automatic,4/5,gcc,200000,6500.0
+lexus,es 350,2021,blue,automatic,4/5,us,50000,10800.0
+lincoln,mkx,2016,white,automatic,4/5,gcc,98000,6800.0
+kia,cerato,2014,silver,automatic,4/5,gcc,179000,1650.0
+mercedes,e300,2018,white,automatic,4/5,us,165000,7700.0
+bmw,x7,2022,white,automatic,4/5,gcc,31000,28000.0
+suzuki,vitara,2018,silver,automatic,4/5,company source,215000,2900.0
+mini,cooper s,2021,black,manual,4/5,us,28000,4700.0
+audi,q8,2022,black,automatic,4/5,gcc,80000,22000.0
+genesis,g80,2017,black,automatic,4/5,us,180000,4900.0
+toyota,gt86,2013,white,automatic,2/3,us,193087,1750.0
+gmc,yukon,2018,white,automatic,4/5,gcc,180000,10580.0
+infiniti,m37,2013,black,automatic,4/5,gcc,238000,2000.0
+toyota,camry,2017,white,automatic,2/3,gcc,600000,2850.0
+hyundai,accent,2012,white,automatic,4/5,company source,445000,1450.0
+volkswagen,gti,2017,silver,automatic,4/5,gcc,126000,5500.0
+mazda,other,2020,red,automatic,4/5,gcc,55000,7500.0
+nissan,sentra,2020,blue,automatic,2/3,us,172000,2990.0
+nissan,altima,2020,grey,automatic,4/5,gcc,179000,5900.0
+jeep,wrangler,2018,silver,automatic,4/5,us,99000,13000.0
+range rover,range rover,2015,white,automatic,4/5,gcc,112000,13300.0
+hyundai,sonata,2012,white,automatic,4/5,company source,300000,1500.0
+volkswagen,eos,2009,blue,automatic,2/3,gcc,141000,1200.0
+hyundai,santa fe,2009,silver,automatic,4/5,gcc,5000,1150.0
+toyota,corolla,2009,white,automatic,4/5,company source,200000,1540.0
+volkswagen,tiguan,2016,blue,automatic,4/5,gcc,216000,2600.0
+jeep,wrangler,2021,green,manual,4/5,us,73062,6900.0
+ford,f150,2016,grey,automatic,4/5,us,120000,7000.0
+suzuki,vitara,2008,grey,automatic,4/5,company source,350000,1450.0
+toyota,avalon,2021,other,automatic,4/5,us,55000,11000.0
+ford,explorer,2010,black,automatic,4/5,gcc,350000,1300.0
+ford,transit,2023,white,automatic,4/5,us,17523,11300.0
+hyundai,elantra,2013,white,automatic,4/5,company source,250000,1650.0
+chevrolet,malibu,2013,burgundy,automatic,4/5,us,95000,2300.0
+toyota,rav 4,2019,grey,automatic,4/5,us,106000,7800.0
+mitsubishi,pajero,2014,brown,automatic,4/5,gcc,196000,4000.0
+mercedes,other,2011,white,manual,2/3,gcc,2600,10500.0
+kia,sportage,2022,grey,automatic,4/5,europe,85000,6000.0
+nissan,altima,2020,white,automatic,4/5,gcc,249013,3850.0
+renault,fluence,2015,brown,automatic,4/5,gcc,200000,1100.0
+honda,civic,2022,black,automatic,4/5,canada,100000,6500.0
+nissan,patrol,2019,beige,automatic,2/3,us,54000,12000.0
+lexus,is 300,2021,black,automatic,4/5,us,128000,9400.0
+hyundai,sonata,2013,white,automatic,4/5,gcc,200000,1950.0
+bmw,x5,2014,black,automatic,4/5,gcc,238000,3900.0
+hyundai,veloster,2017,grey,automatic,2/3,us,2300,2300.0
+nissan,datsun,2009,gold,manual,4/5,gcc,47000,2200.0
+nissan,altima,2017,black,automatic,4/5,us,156000,2700.0
+nissan,xterra,2015,red,automatic,4/5,gcc,211000,4500.0
+toyota,land cruiser,2020,green,manual,4/5,gcc,84000,19500.0
+toyota,avalon,2006,gold,automatic,4/5,us,24000,1800.0
+toyota,rav 4,2015,white,automatic,4/5,gcc,230000,6500.0
+nissan,sunny,2012,silver,automatic,4/5,company source,200000,1400.0
+nissan,armada,2006,silver,automatic,4/5,us,400000,1000.0
+hyundai,sonata,2020,other,automatic,4/5,us,200000,3450.0
+jeep,cherokee,2020,white,automatic,4/5,us,113000,4600.0
+mitsubishi,pajero,2013,white,manual,4/5,gcc,254600,4200.0
+mercedes,a 250,2013,red,automatic,4/5,gcc,162995,2900.0
+kia,cerato,2019,white,automatic,4/5,gcc,185687,3300.0
+suzuki,dzire,2021,white,automatic,4/5,gcc,140000,3000.0
+nissan,patrol safari,2019,white,automatic,2/3,gcc,100000,11600.0
+toyota,land cruiser,2017,burgundy,automatic,4/5,gcc,230000,17900.0
+kia,cerato,2013,brown,automatic,4/5,gcc,203000,1650.0
+jeep,grand cherokee,2016,grey,automatic,4/5,gcc,310000,5000.0
+mini,countryman,2016,brown,automatic,4/5,us,255260,2500.0
+nissan,kicks,2018,grey,automatic,4/5,us,68000,2500.0
+mitsubishi,pajero,2014,white,automatic,4/5,company source,225000,3400.0
+tesla,model 3,2022,white,automatic,4/5,us,61000,9500.0
+toyota,rav 4,2019,blue,automatic,4/5,us,97000,7000.0
+toyota,corolla,2019,red,automatic,4/5,canada,120000,3200.0
+hyundai,i10,2011,grey,automatic,4/5,gcc,197000,900.0
+honda,pilot,2013,black,automatic,4/5,gcc,380000,3000.0
+ford,explorer,2008,black,automatic,4/5,gcc,178828,1000.0
+tesla,model 3,2019,red,automatic,4/5,us,90000,5800.0
+mercedes,500/560,2012,black,automatic,4/5,us,42000,4700.0
+nissan,maxima,2017,brown,automatic,4/5,us,94000,4200.0
+mg,mg 5,2022,white,automatic,4/5,company source,24000,3200.0
+nissan,xterra,2011,burgundy,automatic,4/5,gcc,360000,2500.0
+nissan,sunny,2008,silver,automatic,4/5,gcc,300000,950.0
+honda,city,2012,white,automatic,4/5,gcc,241785,1400.0
+mitsubishi,pajero,2011,white,automatic,4/5,company source,267000,3500.0
+mercedes,e 350,2014,black,automatic,4/5,europe,244000,4200.0
+jeep,wrangler,2016,black,automatic,2/3,us,180000,4800.0
+chevrolet,malibu,2016,black,automatic,4/5,gcc,200000,1800.0
+chevrolet,malibu,2017,black,automatic,4/5,us,156000,1800.0
+hyundai,elantra,2015,beige,automatic,4/5,gcc,190000,2100.0
+mercedes,glc 250 coupe,2017,white,automatic,4/5,gcc,184000,11400.0
+jeep,grand cherokee,2016,white,automatic,4/5,gcc,200000,4950.0
+nissan,patrol,2016,beige,automatic,4/5,gcc,300000,7500.0
+kia,optima,2012,white,automatic,4/5,company source,300000,1450.0
+volkswagen,passat,2006,blue,automatic,4/5,gcc,390000,650.0
+lexus,gx 460,2004,white,automatic,4/5,gcc,150000,2600.0
+renault,fluence,2011,silver,automatic,4/5,gcc,350000,700.0
+toyota,supra,2021,silver,automatic,2/3,gcc,43000,17600.0
+mitsubishi,pajero,2015,grey,automatic,4/5,gcc,199000,3800.0
+gmc,sierra,2017,blue,automatic,4/5,canada,76200,7200.0
+volvo,s40,2012,silver,automatic,4/5,gcc,164000,2000.0
+chevrolet,tahoe,2017,white,automatic,4/5,gcc,161000,9000.0
+jeep,wrangler,2016,black,automatic,4/5,company source,215000,5700.0
+bmw,m240i,2018,black,automatic,2/3,us,129000,8500.0
+hyundai,sonata,2010,white,automatic,4/5,gcc,320000,850.0
+toyota,camry,2007,white,automatic,4/5,gcc,250000,1600.0
+fuso,fuso canter,2007,white,manual,2/3,gcc,1111,5000.0
+toyota,innova,2015,white,automatic,4/5,gcc,110000,2130.0
+jeep,wrangler,2014,blue,automatic,2/3,gcc,142000,6500.0
+toyota,camry,2013,black,automatic,4/5,us,120000,2300.0
+mg,emgrand 7,2015,gold,automatic,4/5,gcc,150000,1250.0
+chery,qq,2012,orange,manual,4/5,gcc,178564,600.0
+hyundai,veloster,2019,blue,automatic,2/3,gcc,13300,3800.0
+kia,optima k5,2020,black,automatic,4/5,company source,103025,5450.0
+mitsubishi,pajero,2015,beige,automatic,4/5,gcc,400000,3550.0
+toyota,tundra,2003,brown,automatic,2/3,us,300000,2400.0
+toyota,camry,2011,silver,automatic,4/5,us,22552,1850.0
+hyundai,sonata,2011,white,automatic,4/5,company source,100000,1250.0
+nissan,nismo,2016,white,manual,2/3,us,99800,8500.0
+toyota,prado,2010,white,automatic,4/5,gcc,400000,5300.0
+toyota,corolla,2023,white,automatic,4/5,us,43000,6500.0
+jeep,wrangler,2014,black,manual,2/3,us,103000,3450.0
+mg,mg rx5,2023,other,automatic,4/5,company source,14000,7000.0
+ford,fusion,2018,white,automatic,4/5,us,16000,2700.0
+honda,accord,2017,white,automatic,4/5,us,111000,3800.0
+nissan,versa,2012,silver,automatic,4/5,us,157000,1200.0
+toyota,corolla,2023,black,automatic,4/5,us,89000,5000.0
+toyota,camry,1994,white,automatic,4/5,us,250000,600.0
+nissan,other,2015,black,automatic,4/5,us,30000,2000.0
+gmc,sierra,2016,brown,automatic,2/3,gcc,269000,5500.0
+volkswagen,passat,2018,silver,automatic,4/5,gcc,153000,1700.0
+chevrolet,trailblazer,2011,grey,automatic,4/5,us,200000,800.0
+nissan,xterra,2015,black,automatic,4/5,us,275000,5000.0
+volvo,s90,2019,white,automatic,4/5,gcc,115000,10000.0
+land rover,other,2007,white,automatic,4/5,gcc,200000,1300.0
+nissan,sentra,2013,silver,automatic,4/5,us,165000,1350.0
+hyundai,tucson,2019,gold,automatic,4/5,gcc,176000,4950.0
+chrysler,300m/300c,2015,blue,automatic,2/3,us,3300,3100.0
+genesis,g80,2016,silver,automatic,4/5,us,130000,4200.0
+nissan,xterra,2014,grey,automatic,4/5,us,100000,3200.0
+toyota,camry,2021,blue,automatic,4/5,us,65000,7000.0
+jeep,grand cherokee,2015,burgundy,automatic,4/5,company source,158589,4450.0
+nissan,pathfinder,2009,gold,automatic,4/5,gcc,285000,2200.0
+suzuki,sx4,2014,silver,automatic,4/5,gcc,239457,1500.0
+kia,picanto,2008,silver,manual,4/5,gcc,350000,550.0
+nissan,pathfinder,2007,blue,automatic,4/5,gcc,169000,1250.0
+nissan,altima,2021,red,automatic,4/5,us,190111,5300.0
+hyundai,veloster,2013,blue,automatic,2/3,gcc,277000,1300.0
+jeep,wrangler,2020,brown,automatic,4/5,gcc,90000,12450.0
+hyundai,azera,2007,red,automatic,4/5,gcc,697000,880.0
+ford,fusion,2018,gold,automatic,4/5,us,111000,3000.0
+land rover,range rover sport,2013,brown,automatic,4/5,gcc,178000,4000.0
+mitsubishi,pajero,2010,gold,automatic,4/5,gcc,330000,2200.0
+jeep,wrangler,2017,beige,automatic,4/5,gcc,116000,8500.0
+kia,sportage,2020,grey,automatic,4/5,us,42500,4200.0
+range rover,range rover sport,2012,white,automatic,4/5,gcc,195000,3500.0
+kia,optima,2007,gold,automatic,4/5,gcc,300000,800.0
+ford,focus,2017,gold,automatic,4/5,gcc,180000,1550.0
+hyundai,veracruz,2009,black,automatic,4/5,company source,548667,1350.0
+toyota,camry,2019,silver,automatic,4/5,gcc,120000,4300.0
+lexus,es 350,2017,white,automatic,4/5,gcc,160000,7000.0
+kia,sirion,2007,black,automatic,4/5,gcc,200000,700.0
+hyundai,santa fe,2012,black,automatic,4/5,gcc,200000,2000.0
+volkswagen,jetta,2015,red,automatic,4/5,us,149000,1300.0
+changan,cs95,2022,white,automatic,4/5,company source,40000,7000.0
+lexus,es 350,2017,white,automatic,4/5,us,167892,7500.0
+ford,mustang,2019,black,manual,2/3,us,91000,8500.0
+hyundai,sonata,2017,other,automatic,4/5,gcc,255000,2400.0
+mercedes,c 300 coupe,2016,white,automatic,2/3,gcc,230000,6900.0
+hyundai,tucson,2016,grey,automatic,4/5,gcc,170000,3800.0
+chrysler,300m/300c,2015,red,automatic,4/5,canada,177777,3800.0
+volkswagen,gti,2018,red,automatic,4/5,gcc,200000,5200.0
+jeep,wrangler,2020,white,automatic,4/5,us,86000,8800.0
+land rover,defender 110,1999,silver,manual,2/3,company source,175000,3100.0
+dodge,challenger,2015,silver,automatic,2/3,canada,16000,4800.0
+chrysler,300,2012,burgundy,automatic,4/5,us,323000,1400.0
+bmw,x5,2009,burgundy,automatic,4/5,gcc,200000,1700.0
+mercedes,300/350/380,2012,white,automatic,4/5,europe,350000,3400.0
+toyota,camry,2005,silver,automatic,4/5,us,240000,1500.0
+hyundai,elantra,2017,brown,automatic,4/5,gcc,193000,2700.0
+mazda,mazda 3,2005,black,automatic,4/5,company source,107500,610.0
+toyota,tundra,2017,grey,automatic,2/3,us,100000,9800.0
+kia,optima,2019,white,automatic,4/5,us,109000,2800.0
+dodge,challenger,2019,blue,automatic,2/3,us,145000,4700.0
+geely,gc7,2015,blue,automatic,4/5,gcc,100000,650.0
+mitsubishi,pickup,2017,white,manual,4/5,gcc,188000,4300.0
+mercedes,glb class,2021,grey,automatic,4/5,us,48500,10900.0
+chevrolet,trailblazer,2013,blue,automatic,4/5,gcc,145693,2250.0
+mitsubishi,pajero,2017,grey,automatic,4/5,gcc,176000,5200.0
+honda,odyssey,2015,burgundy,automatic,4/5,gcc,189000,3500.0
+mercedes,300/350/380,2013,brown,automatic,4/5,us,299999,3200.0
+nissan,xterra,2014,white,automatic,4/5,gcc,300000,3400.0
+renault,safrane,2014,silver,automatic,4/5,gcc,152000,1200.0
+chevrolet,groove,2024,silver,automatic,4/5,gcc,11400,5300.0
+kia,sorento,2015,red,automatic,4/5,us,79000,3700.0
+mg,emgrand 8,2015,black,automatic,4/5,gcc,200000,850.0
+dodge,charger,2019,grey,automatic,4/5,us,140000,8700.0
+kia,sorento,2014,white,automatic,4/5,gcc,222000,2300.0
+ford,taurus,2018,grey,automatic,4/5,us,170000,3300.0
+mg,other,2023,white,automatic,4/5,company source,34000,6700.0
+gmc,terrain,2020,black,automatic,4/5,us,108000,5400.0
+toyota,camry,2012,black,automatic,4/5,us,200000,2950.0
+hyundai,elantra,2019,white,automatic,4/5,us,175000,2900.0
+ford,f150,2022,white,automatic,2/3,us,90000,6800.0
+mg,glc 43 amg,2017,black,automatic,2/3,canada,200000,7500.0
+lexus,es 300,1996,green,automatic,4/5,us,300000,850.0
+jeep,cherokee,2016,white,automatic,4/5,gcc,210000,3500.0
+volkswagen,teramont,2019,white,automatic,4/5,gcc,110100,13000.0
+bmw,740,2014,white,automatic,4/5,gcc,102000,4500.0
+dodge,charger,2016,grey,automatic,4/5,us,300000,3200.0
+toyota,corolla,2005,white,automatic,4/5,gcc,600000,1500.0
+gmc,sierra,2015,white,automatic,4/5,gcc,420000,6200.0
+hyundai,sonata,2021,white,automatic,4/5,us,100000,3800.0
+hyundai,sonata,2016,white,automatic,4/5,gcc,100000,2500.0
+nissan,versa,2012,silver,automatic,4/5,company source,177155,1080.0
+nissan,murano,2021,beige,automatic,4/5,us,40000,6700.0
+nissan,maxima,2021,silver,automatic,4/5,us,160000,4999.0
+toyota,corolla,2002,white,manual,4/5,gcc,200000,800.0
+nissan,altima,2005,white,automatic,4/5,company source,620000,650.0
+mercedes,s 550,2015,black,automatic,4/5,us,80000,8500.0
+kia,rio,2011,silver,automatic,4/5,company source,300000,1050.0
+hummer,h3,2009,red,automatic,4/5,gcc,285000,2000.0
+toyota,rav 4,2022,silver,automatic,4/5,us,88000,8400.0
+lexus,es 350,2008,white,automatic,4/5,gcc,40000,2100.0
+toyota,yaris,2007,green,automatic,2/3,company source,500000,1100.0
+chevrolet,aveo,2018,white,automatic,4/5,gcc,96000,1800.0
+mg,e 43 amg,2018,grey,automatic,4/5,gcc,100000,12500.0
+audi,js3,2022,white,automatic,4/5,gcc,75000,2500.0
+suzuki,vitara,2008,grey,automatic,4/5,gcc,200000,1250.0
+chevrolet,cruze,2014,white,automatic,4/5,company source,310000,1500.0
+toyota,corolla,2015,red,automatic,4/5,us,70500,3200.0
+jeep,wrangler,2022,grey,automatic,4/5,us,50000,10200.0
+toyota,yaris,2008,white,automatic,2/3,us,535128,1180.0
+hyundai,accent,2016,white,automatic,4/5,company source,1000000,3800.0
+hyundai,sonata,2013,white,automatic,4/5,canada,180000,1350.0
+jeep,wrangler,2011,black,automatic,4/5,gcc,300000,4500.0
+ssang yong,rodius,2007,blue,automatic,4/5,gcc,200000,1300.0
+ford,mustang,2016,green,automatic,2/3,gcc,188000,6600.0
+hyundai,sonata,2013,blue,automatic,4/5,us,185000,1200.0
+jeep,wrangler,2020,blue,automatic,2/3,us,65000,7800.0
+jeep,wrangler,2008,silver,automatic,4/5,us,20000,2500.0
+nissan,patrol,2016,silver,automatic,4/5,gcc,137000,8900.0
+kia,picanto,2009,blue,automatic,4/5,gcc,300000,900.0
+mercedes,c 43 coupe amg,2019,white,automatic,2/3,us,15000,11000.0
+nissan,altima,2016,white,automatic,4/5,us,230000,2600.0
+nissan,kicks,2021,silver,automatic,4/5,gcc,84000,4150.0
+dodge,charger,2018,black,automatic,4/5,canada,139000,5650.0
+mercedes,s 400,2015,white,automatic,4/5,gcc,160000,9500.0
+gmc,terrain,2014,white,automatic,4/5,gcc,96000,2200.0
+infiniti,qx56,2005,green,automatic,4/5,gcc,300000,800.0
+jeep,wrangler,2009,black,manual,2/3,us,340000,1940.0
+renault,fluence,2016,blue,automatic,4/5,gcc,116000,1300.0
+toyota,camry,2022,silver,automatic,4/5,us,129000,7000.0
+nissan,pathfinder,2014,other,automatic,4/5,gcc,200000,2600.0
+toyota,fortuner,2019,white,automatic,4/5,gcc,95000,11100.0
+nissan,maxima,2014,white,automatic,4/5,gcc,1000000,1500.0
+suzuki,dzire,2015,brown,automatic,4/5,gcc,200000,1295.0
+mitsubishi,grandis,2008,grey,automatic,4/5,company source,456000,1150.0
+jeep,wrangler,2017,other,automatic,2/3,canada,107000,7500.0
+dodge,durango,2018,grey,automatic,4/5,us,135000,6800.0
+toyota,avalon,2016,white,automatic,4/5,us,150000,5000.0
+nissan,altima,2021,white,automatic,4/5,us,45000,5500.0
+nissan,rogue,2023,grey,automatic,4/5,canada,92000,8000.0
+toyota,camry,1997,white,automatic,4/5,company source,400000,1100.0
+mitsubishi,pajero,2016,white,automatic,2/3,gcc,71000,5800.0
+toyota,camry,1998,red,automatic,4/5,us,300000,1150.0
+hyundai,accent,2007,burgundy,manual,2/3,gcc,200000,850.0
+toyota,corolla,2015,grey,automatic,4/5,us,133000,2800.0
+toyota,corolla,2012,red,automatic,4/5,us,170000,2199.0
+lincoln,aviator,2021,gold,automatic,4/5,us,168000,10000.0
+jeep,renegade,2021,white,automatic,4/5,us,46000,3650.0
+nissan,sentra,2019,other,automatic,4/5,us,86000,2500.0
+nissan,armada,2019,grey,automatic,4/5,us,87000,10900.0
+chevrolet,lumina,2008,black,automatic,4/5,europe,10000,750.0
+mercedes,300/350/380,2018,green,automatic,4/5,us,150000,6000.0
+hyundai,sonata,2006,white,manual,4/5,gcc,320000,700.0
+nissan,altima,2015,beige,automatic,4/5,us,245000,1250.0
+jeep,grand cherokee,2015,grey,automatic,4/5,gcc,156000,4600.0
+mitsubishi,l200,2003,white,manual,2/3,gcc,280000,1200.0
+lexus,es 350,2007,white,automatic,4/5,us,24500,1700.0
+hyundai,elantra,2011,white,automatic,4/5,gcc,238118,1350.0
+mercedes,e 350,2012,silver,automatic,4/5,company source,8500,3500.0
+mercedes,s 550,2017,grey,automatic,4/5,us,155000,9200.0
+jeep,cherokee,2015,blue,automatic,4/5,gcc,124000,3600.0
+suzuki,sx4,2012,grey,automatic,4/5,company source,200000,1300.0
+gmc,acadia,2013,blue,automatic,4/5,gcc,204000,3000.0
+honda,civic,2000,silver,manual,4/5,gcc,200000,600.0
+nissan,tiida,2011,white,automatic,4/5,company source,200000,1200.0
+ford,explorer,2013,silver,automatic,4/5,gcc,172000,3800.0
+jeep,cherokee,2018,black,automatic,4/5,gcc,139200,3500.0
+renault,safrane,2013,silver,automatic,4/5,europe,270000,1000.0
+toyota,corolla,2004,silver,automatic,4/5,gcc,420000,1100.0
+kia,optima,2006,silver,automatic,4/5,gcc,450000,900.0
+jeep,patriot,2011,silver,automatic,4/5,gcc,290000,1350.0
+hyundai,sonata,2015,brown,automatic,4/5,us,84000,2100.0
+nissan,navara,2013,white,manual,4/5,gcc,320000,1700.0
+mitsubishi,galant,2005,white,automatic,4/5,gcc,280000,650.0
+nissan,versa,2011,silver,automatic,4/5,us,211000,1200.0
+toyota,highlander,2019,green,automatic,4/5,us,56000,8800.0
+gmc,acadia,2012,black,automatic,4/5,gcc,194000,1800.0
+kia,sportage,2017,brown,automatic,4/5,gcc,187000,3850.0
+gmc,sierra,2009,blue,automatic,2/3,canada,300000,2800.0
+honda,accord,2015,grey,automatic,4/5,us,24000,4000.0
+kia,picanto,2006,silver,automatic,4/5,company source,26000,720.0
+mercedes,slc class,2017,white,automatic,2/3,us,65000,9200.0
+mg,emgrand x7,2017,brown,automatic,4/5,gcc,210000,1600.0
+toyota,camry,2015,silver,automatic,4/5,gcc,274109,2300.0
+honda,civic,2017,silver,automatic,4/5,gcc,103000,4000.0
+mazda,6,2004,silver,automatic,4/5,gcc,500000,700.0
+peugeot,301,2014,white,automatic,4/5,europe,196475,1150.0
+kia,rio,2008,white,automatic,4/5,company source,514247,900.0
+geely,other,2024,white,automatic,4/5,gcc,20000,8900.0
+bmw,540,2022,black,automatic,4/5,us,60000,14500.0
+dodge,ram,2021,grey,automatic,4/5,gcc,157000,28000.0
+dodge,charger,2020,black,automatic,4/5,us,152000,4600.0
+volkswagen,passat,2013,white,automatic,4/5,gcc,114000,1700.0
+dodge,charger,2015,blue,automatic,4/5,gcc,181000,3800.0
+honda,civic,2002,white,manual,4/5,company source,25000,510.0
+ford,edge,2013,white,automatic,4/5,gcc,119000,2550.0
+volkswagen,passat,2018,white,automatic,4/5,company source,90000,3500.0
+range rover,range rover,2022,other,automatic,4/5,us,38000,30000.0
+nissan,patrol pickup,2016,grey,automatic,4/5,gcc,20000,9500.0
+mercedes,cla class,2018,white,automatic,4/5,gcc,125000,6900.0
+toyota,gt86,2015,red,automatic,2/3,us,160000,1900.0
+chevrolet,aveo,2016,silver,automatic,2/3,gcc,42222,1200.0
+bmw,x5,2009,white,automatic,2/3,gcc,214000,1750.0
+ford,expedition,2018,brown,automatic,4/5,company source,158000,12000.0
+honda,accord,2017,burgundy,automatic,4/5,us,1654,3900.0
+toyota,camry,2010,white,automatic,4/5,gcc,40000,1650.0
+kia,forte,2012,silver,automatic,2/3,us,140000,1350.0
+kia,rio,2014,white,automatic,4/5,gcc,193000,1200.0
+bmw,x3,2016,silver,automatic,4/5,gcc,114000,4500.0
+mitsubishi,lancer,2012,black,automatic,4/5,gcc,225000,1650.0
+gmc,terrain,2014,gold,automatic,4/5,us,200000,1500.0
+porsche,cayenne s,2012,brown,automatic,4/5,gcc,209000,4800.0
+chevrolet,groove,2023,red,automatic,2/3,gcc,79000,5000.0
+nissan,pathfinder,2018,white,automatic,4/5,europe,100000,4700.0
+kia,cadenza,2011,silver,automatic,4/5,gcc,201000,1299.0
+suzuki,swift,2012,white,automatic,4/5,gcc,398584,1400.0
+renault,safrane,2016,black,automatic,4/5,gcc,122000,1500.0
+baic,bj40,2017,red,automatic,4/5,gcc,121000,3400.0
+kia,sorento,2007,black,automatic,4/5,gcc,300000,850.0
+toyota,camry,2016,silver,automatic,4/5,us,208000,3250.0
+hyundai,accent,2008,other,automatic,4/5,gcc,250000,800.0
+nissan,navara,2016,white,automatic,4/5,gcc,162600,8000.0
+chevrolet,corvette,2022,blue,automatic,2/3,us,26000,25800.0
+toyota,4runner,2015,brown,automatic,4/5,gcc,220000,9500.0
+volkswagen,passat,2009,blue,automatic,4/5,gcc,316000,1100.0
+dodge,challenger,2020,black,automatic,2/3,canada,139000,5300.0
+toyota,yaris,2008,white,manual,4/5,gcc,400000,980.0
+toyota,prado,2003,gold,manual,4/5,gcc,427135,4300.0
+gmc,terrain,2014,black,automatic,4/5,canada,127000,2100.0
+nissan,altima,2024,white,automatic,4/5,us,1300,5300.0
+hyundai,accent,2007,blue,manual,2/3,gcc,222222,700.0
+mazda,6,2009,white,automatic,4/5,gcc,200000,800.0
+kia,sirion,2006,white,automatic,4/5,gcc,394133,630.0
+volkswagen,jetta,2016,grey,automatic,4/5,gcc,182000,2500.0
+nissan,sentra,2021,silver,automatic,4/5,europe,30000,3500.0
+porsche,cayenne s,2014,black,automatic,4/5,gcc,95000,8000.0
+ford,focus,2013,black,automatic,4/5,europe,175000,950.0
+volkswagen,golf r,2013,black,automatic,4/5,gcc,267000,3100.0
+kia,rio,2018,red,automatic,4/5,gcc,123000,3000.0
+nissan,armada,2005,grey,automatic,4/5,gcc,300000,1300.0
+hyundai,tucson,2015,silver,automatic,4/5,gcc,235000,2675.0
+suzuki,grand vitara,2015,brown,automatic,4/5,gcc,300000,3100.0
+hyundai,sonata,2014,silver,automatic,4/5,gcc,200000,1900.0
+toyota,corolla hatchback,2022,silver,automatic,4/5,canada,75000,4550.0
+lexus,is 300,2018,blue,automatic,4/5,us,167000,6800.0
+chevrolet,suburban,2021,black,automatic,4/5,us,181000,12700.0
+subaru,legacy,2015,grey,automatic,4/5,gcc,266000,2000.0
+hyundai,santa fe,2016,blue,automatic,4/5,gcc,145000,3700.0
+suzuki,swift,2024,grey,automatic,4/5,company source,25000,4300.0
+kia,sirion,2006,black,automatic,4/5,company source,251000,735.0
+nissan,armada,2019,blue,automatic,4/5,us,56070,9800.0
+hyundai,elantra,2018,blue,automatic,4/5,canada,218887,2750.0
+nissan,sunny,2012,brown,automatic,4/5,gcc,400000,1090.0
+mitsubishi,lancer,2004,white,automatic,4/5,company source,400000,600.0
+toyota,camry,2022,white,automatic,4/5,us,80000,8700.0
+toyota,land cruiser,1984,white,manual,4/5,gcc,100000,4000.0
+hyundai,veloster,2018,yellow,automatic,2/3,gcc,80000,3800.0
+mercedes,c 300,2022,silver,automatic,4/5,us,40000,14000.0
+toyota,sequoia,2013,white,automatic,4/5,gcc,380000,5900.0
+mazda,6,2015,black,automatic,4/5,gcc,180000,2450.0
+kia,rio,2014,silver,automatic,4/5,gcc,210000,1499.0
+kia,rio,2014,brown,automatic,4/5,gcc,190000,1550.0
+hyundai,accent,2017,white,automatic,4/5,gcc,280000,2000.0
+dodge,durango,2018,silver,automatic,4/5,gcc,200000,6000.0
+toyota,corolla spacio,2008,white,automatic,4/5,gcc,30000,1700.0
+mitsubishi,outlander,2003,white,automatic,4/5,europe,80000,650.0
+mitsubishi,pajero,2018,white,automatic,4/5,gcc,66000,6900.0
+hyundai,elantra,2021,blue,automatic,4/5,us,90000,4000.0
+toyota,yaris,2015,white,automatic,4/5,company source,385000,2100.0
+mg,emgrand 7,2017,blue,automatic,4/5,gcc,200000,700.0
+toyota,echo,2005,white,automatic,4/5,company source,42500,850.0
+gmc,acadia,2014,black,automatic,4/5,canada,230000,2400.0
+honda,odyssey,2017,black,automatic,4/5,us,190000,4400.0
+renault,koleos,2013,white,automatic,4/5,gcc,276793,1300.0
+toyota,camry,2004,gold,automatic,4/5,us,35000,1200.0
+suzuki,ciaz,2020,brown,automatic,4/5,gcc,78000,2800.0
+hyundai,tucson,2024,silver,automatic,4/5,gcc,1900,9300.0
+mitsubishi,lancer,2008,red,automatic,4/5,gcc,290000,1400.0
+toyota,corolla,2004,white,automatic,4/5,company source,70000,1370.0
+kia,optima k5,2022,other,automatic,4/5,us,79000,5500.0
+ford,focus,2011,other,automatic,4/5,company source,327000,800.0
+renault,duster,2014,other,automatic,4/5,europe,200000,950.0
+nissan,sentra,2015,silver,automatic,4/5,europe,140000,1650.0
+toyota,yaris,2007,white,automatic,2/3,us,400000,1300.0
+toyota,yaris,2014,red,automatic,4/5,us,177000,2100.0
+ford,focus,2016,red,automatic,4/5,gcc,54100,2600.0
+dodge,ram,2004,white,automatic,4/5,us,250000,1350.0
+suzuki,grand vitara,2013,burgundy,automatic,4/5,gcc,169000,2150.0
+jeep,other,2011,black,automatic,4/5,us,2000,1650.0
+toyota,rav 4,2014,silver,automatic,4/5,us,100000,3800.0
+toyota,corolla,2019,grey,automatic,4/5,us,10000,3200.0
+mercedes,300/350/380,2012,blue,automatic,4/5,us,15000,2500.0
+kia,rio,2012,burgundy,automatic,4/5,gcc,111111,1200.0
+mazda,3,2008,white,automatic,4/5,gcc,300000,850.0
+kia,rio,2016,silver,automatic,4/5,company source,120000,2150.0
+chevrolet,camaro,2016,yellow,automatic,2/3,gcc,118000,4900.0
+suzuki,celerio,2011,white,automatic,4/5,gcc,300000,720.0
+kia,sirion,2009,other,automatic,4/5,gcc,30000,1000.0
+chevrolet,caprice,2007,white,automatic,4/5,gcc,50000,1200.0
+toyota,camry,2009,white,automatic,4/5,company source,50000,1400.0
+mini,countryman,2014,white,automatic,4/5,gcc,145000,2900.0
+jeep,grand cherokee,2009,white,automatic,4/5,gcc,191000,1100.0
+nissan,armada,2006,white,automatic,4/5,gcc,386509,1500.0
+mitsubishi,pajero io,2012,white,automatic,4/5,company source,195000,2300.0
+volvo,s40,2009,red,automatic,4/5,gcc,155000,850.0
+ford,taurus,2011,grey,automatic,4/5,us,32000,1450.0
+toyota,corolla,2016,white,automatic,4/5,gcc,420000,3100.0
+mazda,3,2019,grey,automatic,2/3,gcc,140000,3550.0
+toyota,corolla,2016,white,automatic,4/5,us,333000,2650.0
+infiniti,other,2011,white,automatic,4/5,company source,190000,4000.0
+kia,sorento,2017,brown,automatic,4/5,gcc,180000,3950.0
+dodge,dart,2015,black,automatic,4/5,canada,180000,1500.0
+volkswagen,tiguan,2014,grey,automatic,4/5,gcc,160000,3000.0
+mini,clubman,2017,beige,automatic,4/5,us,74000,3000.0
+kia,cerato,2010,blue,automatic,4/5,europe,200000,1100.0
+mazda,3,2021,silver,automatic,4/5,us,35000,4800.0
+suzuki,swift,2015,red,automatic,2/3,gcc,146000,2150.0
+chevrolet,tahoe,2017,blue,automatic,4/5,gcc,20000,10500.0
+mercedes,e 350,2014,black,automatic,4/5,us,166000,3400.0
+toyota,corolla hatchback,2022,white,automatic,4/5,us,32000,6150.0
+honda,pilot,2018,white,automatic,4/5,company source,71000,9500.0
+hyundai,elantra,2019,white,automatic,4/5,gcc,100000,3500.0
+mercedes,c 63 amg,2015,beige,automatic,4/5,us,120000,10950.0
+proton,persona,2012,silver,automatic,4/5,gcc,160000,700.0
+foton,hilux,2021,white,manual,2/3,gcc,64000,3000.0
+nissan,altima,2010,white,automatic,4/5,gcc,210000,1150.0
+mitsubishi,pajero,2019,gold,automatic,4/5,gcc,103500,5400.0
+jeep,wrangler,2008,silver,manual,2/3,us,34000,2100.0
+hyundai,accent,2012,blue,automatic,4/5,company source,360000,1400.0
+jeep,wrangler,2017,grey,automatic,2/3,gcc,170000,6000.0
+mercedes,gle class,2020,white,automatic,4/5,us,84000,18600.0
+nissan,altima,2005,silver,automatic,4/5,us,530000,760.0
+toyota,camry,2016,blue,automatic,4/5,us,20000,3000.0
+nissan,sentra,2014,silver,automatic,4/5,us,220000,1500.0
+dodge,durango,2005,burgundy,automatic,4/5,europe,42500,550.0
+land rover,range rover sport,2018,black,automatic,4/5,us,97000,13500.0
+ram,camry,2020,white,automatic,4/5,us,123000,6700.0
+subaru,impreza,2007,green,automatic,4/5,company source,380591,700.0
+mazda,mazda 6,2019,white,automatic,4/5,us,80000,4700.0
+gmc,terrain,2019,silver,automatic,4/5,us,75000,4400.0
+lexus,es 300,2002,other,automatic,4/5,gcc,30000,850.0
+renault,fluence,2012,blue,automatic,4/5,company source,100000,600.0
+mitsubishi,montero,2016,white,automatic,4/5,gcc,277500,4600.0
+kia,cerato,2010,silver,automatic,4/5,europe,300000,1050.0
+mitsubishi,pajero,2014,white,automatic,4/5,gcc,300000,2800.0
+kia,rio,2015,silver,automatic,2/3,gcc,350000,1550.0
+nissan,tiida,2009,red,automatic,2/3,gcc,239000,1050.0
+mitsubishi,outlander,2008,gold,automatic,4/5,gcc,273000,1550.0
+toyota,rush,2022,white,automatic,4/5,gcc,68000,4500.0
+mercedes,e200,2023,white,automatic,4/5,gcc,19000,22000.0
+subaru,wrx,2011,blue,manual,4/5,gcc,199999,2800.0
+mitsubishi,pajero,2013,silver,automatic,4/5,gcc,400000,3500.0
+mitsubishi,galant,2010,gold,automatic,4/5,gcc,350000,1150.0
+mitsubishi,pickup,2013,white,manual,4/5,gcc,200000,2500.0
+nissan,armada,2011,grey,automatic,4/5,us,260000,2350.0
+volkswagen,passat,2007,blue,automatic,4/5,gcc,350000,1050.0
+ford,edge,2013,black,automatic,4/5,canada,200000,2000.0
+toyota,yaris,2007,white,manual,2/3,gcc,282000,1100.0
+kia,sportage,2022,black,automatic,4/5,us,75000,5800.0
+hyundai,sonata,2017,silver,automatic,4/5,us,196000,2050.0
+honda,odyssey,2016,silver,automatic,4/5,gcc,190000,5900.0
+mercedes,gle 53 coupe amg,2022,white,automatic,4/5,us,90000,29500.0
+suzuki,baleno,2024,blue,automatic,4/5,gcc,60000,4500.0
+mini,countryman,2019,grey,automatic,4/5,us,72000,5500.0
+geely,gc2,2015,green,automatic,4/5,gcc,170000,750.0
+chevrolet,equinox,2018,silver,automatic,4/5,us,70000,3100.0
+chevrolet,epica,2011,black,automatic,4/5,gcc,420000,800.0
+infiniti,qx80,2016,white,automatic,4/5,us,100000,7500.0
+gmc,sierra,2008,white,automatic,4/5,us,300000,2200.0
+toyota,camry,2015,silver,automatic,4/5,us,210000,2400.0
+toyota,rav 4,2018,red,automatic,4/5,us,18000,5300.0
+audi,a3,2016,white,automatic,4/5,gcc,180000,2600.0
+lexus,gs 350,2015,grey,automatic,4/5,us,132000,4900.0
+hyundai,sonata,2016,burgundy,automatic,4/5,us,180000,2100.0
+mitsubishi,lancer,2017,beige,automatic,4/5,gcc,171000,2650.0
+mercedes,glk 350,2015,black,automatic,4/5,us,268000,1500.0
+nissan,altima,2019,other,automatic,4/5,us,1000000,3400.0
+infiniti,q50,2022,red,automatic,4/5,gcc,37000,9800.0
+hyundai,sonata,2008,silver,automatic,4/5,gcc,700000,820.0
+suzuki,swift,2008,white,automatic,2/3,gcc,270000,790.0
+nissan,versa,2012,red,automatic,4/5,us,19000,1400.0
+kia,rio,2009,silver,automatic,4/5,gcc,1000000,750.0
+honda,civic,2005,grey,automatic,4/5,gcc,450000,800.0
+honda,accord,2017,black,automatic,4/5,us,138000,3950.0
+toyota,camry,2019,brown,automatic,4/5,us,40000,5500.0
+suzuki,swift,2007,burgundy,automatic,4/5,gcc,123456,770.0
+gmc,sierra,2018,silver,automatic,4/5,canada,155839,6100.0
+mitsubishi,lancer,1994,white,manual,4/5,gcc,300000,650.0
+mg,c 350,2021,white,manual,4/5,gcc,4500,3000.0
+nissan,rogue,2020,grey,automatic,4/5,us,67000,4100.0
+jetour,dasheng,2024,grey,automatic,4/5,gcc,20000,8400.0
+hyundai,accent,2020,silver,automatic,4/5,gcc,148000,3350.0
+chevrolet,traverse,2012,silver,automatic,4/5,gcc,330459,700.0
+volkswagen,teramont,2018,silver,automatic,4/5,gcc,161000,5000.0
+mercedes,400/420,2017,white,automatic,2/3,us,65000,8000.0
+volkswagen,jetta,2012,silver,automatic,4/5,gcc,300000,1050.0
+volvo,xc90,2016,grey,automatic,4/5,gcc,145000,7800.0
+nissan,altima,2024,silver,automatic,4/5,us,18000,6200.0
+nissan,armada,2009,brown,automatic,4/5,gcc,171000,2100.0
+kia,sirion,2008,brown,automatic,4/5,company source,400000,800.0
+toyota,camry,2014,silver,automatic,4/5,us,440000,2900.0
+chevrolet,cruze,2012,beige,automatic,4/5,gcc,243151,1250.0
+chevrolet,captiva,2008,gold,automatic,4/5,gcc,200000,900.0
+mazda,2,2012,silver,automatic,4/5,gcc,262000,1400.0
+hyundai,sonata,2011,white,automatic,4/5,us,20000,1350.0
+mercedes,cls,2013,white,automatic,4/5,us,170000,6800.0
+mg,mg gt,2023,white,automatic,4/5,gcc,60000,5000.0
+kia,rio,2009,grey,automatic,4/5,gcc,850000,850.0
+suzuki,swift,2010,red,automatic,4/5,gcc,311600,1050.0
+hyundai,elantra,2009,burgundy,manual,4/5,gcc,247000,880.0
+hyundai,tucson,2011,brown,automatic,4/5,gcc,300000,1900.0
+nissan,pathfinder,2013,gold,automatic,4/5,us,140000,2300.0
+nissan,sunny,2012,white,automatic,4/5,gcc,200000,1150.0
+toyota,camry,2001,white,automatic,4/5,us,200000,900.0
+ford,ecosport,2015,white,automatic,4/5,gcc,147361,1700.0
+nissan,maxima,2017,white,automatic,4/5,gcc,118000,5500.0
+toyota,iq,2012,silver,automatic,2/3,us,157000,1850.0
+mitsubishi,pajero,2004,other,automatic,4/5,gcc,200000,800.0
+mitsubishi,pajero,2004,white,automatic,4/5,gcc,150000,800.0
+mg,emgrand gs,2023,white,automatic,4/5,gcc,35000,3600.0
+jeep,grand cherokee,2019,grey,automatic,4/5,gcc,170000,7000.0
+mercedes,ml 63 amg,2015,brown,automatic,4/5,gcc,108000,9000.0
+land rover,range rover sport,2011,black,automatic,4/5,gcc,76000,5500.0
+honda,accord,2020,red,automatic,4/5,us,54000,6500.0
+subaru,camry,2022,red,automatic,4/5,gcc,19420,11800.0
+chevrolet,groove,2022,blue,automatic,4/5,gcc,50000,4500.0
+hyundai,elantra,2020,red,automatic,2/3,us,76285,3550.0
+toyota,avalon,2013,grey,automatic,2/3,gcc,290000,3500.0
+toyota,camry,2013,grey,automatic,4/5,us,30000,2200.0
+chery,qq,2011,white,manual,4/5,europe,82000,580.0
+changan,cs85,2023,silver,automatic,4/5,gcc,39000,8900.0
+ford,escape,2015,orange,automatic,4/5,gcc,135000,2800.0
+suzuki,ciaz,2019,white,automatic,2/3,gcc,187000,2200.0
+toyota,corolla,2019,grey,automatic,2/3,canada,89000,3800.0
+mazda,6,2018,blue,automatic,4/5,us,68000,4650.0
+porsche,cayenne,2019,white,automatic,4/5,gcc,63500,25900.0
+honda,accord,2012,white,automatic,4/5,gcc,250000,1600.0
+honda,accord,2023,black,automatic,2/3,us,21000,7400.0
+kia,sportage,2018,red,automatic,4/5,gcc,200000,4000.0
+mazda,3,2007,white,manual,4/5,gcc,200000,640.0
+audi,cs35 plus,2022,red,automatic,4/5,gcc,92000,4300.0
+jeep,wrangler,2010,silver,automatic,2/3,us,260000,2800.0
+honda,civic,2005,silver,manual,4/5,gcc,443052,580.0
+hyundai,tucson,2015,brown,automatic,4/5,company source,196000,3200.0
+hyundai,azera,2014,silver,automatic,4/5,gcc,297000,2200.0
+hyundai,sonata,2021,gold,automatic,4/5,us,71000,5600.0
+suzuki,sx4,2009,blue,automatic,4/5,gcc,300000,1000.0
+mercedes,e300,2021,black,automatic,4/5,us,61000,10500.0
+mercedes,c 300,2013,white,automatic,4/5,us,230000,2100.0
+jeep,wrangler,2012,other,manual,2/3,us,1999,3300.0
+suzuki,swift,2006,red,manual,4/5,gcc,403550,540.0
+chery,tiggo 7,2019,red,automatic,4/5,gcc,74000,3100.0
+nissan,sunny,2011,white,automatic,4/5,company source,2011,800.0
+nissan,armada,2019,black,automatic,4/5,us,113000,8900.0
+suzuki,dzire,2022,silver,automatic,4/5,gcc,107000,2850.0
+nissan,murano,2008,orange,automatic,4/5,gcc,262300,1050.0
+toyota,camry,2018,other,automatic,4/5,us,275000,5950.0
+mitsubishi,galant,2006,white,manual,4/5,gcc,50000,690.0
+nissan,patrol,2020,grey,automatic,4/5,gcc,116000,19500.0
+chevrolet,camaro,2020,white,automatic,2/3,us,61000,10500.0
+toyota,corolla,2021,grey,automatic,4/5,us,119000,4800.0
+nissan,datsun,2014,white,manual,4/5,canada,39000,2900.0
+toyota,land cruiser,2018,white,automatic,4/5,gcc,170000,16800.0
+nissan,pathfinder,2017,white,automatic,4/5,europe,77564,4250.0
+nissan,pathfinder,2019,silver,automatic,4/5,us,53000,4500.0
+hyundai,i20,2013,white,automatic,4/5,gcc,160000,1350.0
+range rover,other,2006,white,automatic,4/5,us,3000,900.0
+mg,mg rx8,2021,white,automatic,4/5,gcc,131000,6500.0
+dodge,durango,2012,gold,automatic,4/5,gcc,197000,2500.0
+hyundai,tucson,2014,black,automatic,4/5,company source,112000,2650.0
+toyota,fortuner,2024,white,automatic,4/5,gcc,25000,15000.0
+toyota,corolla,2010,grey,automatic,4/5,gcc,177000,1950.0
+jeep,wrangler,2023,white,automatic,4/5,us,33000,15000.0
+hyundai,santa fe,2017,white,automatic,4/5,gcc,240000,4100.0
+chevrolet,tahoe,2013,white,automatic,4/5,gcc,240000,5600.0
+nissan,sunny,2018,white,automatic,4/5,gcc,165010,2200.0
+toyota,corolla,2016,silver,automatic,4/5,gcc,183000,3000.0
+jeep,wrangler,2013,green,automatic,2/3,gcc,180000,4200.0
+nissan,xterra,2015,white,automatic,4/5,gcc,334233,4400.0
+toyota,corolla,2015,grey,automatic,4/5,company source,15000,4200.0
+kia,rio,2011,white,automatic,4/5,gcc,200000,1250.0
+genesis,g80,2017,white,automatic,4/5,us,93218,5200.0
+hyundai,accent,2022,red,automatic,4/5,us,20000,3800.0
+nissan,patrol,2013,white,automatic,4/5,gcc,240000,6100.0
+bmw,x4 m,2017,white,automatic,4/5,us,235000,5900.0
+nissan,sunny,2004,silver,automatic,4/5,gcc,560000,900.0
+nissan,sunny,2011,silver,automatic,4/5,company source,483000,1300.0
+chevrolet,silverado,2012,white,automatic,2/3,gcc,265000,3100.0
+chevrolet,tahoe,2017,other,automatic,4/5,canada,159645,7000.0
+renault,koleos,2012,white,automatic,4/5,gcc,276793,1300.0
+nissan,pathfinder,2014,white,automatic,4/5,us,198000,1900.0
+kia,picanto,2008,grey,automatic,4/5,company source,300000,550.0
+toyota,86,2018,white,automatic,2/3,us,85000,3200.0
+jeep,grand cherokee,2017,white,automatic,4/5,gcc,130000,7800.0
+nissan,altima,2005,grey,automatic,4/5,gcc,425000,599.0
+mitsubishi,pajero,2009,white,automatic,4/5,gcc,30000,2000.0
+porsche,macan,2023,burgundy,automatic,4/5,gcc,36000,23500.0
+kia,picanto,2008,grey,automatic,2/3,company source,42500,800.0
+hyundai,kona,2021,silver,automatic,4/5,canada,73000,4700.0
+jeep,wrangler,2014,white,automatic,4/5,us,220000,4500.0
+suzuki,celerio,2015,red,automatic,4/5,gcc,159000,1200.0
+gmc,yukon,2015,brown,automatic,4/5,gcc,305000,7700.0
+mitsubishi,lancer,2009,burgundy,automatic,4/5,gcc,290000,1380.0
+kia,sorento,2008,blue,automatic,4/5,company source,209000,1300.0
+hyundai,tucson,2009,silver,automatic,4/5,gcc,232847,1700.0
+nissan,pathfinder,2022,black,automatic,4/5,us,52000,8300.0
+chevrolet,suburban,2019,grey,automatic,4/5,us,145000,9900.0
+ford,raptor,2018,grey,automatic,4/5,us,180000,13000.0
+mercedes,c200,2008,burgundy,automatic,4/5,gcc,100000,1400.0
+renault,koleos,2014,silver,automatic,4/5,company source,200000,1000.0
+jeep,wrangler,2005,green,manual,2/3,us,230000,2600.0
+toyota,corolla,2016,grey,automatic,4/5,gcc,115000,3950.0
+hyundai,elantra,2017,silver,automatic,4/5,us,99200,2800.0
+ford,expedition,2008,green,automatic,4/5,gcc,300000,1400.0
+mercedes,e 350,2016,grey,automatic,4/5,us,24000,3900.0
+dodge,charger,2017,black,automatic,2/3,canada,191000,4000.0
+kia,cadenza,2018,silver,automatic,4/5,us,95000,5800.0
+jeep,renegade,2019,other,automatic,4/5,us,58516,4600.0
+nissan,pathfinder,2023,green,automatic,4/5,canada,50000,12000.0
+nissan,patrol,2021,gold,automatic,2/3,gcc,140000,16500.0
+cadillac,escalade,2012,black,automatic,4/5,gcc,190000,3900.0
+dodge,caliber,2008,white,automatic,4/5,gcc,20968,700.0
+bmw,x3,2019,white,automatic,4/5,us,110000,8600.0
+ford,focus,2012,white,automatic,4/5,gcc,100000,950.0
+nissan,altima,2022,grey,automatic,4/5,europe,68000,4950.0
+nissan,armada,2006,silver,automatic,4/5,europe,398975,1100.0
+mercedes,s500,2021,white,automatic,4/5,gcc,78000,37500.0
+great wall,other,2012,silver,manual,2/3,company source,250000,1350.0
+geely,coolray,2024,white,automatic,2/3,gcc,39000,5500.0
+kia,cerato,2008,silver,manual,4/5,gcc,199999,750.0
+byd,song plus,2025,silver,automatic,4/5,gcc,3000,13600.0
+toyota,prado,2016,white,automatic,4/5,gcc,160000,8200.0
+jac,j7,2020,silver,automatic,4/5,gcc,6000,2500.0
+audi,q7,2016,gold,automatic,4/5,gcc,190000,8200.0
+mitsubishi,outlander,2017,red,automatic,4/5,gcc,95000,4700.0
+suzuki,swift,2018,black,automatic,4/5,gcc,145000,2950.0
+suzuki,alto,2009,white,automatic,2/3,gcc,10000,650.0
+gmc,sierra,2013,brown,automatic,2/3,gcc,319000,3950.0
+cadillac,xts,2019,black,automatic,4/5,us,168000,5900.0
+honda,accord,2019,white,automatic,4/5,gcc,82000,5900.0
+jeep,compass,2018,grey,automatic,4/5,canada,126000,4200.0
+hyundai,accent,2024,brown,automatic,4/5,gcc,44350,6050.0
+ssang yong,tivoli,2017,purple,automatic,4/5,gcc,180000,1111.0
+nissan,sentra,2013,blue,automatic,2/3,us,15000,1700.0
+mitsubishi,pajero,2008,gold,automatic,4/5,gcc,200000,1900.0
+dodge,durango,2014,red,automatic,4/5,gcc,234000,4000.0
+ram,ram,2018,other,automatic,4/5,us,167000,8200.0
+infiniti,q50,2015,white,automatic,4/5,us,153000,3700.0
+suzuki,jimny,2021,green,automatic,2/3,gcc,97000,6100.0
+mercedes,gla class,2016,silver,automatic,4/5,us,170000,4050.0
+chevrolet,pickup,2009,white,automatic,4/5,gcc,200000,1300.0
+volvo,460,2013,red,automatic,2/3,europe,60000,14500.0
+nissan,altima,2014,white,automatic,4/5,europe,199000,1900.0
+mitsubishi,lancer,2005,white,manual,4/5,company source,999999,600.0
+ford,explorer,2012,silver,automatic,4/5,us,300000,2000.0
+suzuki,ciaz,2019,white,automatic,4/5,gcc,200000,2200.0
+nissan,tiida,2013,blue,automatic,2/3,gcc,300000,1280.0
+toyota,camry,2017,red,automatic,4/5,gcc,180000,2450.0
+hyundai,creta,2023,blue,automatic,4/5,gcc,33000,6500.0
+kia,optima,2013,burgundy,automatic,4/5,us,135000,1650.0
+dodge,durango,2013,grey,automatic,4/5,gcc,235000,1600.0
+nissan,sunny,2000,silver,automatic,2/3,gcc,2016,640.0
+hyundai,sonata,2016,red,automatic,4/5,us,223000,1700.0
+jaguar,xf,2010,grey,automatic,4/5,gcc,192000,1700.0
+ford,fusion,2014,red,automatic,4/5,gcc,135000,2700.0
+honda,civic,2023,white,automatic,4/5,us,45000,6500.0
+hyundai,sonata,2018,white,automatic,4/5,us,145000,3100.0
+land rover,lr4,2010,black,automatic,4/5,gcc,200000,3500.0
+nissan,altima,2016,black,automatic,4/5,us,149000,2650.0
+chevrolet,tahoe,2015,white,automatic,4/5,gcc,266000,6500.0
+mercedes,e 350,2016,beige,automatic,4/5,us,156000,6300.0
+mitsubishi,lancer,2009,blue,automatic,4/5,company source,357000,1000.0
+hyundai,accent,2005,green,manual,4/5,gcc,500000,540.0
+toyota,xa,2006,silver,automatic,4/5,gcc,300000,1500.0
+toyota,camry,2005,silver,automatic,4/5,gcc,400000,1250.0
+gmc,sierra,2014,brown,automatic,2/3,gcc,292000,5700.0
+nissan,sentra,2022,other,automatic,4/5,us,3900,3900.0
+kia,rio,2018,blue,automatic,4/5,gcc,162000,2650.0
+mg,emgrand 8,2015,brown,automatic,4/5,gcc,200000,800.0
+hyundai,tucson,2020,white,automatic,4/5,gcc,90000,6900.0
+honda,civic,2020,silver,automatic,4/5,gcc,55300,5000.0
+mercedes,cla class,2017,red,automatic,4/5,us,135000,8900.0
+toyota,urban cruiser,2025,white,automatic,4/5,gcc,17000,8500.0
+mini,john cooper works,2016,grey,automatic,2/3,gcc,130000,6000.0
+lexus,es 330,2005,black,automatic,4/5,us,377000,1350.0
+toyota,camry,2011,grey,automatic,4/5,us,300000,1550.0
+mitsubishi,asx,2019,white,automatic,4/5,gcc,124650,4300.0
+kia,cerato,2020,white,automatic,4/5,gcc,113000,3700.0
+citroen,c4,2009,white,automatic,4/5,gcc,271000,549.0
+mercedes,e 350,2014,blue,automatic,4/5,us,200000,4400.0
+hyundai,elantra,2012,white,automatic,4/5,gcc,412009,1250.0
+volkswagen,cc,2014,white,automatic,4/5,gcc,220000,1950.0
+kia,cerato,2019,grey,automatic,4/5,gcc,122250,4500.0
+toyota,sienna,2008,blue,automatic,4/5,us,99999,2000.0
+mercedes,c 300,2015,silver,automatic,4/5,us,340000,4400.0
+kia,sportage,2007,silver,automatic,4/5,gcc,3000,1050.0
+cadillac,escalade,2016,black,automatic,4/5,gcc,90000,12400.0
+kia,cerato,2011,orange,automatic,4/5,gcc,300000,1400.0
+nissan,primera,2001,silver,automatic,4/5,gcc,100000,600.0
+nissan,xterra,2015,silver,automatic,4/5,gcc,283000,4600.0
+porsche,cayenne,2008,white,automatic,4/5,gcc,192000,1550.0
+volkswagen,tiguan,2012,blue,automatic,4/5,gcc,300000,1700.0
+suzuki,swift,2008,silver,automatic,4/5,us,400000,930.0
+mitsubishi,montero,2023,silver,automatic,4/5,gcc,36000,11500.0
+mazda,mazda 6,2011,white,automatic,4/5,gcc,425000,1000.0
+infiniti,q50,2018,grey,automatic,4/5,gcc,101000,5000.0
+mercedes,e 350,2021,black,automatic,4/5,us,55000,14150.0
+renault,safrane,2012,white,automatic,4/5,company source,324000,800.0
+honda,civic,2001,beige,automatic,4/5,gcc,318000,550.0
+gmc,acadia,2011,black,automatic,4/5,gcc,280000,1300.0
+kia,sportage,2015,white,automatic,4/5,gcc,305000,2400.0
+toyota,yaris,2024,white,automatic,4/5,company source,5500,5000.0
+hyundai,elantra,2005,white,manual,4/5,gcc,50000,650.0
+nissan,kicks,2019,black,automatic,4/5,us,68000,2800.0
+jeep,compass,2018,other,automatic,4/5,europe,65000,4600.0
+toyota,sequoia,2012,white,automatic,4/5,gcc,266000,7200.0
+toyota,yaris,2009,white,automatic,4/5,company source,2052,1500.0
+toyota,yaris,2006,blue,automatic,4/5,gcc,400000,1350.0
+hyundai,elantra,2018,silver,automatic,4/5,us,220000,2150.0
+hyundai,elantra,2026,silver,automatic,2/3,gcc,305000,2000.0
+jeep,wrangler,2013,orange,manual,2/3,gcc,200000,4300.0
+chrysler,300,2009,gold,automatic,4/5,us,12222,750.0
+bmw,x5,2012,beige,automatic,2/3,gcc,162000,3000.0
+nissan,sentra,2015,red,automatic,4/5,us,149000,1700.0
+honda,accord,2019,blue,automatic,4/5,us,84000,5100.0
+toyota,86,1986,white,manual,2/3,gcc,100001,750.0
+mitsubishi,outlander,2019,grey,automatic,4/5,gcc,67000,6300.0
+nissan,pathfinder,2013,white,automatic,4/5,gcc,200000,2500.0
+dodge,challenger,2013,black,automatic,2/3,us,229535,2000.0
+toyota,corolla,2021,white,automatic,4/5,us,180000,5350.0
+hyundai,elantra,2018,white,automatic,4/5,canada,104000,2900.0
+nissan,murano,2013,brown,automatic,4/5,us,100000,1600.0
+volkswagen,jetta,2012,brown,automatic,4/5,gcc,500000,1150.0
+mercedes,c 300,2017,blue,automatic,4/5,us,118000,5850.0
+mitsubishi,pajero,2015,white,automatic,2/3,gcc,500000,1550.0
+hyundai,accent,2010,white,automatic,4/5,company source,400000,950.0
+mercedes,cla 250,2018,black,automatic,4/5,gcc,102000,4450.0
+kia,optima k5,2022,white,automatic,4/5,us,34000,5500.0
+renault,duster,2016,silver,automatic,4/5,gcc,400000,1200.0
+toyota,corolla,2020,silver,automatic,2/3,us,9999,4300.0
+honda,pilot,2015,white,automatic,4/5,gcc,290000,4400.0
+infiniti,fx45/fx35,2008,black,automatic,4/5,gcc,400000,1050.0
+ram,ram,2020,white,automatic,4/5,us,140000,10500.0
+kia,mohave,2009,white,automatic,4/5,gcc,414617,1400.0
+toyota,avalon,2017,black,automatic,4/5,us,223000,6000.0
+renault,safrane,2010,silver,automatic,4/5,gcc,140000,850.0
+mitsubishi,lancer,2005,blue,manual,2/3,company source,256325,640.0
+renault,fluence,2014,silver,automatic,4/5,gcc,300000,699.0
+toyota,sienna,2017,brown,automatic,4/5,us,12044,5800.0
+kia,sirion,2008,white,automatic,2/3,company source,279541,710.0
+ford,edge,2013,silver,automatic,4/5,gcc,232000,2200.0
+toyota,camry,2014,white,automatic,4/5,us,400000,1900.0
+mazda,6,2011,brown,automatic,4/5,gcc,25000,1900.0
+gmc,acadia,2012,red,automatic,4/5,gcc,180000,1400.0
+honda,accord,2000,white,manual,2/3,gcc,30000,600.0
+kia,rio,2010,white,automatic,4/5,gcc,300000,900.0
+nissan,sunny,2011,beige,automatic,4/5,gcc,253144,1150.0
+lexus,es 300,2021,white,automatic,4/5,us,13000,10500.0
+hyundai,elantra,2015,white,automatic,4/5,gcc,255000,2350.0
+toyota,rav 4,2021,blue,automatic,4/5,us,157000,6900.0
+honda,civic,2003,white,automatic,4/5,gcc,35000,600.0
+ford,explorer,2013,black,automatic,4/5,gcc,300000,2500.0
+kia,sirion,2007,white,manual,2/3,gcc,376000,575.0
+chevrolet,tahoe,2017,silver,automatic,4/5,us,307361,6900.0
+subaru,impreza,2007,burgundy,manual,4/5,gcc,230000,1100.0
+honda,pilot,2019,silver,automatic,4/5,gcc,123580,6300.0
+mitsubishi,lancer,2006,red,automatic,2/3,gcc,200000,900.0
+dodge,charger,2016,red,automatic,4/5,gcc,200000,6500.0
+suzuki,grand vitara,2013,white,automatic,4/5,gcc,159000,1999.0
+audi,q7,2017,gold,automatic,4/5,us,150000,7800.0
+mercedes,gle 350,2020,white,automatic,4/5,company source,31000,18000.0
+hyundai,sonata,2011,silver,automatic,4/5,gcc,240000,1320.0
+toyota,camry,2014,gold,automatic,4/5,us,455000,2500.0
+kia,carnival,2018,blue,automatic,4/5,gcc,52000,6200.0
+volvo,xc60,2015,gold,automatic,4/5,gcc,189000,2400.0
+suzuki,other,2016,burgundy,automatic,4/5,europe,200000,1700.0
+toyota,rav 4,2021,grey,automatic,4/5,canada,54000,9100.0
+hyundai,elantra,2017,grey,automatic,4/5,gcc,200000,2700.0
+toyota,xa,2006,white,automatic,4/5,gcc,450000,800.0
+volkswagen,touareg,2010,silver,automatic,4/5,gcc,306049,1020.0
+range rover,range rover sport,2020,black,automatic,4/5,gcc,105000,21000.0
+lexus,nx 200t,2015,beige,automatic,4/5,gcc,117000,7200.0
+renault,safrane,2011,white,automatic,4/5,gcc,192000,1000.0
+land rover,range rover sport,2016,grey,automatic,4/5,canada,144000,13500.0
+lexus,is 300,1998,silver,automatic,4/5,gcc,300000,900.0
+jeep,wrangler,2018,orange,automatic,2/3,gcc,120000,8800.0
+toyota,rav 4,2014,other,automatic,4/5,us,131000,3600.0
+nissan,rogue,2018,black,automatic,4/5,us,200000,3750.0
+foton,sauvana,2019,white,automatic,4/5,gcc,99300,3000.0
+mitsubishi,lancer,2017,white,automatic,4/5,gcc,157000,2250.0
+mg,emgrand 7,2015,gold,automatic,4/5,company source,400000,650.0
+ford,escape,2014,grey,automatic,4/5,us,180000,2350.0
+hyundai,getz,2010,black,automatic,4/5,gcc,325222,650.0
+nissan,tiida,2012,white,automatic,4/5,us,160000,1150.0
+kia,rio,2008,silver,automatic,4/5,gcc,360000,1050.0
+mercedes,e 350,2013,silver,automatic,2/3,us,170000,2980.0
+nissan,tiida,2011,red,automatic,4/5,gcc,300000,1450.0
+chevrolet,trax,2017,blue,automatic,4/5,gcc,200000,2800.0
+ford,fusion,2018,silver,automatic,4/5,us,281600,2500.0
+mitsubishi,outlander,2023,white,automatic,4/5,gcc,45000,10800.0
+kia,sportage,2018,silver,automatic,4/5,us,137000,3600.0
+toyota,camry,2002,green,automatic,4/5,us,30000,1081.0
+mitsubishi,pajero,2010,white,automatic,4/5,gcc,230000,2700.0
+toyota,corolla,2009,grey,automatic,4/5,us,433500,1350.0
+jeep,cherokee,2018,other,automatic,4/5,us,135000,4500.0
+toyota,corolla,2020,grey,automatic,4/5,us,161000,4000.0
+hyundai,elantra,2011,blue,automatic,4/5,us,230000,1150.0
+gmc,yukon,2007,white,automatic,4/5,gcc,555555,1950.0
+audi,jetta,2013,white,automatic,4/5,company source,190000,1700.0
+honda,civic,2009,other,automatic,4/5,gcc,402849,1400.0
+peugeot,307,2007,red,automatic,4/5,europe,250000,650.0
+nissan,sunny,2013,grey,automatic,4/5,company source,200000,1100.0
+kia,rio,2012,white,automatic,4/5,gcc,450000,1300.0
+kia,sportage,2020,white,automatic,4/5,gcc,110000,4850.0
+honda,city,2005,gold,automatic,4/5,europe,4000,850.0
+nissan,tiida,2008,black,automatic,4/5,company source,615000,850.0
+suzuki,swift,2008,black,automatic,4/5,europe,42000,900.0
+hyundai,veloster,2013,white,automatic,4/5,us,220000,1375.0
+kia,cerato,2010,white,automatic,4/5,gcc,200000,1200.0
+nissan,altima,2007,white,automatic,4/5,gcc,180000,1250.0
+nissan,pathfinder,2006,black,automatic,4/5,us,300000,1200.0
+nissan,sunny,2022,white,automatic,2/3,gcc,56239,3400.0
+toyota,prado,2021,black,automatic,4/5,gcc,163000,12000.0
+dodge,challenger,2022,green,automatic,2/3,canada,48000,5550.0
+jeep,grand cherokee,2017,black,automatic,4/5,us,153000,6000.0
+nissan,tiida,2012,brown,automatic,4/5,us,17762,1350.0
+suzuki,alto,2011,white,manual,4/5,gcc,130000,900.0
+toyota,camry,2015,grey,automatic,4/5,us,199373,3100.0
+gac,gs 3,2021,white,automatic,4/5,gcc,120000,2850.0
+nissan,altima,2015,silver,automatic,4/5,gcc,230000,1850.0
+toyota,corolla,2008,green,manual,4/5,gcc,400000,1100.0
+nissan,370z,2013,grey,automatic,2/3,us,119000,3200.0
+mini,cooper,2015,silver,automatic,2/3,gcc,156000,2300.0
+nissan,sentra,2013,silver,automatic,4/5,gcc,25000,1430.0
+lexus,es 350,2008,silver,automatic,4/5,europe,195000,1650.0
+suzuki,dzire,2018,white,automatic,4/5,gcc,255000,2000.0
+mitsubishi,lancer,2013,silver,automatic,4/5,gcc,200000,1200.0
+gmc,yukon,2015,white,automatic,4/5,gcc,240308,13000.0
+suzuki,apv,2014,grey,manual,4/5,gcc,250000,1400.0
+hyundai,santa fe,2010,burgundy,automatic,4/5,gcc,25000,1300.0
+honda,civic,2004,gold,automatic,4/5,gcc,40000,650.0
+toyota,4runner,2022,white,automatic,4/5,us,4500,13200.0
+mg,mg rx5,2020,black,automatic,4/5,gcc,82000,4300.0
+ssang yong,rexton,2014,brown,automatic,4/5,gcc,235000,1900.0
+lexus,is 350,2022,silver,automatic,4/5,us,56000,12500.0
+lexus,lx 470,2000,brown,automatic,4/5,company source,35000,2500.0
+jeep,wrangler,2015,red,automatic,4/5,gcc,266000,5700.0
+nissan,sunny,2011,silver,automatic,4/5,gcc,350000,1100.0
+jeep,grand cherokee,2012,black,automatic,4/5,gcc,220000,2250.0
+honda,civic,2005,brown,automatic,4/5,company source,300000,650.0
+ford,focus,2015,black,automatic,4/5,us,253337,1120.0
+suzuki,swift,2017,white,automatic,4/5,gcc,180000,2200.0
+mazda,mazda 6,2021,silver,automatic,4/5,gcc,110000,5400.0
+toyota,camry,2020,other,automatic,2/3,us,140000,5200.0
+hyundai,sonata,2019,black,automatic,4/5,us,110000,3300.0
+nissan,patrol,2015,grey,automatic,4/5,gcc,304700,9000.0
+suzuki,swift,2012,red,automatic,4/5,gcc,240000,1550.0
+volvo,xc90,2019,white,automatic,4/5,gcc,85000,14800.0
+nissan,altima,2009,beige,automatic,4/5,us,304000,1100.0
+lexus,es 350,2014,silver,automatic,4/5,us,485042,5300.0
+toyota,corolla hatchback,2024,white,automatic,4/5,us,25000,6900.0
+nissan,maxima,2014,silver,automatic,4/5,us,120000,2000.0
+gmc,sierra,2009,white,automatic,2/3,gcc,220000,3200.0
+genesis,genesis coupe,2015,orange,manual,2/3,us,200000,2500.0
+mercedes,c 43 amg,2019,white,automatic,2/3,us,115000,7700.0
+nissan,altima,2006,grey,automatic,4/5,us,510000,550.0
+fiat,fiorino,2018,white,manual,2/3,gcc,250000,2300.0
+tesla,y,2022,white,automatic,4/5,us,78000,9700.0
+ford,raptor,2023,other,automatic,4/5,gcc,43000,22500.0
+ford,bronco,2021,black,automatic,4/5,us,100000,6400.0
+jeep,wrangler,2017,blue,automatic,4/5,us,75000,5800.0
+hyundai,santa fe,2008,silver,automatic,4/5,gcc,200000,1500.0
+gmc,acadia,2009,beige,automatic,4/5,gcc,170000,800.0
+nissan,versa,2015,blue,automatic,4/5,company source,20000,1650.0
+hummer,h3,2006,red,automatic,4/5,gcc,400000,1600.0
+porsche,cayenne,2005,other,automatic,4/5,europe,27000,1200.0
+honda,accord,2008,black,automatic,2/3,gcc,18000,1500.0
+volkswagen,polo,2013,silver,automatic,4/5,company source,180000,900.0
+mercedes,e 350,2016,black,automatic,4/5,us,80000,5900.0
+toyota,corolla,2018,white,manual,4/5,gcc,175373,4300.0
